@@ -1,0 +1,263 @@
+Contrato de Andalucía 1.docx
+
+**Análisis Previo a la Primera Cláusula:**
+
+El contrato de arrendamiento de vivienda presentado establece las partes involucradas: el arrendador, el arrendatario y el avalista, todos con capacidad jurídica para contratar. Se describen los antecedentes, incluyendo la propiedad de la vivienda, su ubicación, y la intención del arrendatario de alquilarla para uso personal y como vivienda habitual. Se menciona el cumplimiento de la ley de vivienda 2023, proporcionando información detallada sobre la vivienda, como su superficie, antigüedad, servicios, accesibilidad, estado de ocupación, y cualquier protección arquitectónica. Esta información es crucial para asegurar la transparencia y el cumplimiento legal.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Primero.- Regulación:**
+
+Esta cláusula establece que el contrato se rige por la Ley 29/1994 de Arrendamientos Urbanos, modificada por la Ley 4/2013, y por lo pactado en el contrato, aplicándose supletoriamente el Código Civil. La referencia a la normativa vigente es adecuada y necesaria para asegurar que el contrato se ajuste a las leyes aplicables.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Segundo.- Objeto:**
+
+El objeto del contrato es el arrendamiento de una vivienda específica en Sevilla, destinada exclusivamente a la vivienda del arrendatario. Se establece la obligación de comunicar la convivencia de terceros ajenos al ámbito familiar directo. La cláusula es clara en cuanto al uso del inmueble y las condiciones de entrega.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Tercero.- Duración:**
+
+El contrato tiene una duración inicial de un año, prorrogable hasta dos años, con un mínimo de seis meses de arrendamiento. Se establece una indemnización por desistimiento anticipado y penalidades por no abandonar la vivienda al vencimiento. La cláusula es conforme a la normativa, pero la penalización por no abandonar la vivienda podría considerarse elevada.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Cuarto.- Prórroga:**
+
+Se detalla la prórroga del contrato, incluyendo condiciones especiales para grandes tenedores y zonas residenciales tensionadas. La cláusula es detallada y se ajusta a las disposiciones legales actuales, especialmente en cuanto a la protección del arrendatario en situaciones de vulnerabilidad.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Quinto.- Renta y Actualización:**
+
+La renta se fija en euros pero se paga en dólares, con actualizaciones semanales basadas en índices de precios de España y EE.UU. La cláusula podría ser problemática debido a la fluctuación de divisas y la frecuencia de actualización. Además, la resolución por impago de una semana podría considerarse excesiva.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Sexto.- Forma de Pago:**
+
+El pago de la renta se realiza por adelantado mediante transferencia bancaria. La cláusula es clara y común en contratos de arrendamiento, asegurando un método de pago verificable.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Séptimo.- Impuestos:**
+
+El inquilino asume los gastos de comunidad y el IBI, así como otras tasas. Aunque es común que el arrendatario asuma ciertos gastos, la transferencia de todos estos costos podría considerarse abusiva si no se justifica adecuadamente.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Octavo.- Obligaciones de la Parte Arrendataria:**
+
+Se detallan las obligaciones del arrendatario, incluyendo el pago de la renta, el uso del inmueble, y la contratación de un seguro. La obligación de contratar un seguro con notificación al arrendador podría ser considerada excesiva.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Noveno.- Obligaciones de la Arrendadora:**
+
+La arrendadora se compromete a devolver la fianza y comunicar actualizaciones. Sin embargo, no se obliga a realizar reparaciones necesarias, lo cual podría ser ilegal si afecta la habitabilidad.
+
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Décimo.- Causas de Terminación del Arriendo:**
+
+Se enumeran las causas de terminación, incluyendo el impago y el uso indebido del inmueble. La cláusula es detallada y se ajusta a la normativa, aunque algunas causas podrían ser consideradas excesivas.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimoprimero.- Obras:**
+
+El arrendatario no puede realizar obras sin permiso y debe asumir los costos. La prohibición de obras en fachadas es común, pero la obligación de revertir cambios podría ser excesiva si no se especifican condiciones claras.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: S  
+Lagunas: N  
+
+###  
+
+**Decimosegundo.- Conservación:**
+
+El arrendatario debe mantener la vivienda en buen estado y asumir ciertos costos de reparación. La cláusula es común, pero podría ser abusiva si no se especifican claramente las responsabilidades del arrendador.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimotercero.- Suministros:**
+
+El arrendatario asume los costos de suministros y debe realizar cambios de titularidad. La penalización por baja de suministros podría considerarse excesiva.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimocuarto.- Fianza:**
+
+Se establece una fianza y un aval bancario como garantía. La actualización mensual de la fianza podría ser problemática si no se justifica adecuadamente.
+
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimoquinto.- Prohibición del Subarriendo:**
+
+Se prohíbe el subarriendo y la cesión del contrato. Esta cláusula es común y generalmente legal, protegiendo los intereses del arrendador.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimosexto.- Renuncia del Derecho de Adquisición Preferente:**
+
+El arrendatario renuncia a los derechos de tanteo y retracto. Esta renuncia es legal si se hace de manera expresa y consciente.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimoséptimo.- Renuncia a la Subrogación:**
+
+Se renuncia al derecho de subrogación en caso de fallecimiento del arrendatario. Esta cláusula es legal si se acuerda expresamente.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimoctavo.- Jurisdicción:**
+
+Las partes se someten a los juzgados y tribunales de una localidad específica. Esta cláusula es común y legal, siempre que no limite derechos fundamentales.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Decimonoveno.- Notificaciones:**
+
+Se establecen direcciones para notificaciones y comunicaciones electrónicas. La cláusula es clara y asegura la comunicación efectiva entre las partes.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Vigésimo.- Fiador:**
+
+Se establece un fiador solidario que renuncia a ciertos derechos. La cláusula es legal y común en contratos de arrendamiento, asegurando el cumplimiento de las obligaciones del arrendatario.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+###  
+
+**Vigesimoprimero.- Aceptación:**
+
+Las partes aceptan el contrato y sus anexos, comprometiéndose a su cumplimiento de buena fe. Esta cláusula es estándar y asegura el reconocimiento de las obligaciones contractuales.
+
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
