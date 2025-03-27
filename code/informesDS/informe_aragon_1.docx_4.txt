@@ -1,0 +1,368 @@
+Contrato de Aragon 1.docx
+
+### Análisis del Preámbulo y Encabezado del Contrato
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales en esta sección. El encabezado cumple con los requisitos formales de identificación de las partes y la descripción del objeto del contrato.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta parte del contrato. La identificación de las partes y la exposición de los antecedentes son adecuadas y no imponen condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Identificación de las partes:** Asegúrese de que los datos de las partes (DNI/NIE, domicilios, correos electrónicos y teléfonos) sean correctos y estén actualizados para evitar problemas en las comunicaciones futuras.
+- **Avalista:** La inclusión de un avalista es una práctica común, pero debe verificarse que este cumpla con los requisitos legales para garantizar su validez.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta sección. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta parte del contrato. La exposición de los antecedentes y la identificación de las partes están bien fundamentadas en la legislación española.
+
+---
+
+### Primero.- OBJETO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La descripción del objeto del contrato (vivienda en Calle Alfonso 1, Zaragoza) y su destino como vivienda habitual son conformes con la Ley de Arrendamientos Urbanos (LAU).
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es clara y no impone condiciones desproporcionadas al arrendatario.
+
+**3. Áreas de Riesgo:**  
+- **Uso exclusivo como vivienda:** Asegúrese de que el arrendatario cumpla con esta condición para evitar conflictos por usos no autorizados.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Segundo.- PLAZO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La duración inicial de un año y la prórroga tácita son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Prorrogas tácitas:** Asegúrese de que el arrendatario esté informado sobre los plazos para notificar la no renovación del contrato.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Tercero.- DESISTIMIENTO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La posibilidad de desistimiento después de 12 meses y la indemnización proporcional son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La indemnización proporcional es razonable y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Indemnización:** Asegúrese de que el cálculo de la indemnización sea correcto y que se aplique solo en los casos previstos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Cuarto.- PRÓRROGA
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La prórroga obligatoria después de dos años y las condiciones para la no renovación son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Notificación de no renovación:** Asegúrese de que se respeten los plazos de notificación para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Quinto.- RENTA Y ACTUALIZACIÓN
+
+**1. Cláusulas Ilegales:**  
+- **Renta en dólares estadounidenses:** Esta cláusula podría ser ilegal, ya que en España la renta debe establecerse en euros, la moneda de curso legal.
+
+**2. Cláusulas Abusivas:**  
+- **Actualización semanal de la renta:** Esta cláusula podría considerarse abusiva, ya que la LAU establece que la renta solo puede actualizarse anualmente según el IPC.
+
+**3. Áreas de Riesgo:**  
+- **Actualización retroactiva:** Esta práctica podría generar conflictos y reclamaciones por parte del arrendatario.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara, pero el contenido es problemático.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas, pero la cláusula contradice la LAU en varios aspectos.
+
+---
+
+### Sexto.- FORMA DE PAGO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La forma de pago y los plazos son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Costes bancarios:** Asegúrese de que los costes bancarios por impago sean claros y no excesivos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Séptimo.- IMPUESTOS Y GASTOS
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La distribución de los gastos es conforme con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Cambio de titularidad de suministros:** Asegúrese de que el arrendatario cumpla con esta obligación para evitar problemas con los suministros.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Octavo.- CONSERVACIÓN
+
+**1. Cláusulas Ilegales:**  
+- **Exención de responsabilidad del arrendador:** Esta cláusula podría ser ilegal, ya que el arrendador está obligado a mantener la vivienda en condiciones de habitabilidad.
+
+**2. Cláusulas Abusivas:**  
+- **Responsabilidad exclusiva del arrendatario:** Esta cláusula podría considerarse abusiva, ya que el arrendador no puede eximirse de todas las responsabilidades de mantenimiento.
+
+**3. Áreas de Riesgo:**  
+- **Reparaciones:** Asegúrese de que el arrendatario no asuma responsabilidades que corresponden al arrendador.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara, pero el contenido es problemático.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas, pero la cláusula contradice la LAU en varios aspectos.
+
+---
+
+### Noveno.- OBRAS
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La prohibición de obras sin autorización es conforme con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Autorización de obras:** Asegúrese de que el arrendatario cumpla con esta obligación para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Décimo.- SUMINISTROS
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La distribución de responsabilidades sobre los suministros es conforme con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Cambio de titularidad:** Asegúrese de que el arrendatario cumpla con esta obligación para evitar problemas con los suministros.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Undécimo.- PROHIBICIÓN DEL SUBARRIENDO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La prohibición del subarriendo es conforme con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Subarriendo:** Asegúrese de que el arrendatario cumpla con esta prohibición para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Duodécimo.- FIANZA
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La fianza y el aval bancario son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Aval bancario:** Asegúrese de que el aval sea válido y esté vigente durante todo el contrato.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Decimotercero.- OBLIGACIONES DE LA PARTE ARRENDATARIA
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las obligaciones del arrendatario son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Acceso a la vivienda:** Asegúrese de que el arrendatario permita el acceso para inspecciones y reparaciones.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Decimocuarto.- OBLIGACIONES DE LA PARTE ARRENDADORA
+
+**1. Cláusulas Ilegales:**  
+- **Exención de responsabilidad del arrendador:** Esta cláusula podría ser ilegal, ya que el arrendador está obligado a mantener la vivienda en condiciones de habitabilidad.
+
+**2. Cláusulas Abusivas:**  
+- **Exención de responsabilidad:** Esta cláusula podría considerarse abusiva, ya que el arrendador no puede eximirse de todas las responsabilidades de mantenimiento.
+
+**3. Áreas de Riesgo:**  
+- **Reparaciones:** Asegúrese de que el arrendador cumpla con sus obligaciones legales de mantenimiento.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara, pero el contenido es problemático.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas, pero la cláusula contradice la LAU en varios aspectos.
+
+---
+
+### Decimoquinto.- CAUSAS DE TERMINACIÓN DEL ARRIENDO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las causas de terminación son conformes con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Incumplimiento de obligaciones:** Asegúrese de que las causas de terminación sean claras y justificadas.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Decimoctavo.- TANTEO Y RETRACTO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La renuncia al derecho de tanteo y retracto es conforme con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Comunicación de venta:** Asegúrese de que se respeten los plazos de notificación para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la LAU.
+
+---
+
+### Decimonoveno.- JURISDICCIÓN
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La elección de jurisdicción es conforme con la legislación española.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Jurisdicción:** Asegúrese de que la jurisdicción elegida sea la adecuada para ambas partes.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la legislación española.
+
+---
+
+### Vigésimo.- NOTIFICACIONES
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La designación de direcciones para notificaciones es conforme con la legislación española.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Notificaciones electrónicas:** Asegúrese de que las notificaciones electrónicas sean válidas y se cumplan los requisitos legales.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La redacción es clara y precisa.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está bien fundamentada en la legislación española.
+
+---
+
+### Vigesimoprimero.- ACEPTACIÓN
+
+**1. Cláusulas Ilegales:**  
+No

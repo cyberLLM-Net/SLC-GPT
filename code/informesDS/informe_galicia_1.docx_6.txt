@@ -1,0 +1,97 @@
+Contrato de Galicia 1.docx
+
+### Análisis Preliminar (Antes de la Primera Cláusula)
+
+1. **Identificación de las Partes**:  
+   - **Legalidad**: Correcta identificación de arrendador, arrendatario y avalistas con datos esenciales (DNI/NIF, domicilio, etc.).  
+   - **Riesgos**: Falta completar datos específicos (nombres, domicilios, etc.), lo que podría generar incertidumbre en la ejecución del contrato.  
+   - **Términos vagos**: No aplica.  
+
+2. **Exposiciones (Primero y Segundo)**:  
+   - **Legalidad**: Declaraciones sobre propiedad y destino del inmueble son legales y ajustadas a la LAU.  
+   - **Riesgos**: La referencia catastral y registral debe verificarse para evitar errores materiales.  
+   - **Lagunas jurídicas**: No se detectan.  
+
+---
+
+### PRIMERA. LEGISLACIÓN APLICABLE  
+- **Legalidad**: Correcta referencia a la LAU y normativa complementaria.  
+- **Abusividad**: No.  
+- **Riesgos**: Ninguno relevante.  
+- **Lagunas**: No.  
+
+---
+
+### SEGUNDA. OBJETO  
+- **Legalidad**: Descripción detallada del inmueble y declaración de estado.  
+- **Abusividad**: No, pero la cláusula de "perfecto estado" podría ser problemática si no se adjunta un acta de entrega detallada.  
+- **Riesgos**: Falta completar superficie construida/útil.  
+- **Términos vagos**: "Perfecto estado" sin inventario notarial puede ser subjetivo.  
+
+---
+
+### TERCERA. DESTINO  
+- **Legalidad**: Ajustada al art. 5 LAU (vivienda habitual).  
+- **Abusividad**: Prohibición absoluta de otros usos sin consentimiento es legal, pero restrictiva.  
+- **Riesgos**: La resolución automática por cambio de destino podría requerir intervención judicial.  
+
+---
+
+### CUARTA. DURACIÓN  
+- **Legalidad**: Plazo mínimo de 1 año cumple con el art. 9 LAU.  
+- **Abusividad**: La obligación de abandonar el inmueble al finalizar sin prórroga tácita podría ser cuestionable si no se ajusta a la LAU.  
+- **Riesgos**: Conflicto con prórrogas legales si no se notifica correctamente.  
+
+---
+
+### QUINTA. PRÓRROGA OBLIGATORIA Y EXTRAORDINARIA  
+- **Legalidad**:  
+  - **Ilegalidad parcial**: La renuncia a la prórroga extraordinaria (art. 10.3 LAU) en zonas tensionadas (Ley 12/2023) es **ilegal**, ya que la ley es imperativa.  
+  - La necesidad del arrendador (art. 9.3 LAU) está bien recogida.  
+- **Abusividad**: Sí, en la renuncia a prórrogas legales.  
+- **Riesgos**: Nulidad de la cláusula de renuncia a prórrogas extraordinarias.  
+
+---
+
+### SEXTA. RENTA  
+- **Legalidad**:  
+  - **Ilegalidad**: El pago en dólares estadounidenses vulnera el art. 7.1 LAU (renta en euros).  
+  - La resolución por impago de una semana es desproporcionada (art. 27 LAU exige mora "significativa").  
+- **Abusividad**: Sí, por exigir pago en moneda extranjera y plazo mínimo de impago.  
+- **Riesgos**: Nulidad de la cláusula de pago en dólares y posible impugnación del desahucio por impago mínimo.  
+
+---
+
+### SÉPTIMA. REVISIÓN DE LA RENTA  
+- **Legalidad**:  
+  - **Ilegalidad**: La revisión semanal (en lugar de anual) y retroactiva vulnera el art. 18 LAU.  
+- **Abusividad**: Sí, por frecuencia excesiva y retroactividad.  
+- **Riesgos**: Nulidad de la revisión semanal.  
+
+---
+
+### OCTAVA. OBLIGACIONES DEL ARRENDATARIO  
+- **Legalidad**:  
+  - **Ilegalidad**: El seguro de responsabilidad civil obligatorio (150.000 €) no está previsto en la LAU.  
+- **Abusividad**: Sí, por imponer obligaciones no legales (seguro).  
+- **Riesgos**: Nulidad de la exigencia del seguro.  
+
+---
+
+### NOVENA. OBLIGACIONES DEL ARRENDADOR  
+- **Legalidad**: Correcta, salvo que el seguro de daños no es obligatorio salvo pacto.  
+- **Riesgos**: Ninguno relevante.  
+
+---
+
+### DÉCIMA. GASTOS Y SUMINISTROS  
+- **Legalidad**:  
+  - **Ilegalidad**: El IBI y gastos de comunidad son obligación del arrendador (art. 20 LAU), no del inquilino.  
+- **Abusividad**: Sí, por trasladar gastos propios del arrendador.  
+- **Riesgos**: Nulidad de la cláusula que traslada IBI/comunidad al inquilino.  
+
+--- 
+
+*(Continuará...)*  
+
+**Nota**: El contrato contiene múltiples cláusulas ilegales/abusivas (pago en dólares, revisión semanal, seguro obligatorio, gastos IBI, etc.) que deben revisarse para evitar nulidades y riesgos legales. Se recomienda ajustarlo a la LAU y normativa vigente.

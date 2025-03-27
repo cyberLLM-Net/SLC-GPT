@@ -1,0 +1,99 @@
+Contrato de Canarias 1.docx
+
+### Análisis Preliminar (Antes de la Primera Cláusula)  
+**1. Identificación de las Partes y Capacidad Jurídica**  
+- **Legalidad**: Correcta identificación de las partes (arrendadora y arrendatario) y declaración de capacidad jurídica. No se detectan irregularidades.  
+- **Riesgos**: Ninguno relevante. La mención al "período académico" (en antecedentes) podría generar ambigüedad sobre la duración real del contrato si no se vincula expresamente a la cláusula de duración.  
+- **Términos vagos**: "Período académico" no está definido en el contrato, lo que podría generar interpretaciones divergentes.  
+
+---
+
+### PRIMERO.- OBJETO  
+**1. Legalidad**: Legal. El objeto (habitación para vivienda) cumple con el art. 2 LAU (Ley de Arrendamientos Urbanos).  
+**2. Abusividad**: No. La exclusividad de uso como vivienda es estándar.  
+**3. Riesgos**: La mención a "una habitación" podría plantear dudas sobre si el contrato es de vivienda o de habitación (regulado por normas autonómicas en Canarias). Esto podría afectar a la aplicación de la LAU.  
+**4. Términos vagos**: "Habitación" no se especifica si incluye uso de zonas comunes.  
+**5. Laguna jurídica**: No. La LAU regula claramente el arrendamiento de vivienda.  
+
+---
+
+### SEGUNDO.- DURACIÓN  
+**1. Legalidad**: Legal. El plazo de 12 meses es conforme al art. 9 LAU (mínimo 5 años para vivienda, pero con pacto en contrario para duración menor).  
+**2. Abusividad**: No, siempre que el arrendatario conozca y acepte la limitación temporal.  
+**3. Riesgos**: Si el arrendatario es estudiante, podría invocar protección como vivienda habitual, exigiendo prórroga hasta 5 años (art. 9.1 LAU).  
+**4. Términos vagos**: Ninguno.  
+**5. Laguna jurídica**: No.  
+
+---
+
+### TERCERO.- RENTA  
+**1. Legalidad**: Legal, pero incompleta. Falta cuantía de la renta (…€), lo que invalida el pacto por indeterminación (art. 1278 CC).  
+**2. Abusividad**: No aplicable por falta de concreción.  
+**3. Riesgos**: Sin renta fijada, el contrato podría ser impugnado por falta de objeto cierto.  
+**4. Términos vagos**: "Incluidos los gastos de comunidad" no especifica si cubre todos los servicios (ej. ascensor, piscina).  
+**5. Laguna jurídica**: No.  
+
+---
+
+### CUARTO.- GASTOS  
+**1. Legalidad**: Legal, pero con matices. El art. 20 LAU permite imputar gastos al arrendatario, pero debe justificarse su proporcionalidad.  
+**2. Abusividad**: Potencialmente abusivo si no se detalla cómo se calcula la "parte proporcional" (art. 85 TRLGDCU).  
+**3. Riesgos**: Incluir "internet" como gasto compartido podría ser discutible si no es un servicio esencial.  
+**4. Términos vagos**: "Parte proporcional" no está definida.  
+**5. Laguna jurídica**: No.  
+
+---
+
+### QUINTO.- FIANZA  
+**1. Legalidad**: Legal, pero incompleta. Falta cuantía (…€), lo que la hace ineficaz. El máximo es 2 mensualidades (art. 36 LAU).  
+**2. Abusividad**: No aplicable por falta de concreción.  
+**3. Riesgos**: Sin fianza fijada, no hay garantía para el arrendador.  
+**4. Términos vagos**: Ninguno.  
+**5. Laguna jurídica**: No.  
+
+---
+
+### SEXTO.- OBLIGACIONES DEL ARRENDATARIO  
+**1. Legalidad**: Mayormente legal, pero con riesgos:  
+   - "Pequeñas reparaciones por desgaste ordinario" debe interpretarse según art. 21.4 LAU (solo mantenimiento menor).  
+   - "Deterioro imputable" es legal, pero debe probarse la culpa.  
+**2. Abusividad**:  
+   - **Abusivo**: Obligar a comunicar incidencias en 24 horas es desproporcionado (art. 85 TRLGDCU).  
+   - **Abusivo**: "Normas estatutarias de la Comunidad" no están detalladas, pudiendo imponer cargas excesivas.  
+**3. Riesgos**: La cláusula no distingue entre reparaciones ordinarias (arrendador) y extraordinarias (arrendatario).  
+**4. Términos vagos**: "Pequeñas reparaciones", "deterioro imputable".  
+**5. Laguna jurídica**: No.  
+
+---
+
+### SÉPTIMO.- OBLIGACIONES DE LA ARRENDADORA  
+**1. Legalidad**: Legal. La actualización por IPC y reparación de servicios comunes son obligaciones legales (arts. 18 y 21 LAU).  
+**2. Abusividad**: No.  
+**3. Riesgos**: No se menciona el plazo para reparaciones, lo que podría generar conflictos.  
+**4. Términos vagos**: "Servicios comunes que dejaren de funcionar" no especifica plazos o prioridades.  
+**5. Laguna jurídica**: No.  
+
+---
+
+### OCTAVO.- CAUSAS DE TERMINACIÓN  
+**1. Legalidad**: Parcialmente legal. Algunas causas son válidas (falta de pago, uso ilícito), pero:  
+   - **Ilegal**: Terminar por incumplimiento del "pacto Séptimo" (obligaciones arrendadora) es nulo (art. 55.1 LAU protege al arrendatario).  
+   - **Ilegal**: Exigir "vivienda habitual durante el período académico" contradice el art. 9 LAU (derecho a prórroga).  
+**2. Abusividad**:  
+   - **Abusivo**: Causas como "actividades molestas" son subjetivas y pueden usarse para desahucios injustificados.  
+**3. Riesgos**: La cláusula mezcla causas legales e ilegales, pudiendo invalidarse parcialmente.  
+**4. Términos vagos**: "Actividades nocivas, molestas o peligrosas" no están definidas.  
+**5. Laguna jurídica**: No.  
+
+--- 
+
+### **Conclusiones Generales**  
+- **Cláusulas ilegales/abusivas**: Obligación de comunicar incidencias en 24h, normas estatutarias no definidas, terminación por incumplimiento del arrendador, y requisito de "vivienda habitual en período académico".  
+- **Riesgos principales**: Indeterminación de renta y fianza, ambigüedad en reparaciones y gastos, y causas de terminación imprecisas.  
+- **Recomendaciones**:  
+  1. Concretar renta, fianza y proporción de gastos.  
+  2. Eliminar cláusulas abusivas (plazo 24h, normas estatutarias genéricas).  
+  3. Ajustar causas de terminación a la LAU.  
+  4. Definir "habitación" y su acceso a zonas comunes.  
+
+*Nota: El contrato parece diseñado para estudiantes, pero debe adaptarse a la LAU para evitar impugnaciones.*

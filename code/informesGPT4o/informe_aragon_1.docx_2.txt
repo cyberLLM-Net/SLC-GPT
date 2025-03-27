@@ -1,0 +1,319 @@
+Contrato de Aragon 1.docx
+
+**Análisis Previo a las Cláusulas:**
+
+El contrato de arrendamiento de vivienda presentado establece las partes involucradas, es decir, la parte arrendadora, la parte arrendataria y un avalista. Se identifican claramente los datos personales y de contacto de cada parte, lo cual es esencial para la validez y eficacia de las notificaciones y comunicaciones futuras. Además, se menciona que las partes tienen la capacidad legal necesaria para celebrar el contrato, lo cual es un requisito fundamental en el derecho contractual español.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección introductoria.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección introductoria.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas en esta sección introductoria.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección introductoria.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección introductoria.
+
+### 
+
+**Primero.- Objeto:**
+
+Esta cláusula establece que el objeto del contrato es el arrendamiento de una vivienda específica para su uso como residencia habitual por parte del arrendatario. Es fundamental que el objeto del contrato esté claramente definido para evitar futuras disputas sobre el uso de la propiedad.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad en esta cláusula.
+
+2.2. Cláusulas Abusivas: No se considera abusiva, ya que define claramente el uso de la vivienda.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Segundo.- Plazo:**
+
+La cláusula establece un plazo inicial de un año con prórrogas automáticas hasta un máximo de dos años, salvo que el inquilino notifique su intención de no renovar. Esto está en línea con la Ley de Arrendamientos Urbanos (LAU) que permite prórrogas automáticas hasta un máximo de cinco años.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva, ya que respeta el marco legal.
+
+2.3. Áreas de Riesgo: Existe el riesgo de que el inquilino no notifique a tiempo su intención de no renovar, lo que podría llevar a una prórroga no deseada.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Tercero.- Desistimiento:**
+
+Permite al inquilino desistir del contrato tras 12 meses, con una indemnización proporcional a la renta de un mes por los meses restantes del año. Esto es conforme a la LAU, que permite el desistimiento con preaviso y posible indemnización.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva, ya que está en línea con la normativa.
+
+2.3. Áreas de Riesgo: El cálculo de la indemnización puede ser un área de disputa si no se realiza correctamente.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Cuarto.- Prórroga:**
+
+Establece prórrogas obligatorias por anualidades hasta un máximo de tres años, con condiciones específicas para la recuperación de la vivienda por el arrendador. Esto es conforme a la LAU, que permite la recuperación de la vivienda por necesidad del arrendador.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva, ya que sigue el marco legal.
+
+2.3. Áreas de Riesgo: La necesidad de la vivienda por parte del arrendador debe estar claramente justificada para evitar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Quinto.- Renta y Actualización:**
+
+La renta se fija en euros pero se paga en dólares, con actualizaciones semanales basadas en el IPC español o estadounidense. Esto puede generar complicaciones debido a la fluctuación de divisas y la frecuencia de actualización.
+
+2.1. Cláusulas Ilegales: La frecuencia de actualización semanal puede ser cuestionable, ya que la LAU permite actualizaciones anuales.
+
+2.2. Cláusulas Abusivas: La obligación de pagar en dólares podría considerarse abusiva si no se justifica adecuadamente.
+
+2.3. Áreas de Riesgo: La fluctuación de divisas y la frecuencia de actualización son áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: La falta de claridad sobre cómo se manejarán las diferencias de cambio podría ser una laguna.
+
+### 
+
+**Sexto.- Forma de Pago:**
+
+El pago se realiza por adelantado y los costos bancarios son a cargo del arrendatario. Esto es común en contratos de arrendamiento.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: Los costos bancarios pueden ser un área de disputa si no están claramente definidos.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Séptimo.- Impuestos y Gastos:**
+
+El inquilino asume todos los gastos de suministros, comunidad e IBI. Esto es común, pero la obligación de pagar el IBI puede ser cuestionable, ya que generalmente corresponde al propietario.
+
+2.1. Cláusulas Ilegales: La obligación de pagar el IBI podría considerarse ilegal si no se justifica adecuadamente.
+
+2.2. Cláusulas Abusivas: La obligación de pagar el IBI podría considerarse abusiva.
+
+2.3. Áreas de Riesgo: La obligación de pagar el IBI es un área de riesgo.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: La falta de claridad sobre la justificación del pago del IBI podría ser una laguna.
+
+### 
+
+**Octavo.- Conservación:**
+
+El propietario no se obliga a realizar reparaciones, lo cual es contrario a la LAU, que establece que el arrendador debe realizar reparaciones necesarias para conservar la vivienda en condiciones de habitabilidad.
+
+2.1. Cláusulas Ilegales: Esta cláusula es ilegal según la LAU.
+
+2.2. Cláusulas Abusivas: Esta cláusula es abusiva, ya que impone al inquilino obligaciones que corresponden al propietario.
+
+2.3. Áreas de Riesgo: La falta de reparaciones puede llevar a disputas legales.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Noveno.- Obras:**
+
+Prohíbe al inquilino realizar obras sin permiso y establece que las obras autorizadas serán a cargo del inquilino. Esto es común en contratos de arrendamiento.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: La falta de claridad sobre qué constituye una "obra" puede ser un área de disputa.
+
+2.4. Términos Vagos: El término "obra" podría ser considerado vago si no se define adecuadamente.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Décimo.- Suministros:**
+
+La cláusula está incompleta, lo que puede generar confusión sobre las obligaciones relacionadas con los suministros.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: La falta de claridad sobre las obligaciones relacionadas con los suministros es un área de riesgo.
+
+2.4. Términos Vagos: La cláusula está incompleta, lo que la hace vaga.
+
+2.5. Lagunas Jurídicas: La falta de contenido en esta cláusula es una laguna jurídica.
+
+### 
+
+**Undécimo.- Prohibición del Subarriendo:**
+
+Prohíbe el subarriendo y la cesión del contrato, lo cual es común y legal en contratos de arrendamiento.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Duodécimo.- Fianza:**
+
+Establece una fianza de 200 euros y un aval bancario de 1.000 euros. La fianza es conforme a la LAU, pero el aval adicional podría ser considerado excesivo.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: El aval bancario podría considerarse abusivo si no se justifica adecuadamente.
+
+2.3. Áreas de Riesgo: La exigencia de un aval bancario es un área de riesgo si no se justifica.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Decimotercero.- Obligaciones de la Parte Arrendataria:**
+
+Establece diversas obligaciones para el inquilino, como el pago de la renta, el mantenimiento de la vivienda y la contratación de un seguro. Estas obligaciones son comunes, pero algunas pueden ser excesivas, como la obligación de mantener un seguro.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: La obligación de mantener un seguro podría considerarse abusiva si no se justifica.
+
+2.3. Áreas de Riesgo: La falta de cumplimiento de estas obligaciones puede llevar a disputas legales.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Decimocuarto.- Obligaciones de la Parte Arrendadora:**
+
+Establece que el arrendador no está obligado a realizar reparaciones, lo cual es contrario a la LAU.
+
+2.1. Cláusulas Ilegales: Esta cláusula es ilegal según la LAU.
+
+2.2. Cláusulas Abusivas: Esta cláusula es abusiva, ya que impone al inquilino obligaciones que corresponden al propietario.
+
+2.3. Áreas de Riesgo: La falta de reparaciones puede llevar a disputas legales.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Decimoquinto.- Causas de Terminación del Arriendo:**
+
+Establece diversas causas de terminación, algunas de las cuales son comunes y legales, pero otras pueden ser excesivas, como la falta de pago de una sola mensualidad.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: La terminación por falta de pago de una sola mensualidad podría considerarse abusiva.
+
+2.3. Áreas de Riesgo: La terminación del contrato por causas excesivas es un área de riesgo.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Decimoctavo.- Tanteo y Retracto:**
+
+El inquilino renuncia a los derechos de tanteo y retracto, lo cual es legal si se hace de manera expresa.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Decimonoveno.- Jurisdicción:**
+
+Las partes se someten a la jurisdicción de los tribunales civiles de una localidad no especificada, lo cual es común en contratos de arrendamiento.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: La falta de especificación de la jurisdicción es un área de riesgo.
+
+2.4. Términos Vagos: La falta de especificación de la jurisdicción es un término vago.
+
+2.5. Lagunas Jurídicas: La falta de especificación de la jurisdicción es una laguna jurídica.
+
+### 
+
+**Vigésimo.- Notificaciones:**
+
+Establece las direcciones para notificaciones, lo cual es esencial para la validez de las comunicaciones.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.
+
+### 
+
+**Vigésimoprimero.- Aceptación:**
+
+Las partes aceptan el contrato y sus efectos jurídicos, lo cual es esencial para la validez del contrato.
+
+2.1. Cláusulas Ilegales: No se identifica ilegalidad.
+
+2.2. Cláusulas Abusivas: No se considera abusiva.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas.
+
+2.4. Términos Vagos: No se identifican términos vagos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas.

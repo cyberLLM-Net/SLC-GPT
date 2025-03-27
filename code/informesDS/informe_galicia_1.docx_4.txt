@@ -1,0 +1,300 @@
+Contrato de Galicia 1.docx
+
+### Análisis del Preámbulo del Contrato
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales en el preámbulo. Este apartado cumple con los requisitos formales de identificación de las partes (arrendador, arrendatario y avalistas), así como con la declaración de capacidad y legitimación para otorgar el contrato.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en este apartado. El preámbulo se limita a describir a las partes y su capacidad para contratar, sin imponer condiciones desequilibradas.
+
+**3. Áreas de Riesgo:**  
+- **Identificación de las partes:** Aunque no es un riesgo inmediato, es importante que los datos de las partes (nombres, DNI/NIF, domicilios) estén correctamente completados para evitar futuros problemas de identificación o notificaciones.
+- **Avalistas:** La inclusión de avalistas personales y solidarios es una práctica común, pero debe asegurarse que estos comprendan plenamente sus obligaciones, ya que asumen responsabilidades significativas en caso de incumplimiento del arrendatario.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en este apartado. Las descripciones son claras y específicas.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en este apartado. El preámbulo cumple con los requisitos legales para la identificación de las partes y la declaración de capacidad.
+
+---
+
+### Análisis de la Cláusula PRIMERA (Legislación Aplicable)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La referencia a la Ley 29/1994 de Arrendamientos Urbanos (LAU), modificada por la Ley 4/2013 y el Real Decreto-ley 7/2019, es correcta y ajustada a la normativa vigente.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La referencia a la legislación aplicable es estándar y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Actualización normativa:** Aunque se mencionan las leyes aplicables, es importante que el arrendador y el arrendatario estén al tanto de posibles modificaciones futuras en la legislación que puedan afectar al contrato.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara y precisa en su referencia a la legislación aplicable.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula establece de manera adecuada el marco legal aplicable al contrato.
+
+---
+
+### Análisis de la Cláusula SEGUNDA (Objeto)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La descripción del inmueble y su estado de conservación es adecuada y cumple con los requisitos legales.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La cláusula es equilibrada y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Superficie construida y útil:** La cláusula no especifica los metros cuadrados construidos y útiles, lo que podría generar discrepancias futuras. Es recomendable completar estos datos.
+- **Estado de conservación:** Aunque se menciona que el arrendatario recibe la vivienda en perfecto estado, es importante que se adjunte un inventario detallado y fotografías para evitar futuras reclamaciones.
+
+**4. Términos Vagos:**  
+- **"Perfecto estado de conservación":** Este término puede ser subjetivo. Se recomienda especificar qué se entiende por "perfecto estado" o adjuntar un informe técnico que detalle el estado de la vivienda.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula cumple con los requisitos legales para describir el objeto del contrato.
+
+---
+
+### Análisis de la Cláusula TERCERA (Destino)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La limitación del uso de la vivienda a vivienda habitual es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La prohibición de uso comercial o profesional sin consentimiento del arrendador es razonable y está en línea con la normativa.
+
+**3. Áreas de Riesgo:**  
+- **Cambio de destino:** La cláusula establece que el cambio de destino sin autorización escrita es causa de resolución contractual. Esto puede generar conflictos si el arrendatario intenta modificar el uso de la vivienda.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto al destino de la vivienda.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula CUARTA (Duración del Contrato)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La duración inicial de un año es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La duración y las condiciones de finalización son estándar.
+
+**3. Áreas de Riesgo:**  
+- **Abandono de la vivienda:** La cláusula establece que el arrendatario debe abandonar la vivienda al finalizar el contrato. Es importante que se especifiquen los plazos y procedimientos para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a la duración del contrato.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula cumple con los requisitos legales.
+
+---
+
+### Análisis de la Cláusula QUINTA (Prórroga Obligatoria y Extraordinaria)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La prórroga tácita y las condiciones de renovación son conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. Las condiciones de prórroga y desistimiento son equilibradas.
+
+**3. Áreas de Riesgo:**  
+- **Desistimiento anticipado:** La cláusula establece que el arrendatario puede desistir del contrato después de 12 meses, pero debe indemnizar al arrendador. Esto puede generar conflictos si no se especifica claramente el cálculo de la indemnización.
+- **Prórroga extraordinaria:** La renuncia a la prórroga extraordinaria en zonas de mercado tensionado puede ser problemática si no se justifica adecuadamente.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a las condiciones de prórroga y desistimiento.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula SEXTA (Renta)
+
+**1. Cláusulas Ilegales:**  
+- **Pago en dólares estadounidenses:** Esta cláusula podría ser ilegal, ya que en España los contratos de arrendamiento deben establecerse en euros, la moneda de curso legal.
+
+**2. Cláusulas Abusivas:**  
+- **Resolución por impago de una semana:** La cláusula establece que el impago de una semana de renta es causa suficiente para resolver el contrato. Esto podría considerarse abusivo, ya que la LAU establece que el impago debe ser significativo y reiterado para justificar la resolución.
+
+**3. Áreas de Riesgo:**  
+- **Pago en dólares:** Esta práctica puede generar problemas legales y de tipo de cambio, especialmente si el arrendatario no está de acuerdo con esta modalidad de pago.
+- **Resolución por impago:** La posibilidad de resolver el contrato por el impago de una sola semana de renta puede ser considerada desproporcionada y generar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto al monto y forma de pago de la renta.
+
+**5. Lagunas Jurídicas:**  
+- **Pago en dólares:** Esta cláusula podría ser considerada ilegal, ya que en España los contratos deben establecerse en euros.
+
+---
+
+### Análisis de la Cláusula SÉPTIMA (Revisión de la Renta)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La revisión de la renta conforme al IPC es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La revisión de la renta es estándar y no impone condiciones desproporcionadas.
+
+**3. Áreas de Riesgo:**  
+- **Revisión semanal:** La cláusula establece una revisión semanal de la renta, lo que puede ser complicado de gestionar y generar confusiones. Es más común realizar revisiones anuales.
+- **Retroactividad:** La aplicación retroactiva de las revisiones puede generar conflictos si no se gestiona adecuadamente.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a la revisión de la renta.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula OCTAVA (Obligaciones de la Parte Arrendataria)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las obligaciones del arrendatario son conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+- **Póliza de responsabilidad civil:** La obligación de suscribir una póliza de responsabilidad civil con un capital mínimo de 150.000 € podría considerarse abusiva si no se justifica adecuadamente.
+
+**3. Áreas de Riesgo:**  
+- **Póliza de responsabilidad civil:** Esta obligación puede ser onerosa para el arrendatario y generar conflictos si no se justifica adecuadamente.
+- **Reparaciones menores:** La obligación del arrendatario de sufragar las pequeñas reparaciones puede generar discrepancias sobre qué se considera "pequeñas reparaciones".
+
+**4. Términos Vagos:**  
+- **"Pequeñas reparaciones":** Este término puede ser subjetivo y generar conflictos. Se recomienda especificar qué se entiende por "pequeñas reparaciones".
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula NOVENA (Obligaciones de la Arrendadora)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las obligaciones del arrendador son conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. Las obligaciones del arrendador son equilibradas.
+
+**3. Áreas de Riesgo:**  
+- **Seguro de daños:** La obligación del arrendador de contratar un seguro de daños es estándar, pero es importante que se especifiquen las coberturas para evitar futuras reclamaciones.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a las obligaciones del arrendador.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula DÉCIMA (Gastos y Suministros)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La distribución de gastos y suministros es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La distribución de gastos es equilibrada.
+
+**3. Áreas de Riesgo:**  
+- **Cambio de titularidad de suministros:** La obligación del arrendatario de cambiar la titularidad de los suministros en 7 días puede ser complicada de cumplir y generar conflictos si no se gestiona adecuadamente.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a la distribución de gastos y suministros.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula UNDÉCIMA (Intereses de Demora)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La aplicación de intereses de demora es conforme a la legislación.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. Los intereses de demora son estándar y no excesivos.
+
+**3. Áreas de Riesgo:**  
+- **Cálculo de intereses:** Es importante que se especifique claramente cómo se calcularán los intereses de demora para evitar conflictos.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a los intereses de demora.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula DUODÉCIMA (Fianza)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La fianza es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La fianza es estándar y no excesiva.
+
+**3. Áreas de Riesgo:**  
+- **Actualización de la fianza:** La cláusula establece que la fianza se actualizará mensualmente, lo que puede generar confusiones si no se especifica cómo se realizará esta actualización.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a la fianza.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula DECIMOTERCERA (Garantías Adicionales)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La exigencia de un aval bancario es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. La exigencia de un aval bancario es estándar y no excesiva.
+
+**3. Áreas de Riesgo:**  
+- **Mantenimiento del aval:** La obligación del arrendatario de mantener el aval vigente durante toda la duración del contrato puede ser onerosa y generar conflictos si no se gestiona adecuadamente.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a las garantías adicionales.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula DECIMOCUARTA (Conservación, Mejora, Obras y Habitabilidad)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las obligaciones de conservación y mejora son conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas. Las obligaciones son equilibradas.
+
+**3. Áreas de Riesgo:**  
+- **Prohibición de obras:** La prohibición de realizar obras sin autorización escrita puede generar conflictos si el arrendatario necesita realizar mejoras para su comodidad.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos. La cláusula es clara en cuanto a las obligaciones de conservación y mejora.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas. La cláusula está en consonancia con la legislación aplicable.
+
+---
+
+### Análisis de la Cláusula DECIMOQUINTA (Derecho de Adquisición Preferente)
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La renuncia al derecho de adquisición preferente es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No

@@ -1,0 +1,106 @@
+Contrato de Galicia 1.docx
+
+### **Análisis Preliminar (Encabezado y Exposiciones)**  
+1. **Ilegalidad**: No se detectan cláusulas ilegales en esta sección.  
+2. **Abusividad**: No hay elementos abusivos, pero la falta de datos concretos (nombres, DNI, etc.) podría generar inseguridad jurídica si no se completan.  
+3. **Áreas de riesgo**:  
+   - Omisión de datos identificativos completos (requiere verificación *in situ*).  
+   - La referencia a "familia" sin definir su alcance (puede generar conflictos sobre quiénes son considerados familiares).  
+4. **Términos vagos**:  
+   - "Familiares en primer grado" (debería especificar si incluye parejas de hecho no registradas).  
+   - "Estado de conservación perfecto" (subjetivo; se recomienda adjuntar acta de entrega detallada).  
+5. **Lagunas jurídicas**: Ninguna relevante.  
+
+---  
+
+### **PRIMERO (Propiedad y Certificación Energética)**  
+1. **Ilegalidad**: No. Cumple con el RD 235/2013 al adjuntar el certificado energético.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Falta de número de registro de la propiedad completo (debe completarse para garantizar seguridad jurídica).  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SEGUNDO (Objeto del Contrato)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No, pero la cláusula que obliga al arrendatario a aceptar el estado "perfecto" sin un acta firmada podría ser impugnada si no hay prueba documental.  
+3. **Áreas de riesgo**:  
+   - Superficies construida/útil no especificadas (debe completarse para evitar disputas).  
+   - Declaración del arrendador sobre cargas/gravámenes sin prueba documental (riesgo si hay omisiones).  
+4. **Términos vagos**: "Perfecto estado de conservación" (debería definirse con inventario).  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **TERCERA (Destino como Vivienda Habitual)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No, pero la prohibición absoluta de actividades profesionales podría ser excesiva si no afecta al uso residencial (ej. teletrabajo ocasional).  
+3. **Áreas de riesgo**:  
+   - "Familia" no definida (puede generar conflictos sobre convivientes no tradicionales).  
+4. **Términos vagos**: "Expreso consentimiento" (no especifica formato escrito/verbal).  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **CUARTA (Duración y Plazo Obligatorio)**  
+1. **Ilegalidad**: No. El plazo mínimo de 1 año es conforme al art. 9 LAU.  
+2. **Abusividad**:  
+   - La obligación de abandonar el inmueble el último día sin margen podría ser abusiva si no hay flexibilidad para casos justificados (ej. mudanza en trámite).  
+3. **Áreas de riesgo**:  
+   - Falta de previsión para prórroga automática si el arrendador no notifica a tiempo.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **QUINTA (Prórroga y Desistimiento)**  
+1. **Ilegalidad**:  
+   - La renuncia a la prórroga extraordinaria (art. 10.3 LAU) en zonas tensionadas **es ilegal** según Ley 12/2023 (art. 18).  
+2. **Abusividad**:  
+   - La indemnización por desistimiento (1 mes por año incumplido) es excesiva vs. jurisprudencia (suele limitarse a daños reales).  
+3. **Áreas de riesgo**:  
+   - Confusión en plazos de notificación (4 meses para arrendador vs. 2 meses para inquilino).  
+4. **Términos vagos**: "Necesidad de vivienda para familiares" (debería acreditarse con prueba documental).  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SEXTA (Renta y Forma de Pago)**  
+1. **Ilegalidad**:  
+   - Exigir pago en dólares sin justificación **es ilegal** (contrario al art. 3.1 Ley Monetaria).  
+2. **Abusividad**:  
+   - Resolución automática por impago de 1 semana es desproporcionada (art. 27 LAU exige mora razonable).  
+3. **Áreas de riesgo**:  
+   - Falta de IBAN completo del arrendador (riesgo de impagos por datos incompletos).  
+4. **Términos vagos**: "Prueba en contrario" para resguardo bancario (debería especificar qué prueba es válida).  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SÉPTIMA (Revisión de Renta Semanal)**  
+1. **Ilegalidad**:  
+   - Revisión **semanal** basada en IPC **es ilegal** (art. 18 LAU solo permite anual).  
+2. **Abusividad**:  
+   - Retroactividad y cálculo en dólares son abusivos (generan inseguridad jurídica).  
+3. **Áreas de riesgo**:  
+   - Mecanismo de actualización demasiado complejo (puede generar errores).  
+4. **Términos vagos**: "Índice que lo sustituya" (no define alternativas claras).  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **OCTAVA (Obligaciones del Arrendatario)**  
+1. **Ilegalidad**:  
+   - Exigir seguro de RC de 150.000 € **puede ser ilegal** si no es proporcional al riesgo (art. 5 LGDCU).  
+2. **Abusividad**:  
+   - Obligación de reparar "pequeñas reparaciones" sin definir límites (art. 21.2 LAU las limita a desgaste ordinario).  
+3. **Áreas de riesgo**:  
+   - Comunicación de incidencias en 24 horas es poco realista (debería ampliarse).  
+4. **Términos vagos**: "Tercera persona ajena al ámbito familiar" (no define qué es "ajena").  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+*(Continuará con las siguientes cláusulas si se desea. Este formato garantiza un análisis exhaustivo y claro para la SOCIMI.)*

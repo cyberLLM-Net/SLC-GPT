@@ -1,0 +1,123 @@
+Contrato de Madrid.docx
+
+### Análisis del Preámbulo del Contrato
+
+**1. Identificación de las Partes y Capacidad Jurídica:**
+   - El contrato identifica correctamente a las partes (propietario e inquilinos) y establece su capacidad jurídica para contratar. Esto es esencial para la validez del contrato.
+   - Se adjuntan copias de los documentos de identificación, lo que es una buena práctica para evitar fraudes.
+
+**2. Descripción del Inmueble:**
+   - El inmueble está correctamente descrito, incluyendo la dirección y la referencia catastral. Sin embargo, no se adjunta la cédula de habitabilidad ni el certificado de eficiencia energética, lo cual es obligatorio según la normativa española (Ley 8/2013 de Rehabilitación, Regeneración y Renovación Urbanas y Real Decreto 235/2013).
+   - **Área de Riesgo:** La falta de estos documentos podría generar problemas legales, especialmente en caso de inspecciones o reclamaciones.
+
+**3. Uso del Inmueble:**
+   - Se establece que el inmueble será utilizado como vivienda habitual y permanente, lo cual es conforme a la Ley de Arrendamientos Urbanos (LAU).
+
+**4. Legislación Aplicable:**
+   - El contrato menciona que se regirá por la LAU, lo cual es correcto y necesario.
+
+### Primera: OBJETO
+
+**1. Uso del Inmueble:**
+   - Se prohíbe el uso del inmueble para fines distintos a vivienda, subarrendamiento, cesión sin consentimiento, uso comercial, industrial o vacacional. Estas prohibiciones son legales y están en línea con la LAU.
+   - **Área de Riesgo:** La prohibición de mascotas sin consentimiento expreso por escrito podría considerarse abusiva si no se justifica adecuadamente, ya que limita derechos del inquilino sin una razón objetiva.
+
+**2. Número de Ocupantes:**
+   - Se limita el número de ocupantes a cuatro, lo cual es razonable y legal, siempre que no vulnere derechos fundamentales.
+
+**3. Normas de la Comunidad:**
+   - El inquilino debe cumplir con las normas de la comunidad de propietarios, lo cual es legal y necesario.
+
+### Segunda: PLAZO DE VIGENCIA
+
+**1. Duración del Contrato:**
+   - El contrato tiene una duración inicial de un año, prorrogable tácitamente hasta un máximo de tres años, lo cual es conforme a la LAU.
+   - **Área de Riesgo:** La cláusula de desistimiento con indemnización de una mensualidad podría considerarse abusiva si no se justifica adecuadamente, ya que impone una carga económica adicional al inquilino.
+
+### Tercera: ENTREGA DEL INMUEBLE
+
+**1. Estado del Inmueble:**
+   - El inmueble se entrega en perfectas condiciones de habitabilidad, lo cual es conforme a la LAU.
+   - **Área de Riesgo:** La falta de muebles y cocina no equipada debe ser claramente comunicada y aceptada por el inquilino para evitar futuras reclamaciones.
+
+### Cuarta: RENTA
+
+**1. Pago de la Renta:**
+   - La renta se establece en euros pero se paga en dólares, lo cual podría generar confusiones y problemas de tipo de cambio.
+   - **Área de Riesgo:** La actualización semanal de la renta según el IPC o el IPC de EE.UU. es inusual y podría considerarse abusiva, ya que no es una práctica común en España y podría generar incertidumbre en el inquilino.
+
+**2. Falta de Pago:**
+   - La falta de pago de cuatro semanas de renta como causa de resolución del contrato es conforme a la LAU.
+
+### Quinta: GARANTÍA DEL CONTRATO
+
+**1. Fianza:**
+   - La fianza de dos semanas de renta es conforme a la LAU.
+   - **Área de Riesgo:** La actualización mensual de la fianza podría considerarse abusiva si no se justifica adecuadamente.
+
+**2. Aval Bancario:**
+   - El aval bancario de 1.000 euros es una garantía adicional legal, pero debe ser claramente justificada y aceptada por el inquilino.
+
+### Sexta: SERVICIOS Y GASTOS
+
+**1. Gastos del Inquilino:**
+   - El inquilino asume los gastos de servicios y suministros, lo cual es conforme a la LAU.
+   - **Área de Riesgo:** La falta de responsabilidad del propietario por interrupciones de servicios podría considerarse abusiva si no se justifica adecuadamente.
+
+### Séptima: GASTOS DE REPARACIÓN Y CONSERVACIÓN
+
+**1. Reparaciones:**
+   - El propietario no se obliga a realizar reparaciones, lo cual es contrario a la LAU, que establece que el propietario debe mantener el inmueble en condiciones de habitabilidad.
+   - **Cláusula Ilegal:** Esta cláusula es ilegal según el artículo 21 de la LAU.
+
+### Octava: OBRAS EN EL INMUEBLE
+
+**1. Obras y Mejoras:**
+   - El inquilino no puede realizar obras sin consentimiento del propietario, lo cual es legal.
+   - **Área de Riesgo:** La falta de derecho a resarcimiento por mejoras podría considerarse abusiva si no se justifica adecuadamente.
+
+### Novena: DEVOLUCIÓN DEL INMUEBLE
+
+**1. Estado del Inmueble:**
+   - El inquilino debe devolver el inmueble en perfecto estado, lo cual es conforme a la LAU.
+   - **Área de Riesgo:** La penalización por retraso en el desalojo podría considerarse abusiva si no se justifica adecuadamente.
+
+### Décima: DERECHO DE TANTEO Y RETRACTO
+
+**1. Renuncia a Derechos:**
+   - La renuncia a los derechos de tanteo y retracto es legal, siempre que sea expresa y voluntaria.
+
+### Décimo Primera: CAUSAS DE TERMINACIÓN DEL CONTRATO
+
+**1. Causas de Terminación:**
+   - Las causas de terminación son conforme a la LAU.
+   - **Área de Riesgo:** La enajenación del inmueble como causa de terminación podría considerarse abusiva si no se justifica adecuadamente.
+
+### Décimo Segunda: PROTECCIÓN DE DATOS. INCLUSIÓN EN FICHERO DE MOROSIDAD
+
+**1. Protección de Datos:**
+   - La cláusula de protección de datos es conforme al Reglamento General de Protección de Datos (RGPD).
+   - **Área de Riesgo:** La inclusión en fichero de morosidad debe ser claramente comunicada y justificada.
+
+### Décimo Tercera: LEY APLICABLE Y JURISDICCIÓN
+
+**1. Ley Aplicable:**
+   - El contrato se rige por la LAU y el Código Civil, lo cual es correcto.
+
+### Décimo Cuarta: NOTIFICACIONES
+
+**1. Forma de Notificaciones:**
+   - Las notificaciones deben ser por escrito, lo cual es conforme a la LAU.
+
+### Décimo Quinta: FIRMA DEL CONTRATO
+
+**1. Firma del Contrato:**
+   - Las partes aceptan el contrato y se comprometen a su cumplimiento, lo cual es esencial para su validez.
+
+### Conclusiones Generales
+
+- **Cláusulas Ilegales:** La cláusula séptima, que exime al propietario de realizar reparaciones, es ilegal según la LAU.
+- **Cláusulas Abusivas:** Varias cláusulas podrían considerarse abusivas si no se justifican adecuadamente, como la prohibición de mascotas, la actualización semanal de la renta, la actualización mensual de la fianza, y la penalización por retraso en el desalojo.
+- **Áreas de Riesgo:** La falta de cédula de habitabilidad y certificado de eficiencia energética, la actualización semanal de la renta, y la falta de responsabilidad del propietario por interrupciones de servicios son áreas de riesgo que podrían generar problemas legales.
+- **Términos Vagos:** No se identifican términos vagos en el contrato.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas en el contrato.

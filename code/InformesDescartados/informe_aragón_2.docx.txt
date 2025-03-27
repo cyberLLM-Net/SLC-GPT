@@ -1,0 +1,271 @@
+Contrato de Aragon 1.docx
+
+**Análisis Previo a las Cláusulas:**
+
+El contrato de arrendamiento de vivienda presentado establece las partes involucradas, sus datos personales y de contacto, y su capacidad legal para celebrar el contrato. Se menciona la propiedad de la vivienda por parte del arrendador y el interés del arrendatario en alquilarla como vivienda habitual. Este preámbulo es esencial para identificar a las partes y confirmar su capacidad legal, pero no presenta ilegalidades ni abusos evidentes. Sin embargo, es importante asegurarse de que todos los datos personales y de contacto sean correctos y estén actualizados para evitar problemas de comunicación. No se identifican términos vagos ni lagunas jurídicas en esta sección.
+
+### 
+
+**Primero.- Objeto:**
+
+1. **Cláusulas Ilegales:** No se identifica ninguna ilegalidad en la cláusula que define el objeto del contrato como el arriendo de una vivienda específica para uso exclusivo como vivienda habitual.
+   
+2. **Cláusulas Abusivas:** No se considera abusiva, ya que establece claramente el propósito del arrendamiento.
+
+3. **Áreas de Riesgo:** No se identifican áreas de riesgo significativas, siempre que el uso de la vivienda se mantenga dentro de los términos acordados.
+
+4. **Términos Vagos:** La cláusula es clara y específica en cuanto al objeto del contrato.
+
+5. **Lagunas Jurídicas:** No se observan lagunas jurídicas, ya que el objeto del contrato está claramente definido.
+
+### 
+
+**Segundo.- Plazo:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece un plazo inicial de un año con prórrogas automáticas hasta un máximo de dos años, lo cual es conforme a la Ley de Arrendamientos Urbanos (LAU).
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que permite al inquilino la opción de no renovar con un aviso de 30 días.
+
+3. **Áreas de Riesgo:** Existe el riesgo de que el inquilino no notifique su intención de no renovar, lo que podría llevar a una prórroga no deseada.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a los plazos y condiciones de renovación.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que el plazo y las condiciones de renovación están bien definidos.
+
+### 
+
+**Tercero.- Desistimiento:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, permitiendo el desistimiento del inquilino después de 12 meses con una notificación de 30 días.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que establece una indemnización proporcional razonable.
+
+3. **Áreas de Riesgo:** El riesgo principal es la falta de notificación oportuna por parte del inquilino, lo que podría generar conflictos.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a los requisitos para el desistimiento.
+
+5. **Lagunas Jurídicas:** No se observan lagunas jurídicas, ya que el derecho al desistimiento está bien regulado.
+
+### 
+
+**Cuarto.- Prórroga:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, permitiendo prórrogas automáticas hasta un máximo de tres años, conforme a la LAU.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que permite a ambas partes notificar su intención de no renovar.
+
+3. **Áreas de Riesgo:** Existe el riesgo de falta de comunicación oportuna sobre la intención de no renovar, lo que podría llevar a prórrogas no deseadas.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las condiciones de prórroga y notificación.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las condiciones de prórroga están bien definidas.
+
+### 
+
+**Quinto.- Renta y Actualización:**
+
+1. **Cláusulas Ilegales:** La cláusula podría ser ilegal en cuanto a la actualización semanal de la renta, ya que la LAU permite actualizaciones anuales.
+
+2. **Cláusulas Abusivas:** La actualización semanal de la renta podría considerarse abusiva, especialmente si se basa en índices extranjeros.
+
+3. **Áreas de Riesgo:** El riesgo principal es la fluctuación excesiva de la renta debido a actualizaciones semanales.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a los índices utilizados para la actualización, pero la frecuencia de actualización es inusual.
+
+5. **Lagunas Jurídicas:** Podría haber una laguna jurídica si la actualización semanal no está contemplada en la normativa vigente.
+
+### 
+
+**Sexto.- Forma de Pago:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, estableciendo el pago por adelantado dentro de los primeros cinco días de cada mes.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que el método de pago es común y razonable.
+
+3. **Áreas de Riesgo:** El riesgo principal es el impago y las comisiones bancarias asociadas.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la forma de pago.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las condiciones de pago están bien definidas.
+
+### 
+
+**Séptimo.- Impuestos y Gastos:**
+
+1. **Cláusulas Ilegales:** La cláusula podría ser ilegal al trasladar al inquilino el pago del IBI, que generalmente corresponde al propietario.
+
+2. **Cláusulas Abusivas:** Podría considerarse abusiva al imponer al inquilino el pago de todos los gastos comunitarios e impuestos.
+
+3. **Áreas de Riesgo:** El riesgo principal es la carga financiera excesiva sobre el inquilino.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a los gastos e impuestos que debe asumir el inquilino.
+
+5. **Lagunas Jurídicas:** Podría haber una laguna jurídica si la transferencia de ciertos impuestos al inquilino no está contemplada en la normativa vigente.
+
+### 
+
+**Octavo.- Conservación:**
+
+1. **Cláusulas Ilegales:** La cláusula podría ser ilegal al eximir al propietario de realizar reparaciones necesarias para la habitabilidad.
+
+2. **Cláusulas Abusivas:** Podría considerarse abusiva al trasladar al inquilino la responsabilidad de todas las reparaciones.
+
+3. **Áreas de Riesgo:** El riesgo principal es el deterioro de la vivienda debido a la falta de reparaciones por parte del propietario.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las responsabilidades de conservación.
+
+5. **Lagunas Jurídicas:** Podría haber una laguna jurídica si la exención de responsabilidad del propietario no está contemplada en la normativa vigente.
+
+### 
+
+**Noveno.- Obras:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que prohíbe las obras sin permiso del propietario.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que protege la integridad de la propiedad.
+
+3. **Áreas de Riesgo:** El riesgo principal es la realización de obras no autorizadas por el inquilino.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las condiciones para realizar obras.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las condiciones para realizar obras están bien definidas.
+
+### 
+
+**Décimo.- Suministros:**
+
+1. **Cláusulas Ilegales:** No se proporciona información suficiente para evaluar la legalidad de esta cláusula.
+
+2. **Cláusulas Abusivas:** No se proporciona información suficiente para evaluar si es abusiva.
+
+3. **Áreas de Riesgo:** No se proporciona información suficiente para identificar áreas de riesgo.
+
+4. **Términos Vagos:** No se proporciona información suficiente para evaluar la claridad de los términos.
+
+5. **Lagunas Jurídicas:** No se proporciona información suficiente para identificar lagunas jurídicas.
+
+### 
+
+**Undécimo.- Prohibición del Subarriendo:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que prohíbe el subarriendo sin consentimiento del propietario.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que protege los intereses del propietario.
+
+3. **Áreas de Riesgo:** El riesgo principal es el incumplimiento de esta prohibición por parte del inquilino.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la prohibición del subarriendo.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que la prohibición está bien definida.
+
+### 
+
+**Duodécimo.- Fianza:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece una fianza conforme a la LAU.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que la cantidad de la fianza es razonable.
+
+3. **Áreas de Riesgo:** El riesgo principal es la falta de devolución de la fianza al finalizar el contrato.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la cantidad y condiciones de la fianza.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las condiciones de la fianza están bien definidas.
+
+### 
+
+**Decimotercero.- Obligaciones de la Parte Arrendataria:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece obligaciones razonables para el inquilino.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que las obligaciones son comunes en contratos de arrendamiento.
+
+3. **Áreas de Riesgo:** El riesgo principal es el incumplimiento de las obligaciones por parte del inquilino.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las obligaciones del inquilino.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las obligaciones están bien definidas.
+
+### 
+
+**Decimocuarto.- Obligaciones de la Parte Arrendadora:**
+
+1. **Cláusulas Ilegales:** La cláusula podría ser ilegal al eximir al propietario de realizar reparaciones necesarias para la habitabilidad.
+
+2. **Cláusulas Abusivas:** Podría considerarse abusiva al trasladar al inquilino la responsabilidad de todas las reparaciones.
+
+3. **Áreas de Riesgo:** El riesgo principal es el deterioro de la vivienda debido a la falta de reparaciones por parte del propietario.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las obligaciones del propietario.
+
+5. **Lagunas Jurídicas:** Podría haber una laguna jurídica si la exención de responsabilidad del propietario no está contemplada en la normativa vigente.
+
+### 
+
+**Decimoquinto.- Causas de Terminación del Arriendo:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece causas de terminación conforme a la LAU.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que las causas de terminación son razonables.
+
+3. **Áreas de Riesgo:** El riesgo principal es el incumplimiento de las condiciones del contrato, lo que podría llevar a la terminación.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a las causas de terminación.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que las causas de terminación están bien definidas.
+
+### 
+
+**Decimoctavo.- Tanteo y Retracto:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que permite la renuncia al derecho de tanteo y retracto.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que la renuncia es una práctica común.
+
+3. **Áreas de Riesgo:** El riesgo principal es la falta de notificación oportuna de la venta por parte del propietario.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la renuncia al tanteo y retracto.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que la renuncia está bien definida.
+
+### 
+
+**Decimonoveno.- Jurisdicción:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que permite a las partes someterse a la jurisdicción de los tribunales competentes.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que la elección de jurisdicción es común.
+
+3. **Áreas de Riesgo:** El riesgo principal es la elección de una jurisdicción que no sea conveniente para una de las partes.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la jurisdicción.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que la jurisdicción está bien definida.
+
+### 
+
+**Vigésimo.- Notificaciones:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece métodos claros para las notificaciones.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que los métodos de notificación son razonables.
+
+3. **Áreas de Riesgo:** El riesgo principal es la falta de recepción de notificaciones por problemas de comunicación.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a los métodos de notificación.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que los métodos de notificación están bien definidos.
+
+### 
+
+**Vigesimoprimero.- Aceptación:**
+
+1. **Cláusulas Ilegales:** La cláusula es legal, ya que establece la aceptación del contrato por ambas partes.
+
+2. **Cláusulas Abusivas:** No es abusiva, ya que la aceptación es un requisito estándar.
+
+3. **Áreas de Riesgo:** No se identifican áreas de riesgo significativas en esta cláusula.
+
+4. **Términos Vagos:** La cláusula es clara en cuanto a la aceptación del contrato.
+
+5. **Lagunas Jurídicas:** No se identifican lagunas jurídicas, ya que la aceptación está bien definida.

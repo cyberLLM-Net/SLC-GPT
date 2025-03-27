@@ -1,0 +1,159 @@
+Contrato de Aragon 1.docx
+
+### Análisis previo al inicio de las cláusulas:
+
+En el contrato de arrendamiento de vivienda presentado, se identifican claramente a las partes intervinientes, la descripción del inmueble objeto del arrendamiento, la duración del contrato, la renta acordada, las obligaciones de las partes, entre otros aspectos relevantes para el arrendamiento de la vivienda.
+
+### Cláusula Primera:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- No se identifican áreas de riesgo en esta cláusula.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Segunda:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- El plazo de duración inicial obligatoria de un año y la prórroga tácita anual hasta un máximo de dos años puede generar riesgos si alguna de las partes desea finalizar el contrato antes de lo establecido.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Tercera:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- El desistimiento por parte del inquilino puede generar conflictos si no se realiza de acuerdo con lo establecido en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Cuarta:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La prórroga obligatoria del contrato por anualidades puede generar conflictos si alguna de las partes desea finalizar el contrato antes de lo establecido.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Quinta:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La actualización de la renta semanal según el IPC puede generar conflictos si no se realiza de manera adecuada.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Sexta:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La forma de pago por adelantado puede generar conflictos si no se realiza de acuerdo con lo establecido en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Séptima:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La obligación del inquilino de pagar los gastos relacionados con los suministros puede generar conflictos si no se realiza de manera adecuada.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Octava:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La no obligación del propietario de realizar reparaciones necesarias en el inmueble puede generar conflictos si no se establecen claramente las responsabilidades.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Novena:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La prohibición de realizar obras sin permiso puede generar conflictos si no se solicita adecuadamente.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Décima:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- No se identifican áreas de riesgo en esta cláusula.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Undécima:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La prohibición del subarriendo puede generar conflictos si no se respeta lo establecido en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Duodécima:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La entrega de la fianza y el aval bancario pueden generar riesgos si no se cumplen las obligaciones establecidas en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Decimotercera:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- Las obligaciones de la parte arrendataria pueden generar conflictos si no se cumplen adecuadamente.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Decimocuarta:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La no obligación del arrendador de realizar reparaciones puede generar conflictos si no se establecen claramente las responsabilidades.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Decimoquinta:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- Las causas de terminación del contrato pueden generar conflictos si no se cumplen adecuadamente.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Decimoctava:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La renuncia al derecho de tanteo y retracto puede generar riesgos si no se realiza de acuerdo con lo establecido en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Decimonovena:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La designación de la jurisdicción puede generar conflictos si no se establece adecuadamente.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Vigésimo:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- La designación de las notificaciones puede generar conflictos si no se realizan de acuerdo con lo establecido en el contrato.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+### Cláusula Vigésimoprimera:
+
+#### 2.3. Identificar posibles áreas de riesgo:
+- No se identifican áreas de riesgo en esta cláusula.
+
+#### 2.4. Identificar posibles áreas términos vagos:
+- La cláusula es clara y no presenta términos vagos.
+
+En general, el contrato de arrendamiento de vivienda presenta cláusulas claras y detalladas que establecen las obligaciones y derechos de las partes. Es importante que las partes cumplan con lo establecido en el contrato para evitar posibles conflictos en el futuro.
