@@ -1,0 +1,287 @@
+Contrato de Madrid.docx
+
+**Contenido previo a la primera cláusula**
+
+1. **Texto de la cláusula**: No se proporciona un texto literal, pero se describe el preámbulo del contrato que incluye la identificación de las partes, el reconocimiento de su capacidad jurídica, y la descripción del inmueble objeto del contrato.
+
+2. **Resumen jurídico**: El preámbulo del contrato identifica a las partes involucradas (Propietario e Inquilino), sus datos personales y de identificación, y establece que ambas partes tienen la capacidad jurídica necesaria para celebrar el contrato. También se describe el inmueble objeto del arrendamiento, incluyendo su ubicación y referencia catastral.
+
+3. **Legalidad**: El preámbulo cumple con los requisitos legales para la identificación de las partes y del objeto del contrato, conforme al artículo 1.261 del Código Civil español, que establece la necesidad de consentimiento, objeto cierto y causa para la validez de los contratos.
+
+4. **Abusividad**: No se detectan elementos abusivos en esta sección, ya que se limita a la identificación de las partes y del objeto del contrato.
+
+5. **Áreas de riesgo**: No se identifican riesgos legales significativos en esta sección, siempre que la información proporcionada sea veraz y completa.
+
+6. **Términos vagos**: No se observan términos vagos en esta sección, ya que los datos son específicos y concretos.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas en esta sección, ya que el preámbulo cumple con los requisitos formales necesarios para la identificación de las partes y del objeto del contrato.
+
+### 
+
+**Primera cláusula: Objeto**
+
+1. **Texto de la cláusula**: "El Propietario arrienda al Inquilino, que acepta en este acto, el Inmueble descrito en el Expositivo 1º. El Inquilino se compromete a usar dicho Inmueble exclusivamente como vivienda del Inquilino y de su familia directa, en su caso. [...] El incumplimiento por el Inquilino de esta obligación esencial facultará al Propietario a resolver el presente Contrato."
+
+2. **Resumen jurídico**: Esta cláusula establece el objeto del contrato, que es el arrendamiento del inmueble para uso exclusivo como vivienda del inquilino y su familia directa. También se prohíben usos distintos al residencial, subarrendamientos, cesiones sin consentimiento, y el uso para actividades comerciales o vacacionales.
+
+3. **Legalidad**: La cláusula es legal conforme a la Ley de Arrendamientos Urbanos (LAU), que permite establecer el uso exclusivo de la vivienda y prohíbe el subarriendo sin consentimiento del propietario.
+
+4. **Abusividad**: No se considera abusiva, ya que las restricciones impuestas son comunes y razonables para asegurar el uso adecuado del inmueble.
+
+5. **Áreas de riesgo**: El riesgo principal es el incumplimiento por parte del inquilino, lo que podría llevar a la resolución del contrato. También existe el riesgo de interpretación sobre qué constituye "uso exclusivo como vivienda".
+
+6. **Términos vagos**: "Uso exclusivo como vivienda" podría ser interpretado de manera variable, especialmente en lo que respecta a actividades ocasionales que no sean estrictamente residenciales.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente el objeto del contrato.
+
+### 
+
+**Segunda cláusula: Plazo de vigencia**
+
+1. **Texto de la cláusula**: "El Contrato entrará en vigor en la fecha de hoy con una duración inicial obligatoria de un (1) año a partir de la fecha de entrada en vigor del Contrato. [...] El desistimiento dará lugar a una indemnización equivalente a la parte proporcional de la renta arrendaticia de una mensualidad con relación a los meses que falten por cumplir de un año."
+
+2. **Resumen jurídico**: La cláusula establece la duración inicial del contrato y las condiciones para su prórroga y desistimiento. Se prevé una duración mínima de un año, con prórrogas automáticas hasta un máximo de tres años, y se regula el desistimiento del inquilino con una indemnización proporcional.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite establecer un plazo inicial y prórrogas automáticas. El derecho de desistimiento del inquilino también está contemplado en la normativa.
+
+4. **Abusividad**: No se considera abusiva, ya que respeta los derechos del inquilino y las obligaciones del propietario conforme a la LAU.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de notificación adecuada para la no renovación del contrato, lo que podría llevar a prórrogas no deseadas.
+
+6. **Términos vagos**: "Indemnización equivalente a la parte proporcional de la renta" podría generar ambigüedad si no se especifica claramente cómo se calculará.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente el plazo de vigencia del contrato.
+
+### 
+
+**Tercera cláusula: Entrega del inmueble**
+
+1. **Texto de la cláusula**: "El Propietario entrega al Inquilino el Inmueble en perfectas condiciones de habitabilidad, buen estado de conservación y funcionamiento de sus servicios y a la entera satisfacción de éste. [...] Ambas Partes confirman que el Inmueble se entrega con cocina no equipada y vivienda sin muebles."
+
+2. **Resumen jurídico**: Esta cláusula regula la entrega del inmueble, estableciendo que se entrega en condiciones de habitabilidad y buen estado, pero sin equipamiento de cocina ni muebles.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que requiere que el inmueble se entregue en condiciones adecuadas para el uso pactado.
+
+4. **Abusividad**: No se considera abusiva, ya que establece claramente las condiciones de entrega del inmueble.
+
+5. **Áreas de riesgo**: El riesgo principal es la posible disputa sobre el estado del inmueble en el momento de la entrega, especialmente si no se documenta adecuadamente.
+
+6. **Términos vagos**: "Perfectas condiciones de habitabilidad" y "entera satisfacción" son términos subjetivos que podrían generar disputas si no se definen claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la entrega del inmueble.
+
+### 
+
+**Cuarta cláusula: Renta**
+
+1. **Texto de la cláusula**: "Ambas Partes acuerdan fijar una renta semanal de 200 euros pagada por el Inquilino que será abonada por el inquilino en su equivalente en dólares estadounidenses. [...] La falta de pago de una (4) semanas de renta será causa suficiente para que el Propietario pueda dar por resuelto este Contrato y ejercite la acción de desahucio."
+
+2. **Resumen jurídico**: La cláusula establece la renta semanal en euros, pero pagadera en dólares, y las condiciones de pago. También regula las consecuencias del impago, incluyendo la resolución del contrato y el desahucio.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite establecer la renta y las condiciones de pago. Sin embargo, el pago en una moneda distinta al euro podría requerir un acuerdo específico.
+
+4. **Abusividad**: No se considera abusiva, aunque el pago en dólares podría ser cuestionable si no se justifica adecuadamente.
+
+5. **Áreas de riesgo**: El riesgo principal es la fluctuación del tipo de cambio entre el euro y el dólar, lo que podría afectar al importe real pagado.
+
+6. **Términos vagos**: "Equivalente en dólares estadounidenses" podría generar ambigüedad si no se especifica el tipo de cambio aplicable.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la renta y sus condiciones de pago.
+
+### 
+
+**Quinta cláusula: Garantía del contrato**
+
+1. **Texto de la cláusula**: "El Inquilino entrega en este acto al Propietario, quien declara recibirla, la cantidad de 200 EUROS, equivalente a dos semanas de renta, por concepto de fianza legal, según lo establecido en el apartado primero del Artículo 36 de la LAU para garantizar el cumplimiento de las obligaciones que asume en virtud del presente Contrato."
+
+2. **Resumen jurídico**: La cláusula regula la fianza y las garantías adicionales, incluyendo un aval bancario, para asegurar el cumplimiento de las obligaciones del inquilino.
+
+3. **Legalidad**: La cláusula es legal conforme al artículo 36 de la LAU, que regula la fianza en los contratos de arrendamiento.
+
+4. **Abusividad**: No se considera abusiva, ya que la fianza y las garantías adicionales están permitidas por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de devolución de la fianza al finalizar el contrato, lo que podría generar disputas.
+
+6. **Términos vagos**: "Garantía de todas las responsabilidades económicas" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente las garantías del contrato.
+
+### 
+
+**Sexta cláusula: Servicios y gastos**
+
+1. **Texto de la cláusula**: "El Inquilino se obliga a pagar cualquier gasto relacionado con la contratación de los servicios y suministros individualizados por aparatos contadores (tales como luz, agua, gas, teléfono e internet) con los que cuenta el Inmueble y que serán íntegramente asumidos por el Inquilino a partir de hoy."
+
+2. **Resumen jurídico**: La cláusula establece que el inquilino es responsable de los gastos de servicios y suministros individualizados, así como de los gastos de comunidad e IBI.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite que las partes acuerden la distribución de los gastos.
+
+4. **Abusividad**: No se considera abusiva, aunque la obligación de asumir todos los gastos podría ser cuestionable si no se justifica adecuadamente.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de pago de los servicios y suministros, lo que podría afectar al suministro de los mismos.
+
+6. **Términos vagos**: "Gastos relacionados con la contratación de los servicios" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente los servicios y gastos.
+
+### 
+
+**Séptima cláusula: Gastos de reparación y conservación**
+
+1. **Texto de la cláusula**: "El Propietario NO se obliga a realizar las reparaciones que fueran necesarias en el Inmueble para conservar la vivienda en condiciones de habitabilidad para el uso convenido."
+
+2. **Resumen jurídico**: La cláusula establece que el inquilino es responsable de las reparaciones necesarias para el mantenimiento del inmueble, eximiendo al propietario de dicha obligación.
+
+3. **Legalidad**: La cláusula podría ser cuestionable conforme a la LAU, que establece que el propietario es responsable de las reparaciones necesarias para conservar la vivienda en condiciones de habitabilidad.
+
+4. **Abusividad**: La cláusula podría considerarse abusiva si impone al inquilino obligaciones que corresponden al propietario según la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la posible disputa sobre la responsabilidad de las reparaciones, lo que podría generar conflictos entre las partes.
+
+6. **Términos vagos**: "Reparaciones necesarias para el mantenimiento" podría ser interpretado de manera variable si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, pero la cláusula podría no ajustarse completamente a la normativa vigente en cuanto a la responsabilidad de las reparaciones.
+
+### 
+
+**Octava cláusula: Obras en el inmueble**
+
+1. **Texto de la cláusula**: "El Inquilino no podrá realizar obras, instalaciones, ni mejoras de ningún tipo en el Inmueble sin el expreso consentimiento previo del Propietario por escrito."
+
+2. **Resumen jurídico**: La cláusula prohíbe al inquilino realizar obras o mejoras en el inmueble sin el consentimiento previo y por escrito del propietario.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite al propietario establecer restricciones sobre las obras en el inmueble.
+
+4. **Abusividad**: No se considera abusiva, ya que las restricciones impuestas son razonables para proteger la integridad del inmueble.
+
+5. **Áreas de riesgo**: El riesgo principal es la realización de obras sin consentimiento, lo que podría llevar a la resolución del contrato.
+
+6. **Términos vagos**: "Obras, instalaciones, ni mejoras de ningún tipo" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente las obras en el inmueble.
+
+### 
+
+**Novena cláusula: Devolución del inmueble**
+
+1. **Texto de la cláusula**: "Llegada la fecha de terminación del presente Contrato y, en su caso la de cualquiera de sus prórrogas, el Inquilino deberá abandonar el Inmueble sin que sea necesario para ello requerimiento alguno por parte del Propietario."
+
+2. **Resumen jurídico**: La cláusula regula la devolución del inmueble al finalizar el contrato, estableciendo que el inquilino debe devolverlo en perfecto estado y sin necesidad de requerimiento por parte del propietario.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que regula la devolución del inmueble al finalizar el contrato.
+
+4. **Abusividad**: No se considera abusiva, ya que establece claramente las obligaciones del inquilino al finalizar el contrato.
+
+5. **Áreas de riesgo**: El riesgo principal es la posible disputa sobre el estado del inmueble al momento de la devolución, lo que podría generar conflictos entre las partes.
+
+6. **Términos vagos**: "Perfecto estado" podría ser interpretado de manera subjetiva si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la devolución del inmueble.
+
+### 
+
+**Décima cláusula: Derecho de tanteo y retracto**
+
+1. **Texto de la cláusula**: "El Inquilino renuncia expresamente a los derechos de tanteo y retracto que por dicha condición pudieren corresponderle."
+
+2. **Resumen jurídico**: La cláusula establece que el inquilino renuncia a los derechos de tanteo y retracto que podrían corresponderle.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite la renuncia expresa a estos derechos por parte del inquilino.
+
+4. **Abusividad**: No se considera abusiva, ya que la renuncia es permitida por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de comprensión por parte del inquilino de las implicaciones de esta renuncia.
+
+6. **Términos vagos**: No se observan términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la renuncia a los derechos de tanteo y retracto.
+
+### 
+
+**Décimo primera cláusula: Causas de terminación del contrato**
+
+1. **Texto de la cláusula**: "Serán causas de terminación del Contrato, además de las legalmente establecidas y las previstas en este Contrato, las que se mencionan a continuación: [...]"
+
+2. **Resumen jurídico**: La cláusula establece las causas de terminación del contrato, incluyendo las legalmente establecidas y otras específicas del contrato.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite establecer causas específicas de terminación del contrato.
+
+4. **Abusividad**: No se considera abusiva, ya que las causas de terminación están permitidas por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación de las causas de terminación, lo que podría generar disputas entre las partes.
+
+6. **Términos vagos**: "Causas de terminación" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente las causas de terminación del contrato.
+
+### 
+
+**Décimo segunda cláusula: Protección de datos. Inclusión en fichero de morosidad**
+
+1. **Texto de la cláusula**: "Los datos personales que el Inquilino facilita en el presente contrato y que pueda facilitar en el futuro son necesarios para la celebración del presente contrato, y serán tratados por el Propietario con la finalidad de gestionar el contrato de arrendamiento de la vivienda [...]"
+
+2. **Resumen jurídico**: La cláusula regula el tratamiento de los datos personales del inquilino, conforme a la normativa de protección de datos, y establece la posibilidad de inclusión en un fichero de morosidad en caso de impago.
+
+3. **Legalidad**: La cláusula es legal conforme al Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD).
+
+4. **Abusividad**: No se considera abusiva, ya que el tratamiento de datos personales está regulado por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es el incumplimiento de las obligaciones de protección de datos, lo que podría generar sanciones.
+
+6. **Términos vagos**: "Tratamiento de datos personales" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la protección de datos personales.
+
+### 
+
+**Décimo tercera cláusula: Ley aplicable y jurisdicción**
+
+1. **Texto de la cláusula**: "De conformidad con lo previsto en el artículo 4, apartado 2 de la vigente LAU, el presente Contrato se regirá por la voluntad de las Partes manifestada en el Contrato, en su defecto, por lo dispuesto en el Título II de la mencionada LAU y, supletoriamente, por lo dispuesto en el Código Civil."
+
+2. **Resumen jurídico**: La cláusula establece la ley aplicable al contrato y la jurisdicción competente para resolver cualquier controversia relacionada con el mismo.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU y el Código Civil, que permiten a las partes elegir la ley aplicable y la jurisdicción competente.
+
+4. **Abusividad**: No se considera abusiva, ya que la elección de ley y jurisdicción está permitida por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de comprensión por parte del inquilino de las implicaciones de la elección de ley y jurisdicción.
+
+6. **Términos vagos**: No se observan términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la ley aplicable y la jurisdicción competente.
+
+### 
+
+**Décimo cuarta cláusula: Notificaciones**
+
+1. **Texto de la cláusula**: "Todas las notificaciones, requerimientos, peticiones y otras comunicaciones que hayan de efectuarse en relación con el presente Contrato deberán realizarse por escrito y se entenderá que han sido debidamente recibidas cuando hayan sido entregadas en mano o bien remitidas por correo certificado a las direcciones que figuran en el encabezamiento del presente Contrato [...]"
+
+2. **Resumen jurídico**: La cláusula regula el procedimiento para las notificaciones entre las partes, estableciendo que deben realizarse por escrito y especificando los métodos de entrega.
+
+3. **Legalidad**: La cláusula es legal conforme a la normativa vigente, que permite a las partes establecer el procedimiento para las notificaciones.
+
+4. **Abusividad**: No se considera abusiva, ya que el procedimiento de notificación está claramente especificado.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de cumplimiento del procedimiento de notificación, lo que podría afectar la validez de las comunicaciones.
+
+6. **Términos vagos**: "Notificaciones, requerimientos, peticiones y otras comunicaciones" podría ser interpretado de manera amplia si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente el procedimiento de notificaciones.
+
+### 
+
+**Décimo quinta cláusula: Firma del contrato**
+
+1. **Texto de la cláusula**: "Las partes aceptan el presente contrato, así como sus correspondientes anexos y sus efectos jurídicos y se comprometen a su cumplimiento de buena fe."
+
+2. **Resumen jurídico**: La cláusula establece la aceptación del contrato por las partes y su compromiso de cumplimiento de buena fe.
+
+3. **Legalidad**: La cláusula es legal conforme al Código Civil, que establece la obligatoriedad de los contratos y el principio de buena fe.
+
+4. **Abusividad**: No se considera abusiva, ya que la aceptación y el compromiso de cumplimiento son elementos esenciales de cualquier contrato.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de comprensión por parte de las partes de las obligaciones asumidas en el contrato.
+
+6. **Términos vagos**: "Buena fe" es un término jurídico que podría ser interpretado de manera variable si no se especifica claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula se ajusta a la normativa vigente y cubre adecuadamente la aceptación y el compromiso de cumplimiento del contrato.
