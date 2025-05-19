@@ -1,0 +1,116 @@
+Contrato de Madrid.docx
+
+### **Análisis Preliminar (Antes de las Cláusulas)**  
+1. **Identificación de las Partes**:  
+   - Correcta identificación de arrendador y arrendatario, con mención a su capacidad jurídica y anexo de documentos identificativos.  
+   - **Riesgo**: Falta adjuntar cédula de habitabilidad y certificado de eficiencia energética, exigidos por la LAU (Art. 5.1 LAU). Esto podría invalidar el contrato o generar sanciones administrativas.  
+
+2. **Expositivos**:  
+   - **Expositivo 1º**:  
+     - **Ilegalidad**: La afirmación de que el inmueble cumple con "todos los requisitos" sin adjuntar cédula de habitabilidad es potencialmente engañosa (Art. 5 LAU).  
+   - **Expositivo 2º**:  
+     - Correcto, pero falta precisar qué se entiende por "familia" (término vago).  
+   - **Expositivo 3º**:  
+     - Correcta remisión a la LAU.  
+
+---
+
+### **PRIMERA: OBJETO**  
+1. **Uso exclusivo como vivienda**:  
+   - **Legalidad**: Acorde al Art. 5 LAU.  
+   - **Prohibiciones (subarrendamiento, uso profesional, etc.)**:  
+     - **Legalidad**: Permitido (Art. 5.3 LAU), pero la prohibición de mascotas sin justificación podría ser **abusiva** (Art. 4.1 LAU y jurisprudencia sobre limitaciones desproporcionadas).  
+   - **Número máximo de ocupantes**:  
+     - **Riesgo**: Falta definir "familia directa". Término vago que podría generar conflictos.  
+
+2. **Normas de convivencia y comunidad**:  
+   - **Legalidad**: Correcto (Art. 9.1 LAU).  
+
+---
+
+### **SEGUNDA: PLAZO DE VIGENCIA**  
+1. **Duración mínima (1 año)**:  
+   - **Legalidad**: Correcto (Art. 9 LAU).  
+2. **Prorrogas (2 y 3 años)**:  
+   - **Legalidad**: Ajustado a la LAU (Art. 9.2 y 9.3).  
+3. **Desistimiento con indemnización**:  
+   - **Legalidad**: Permitido (Art. 11 LAU), pero la indemnización por meses no cumplidos podría ser **abusiva** si excede el daño real (Art. 4.1 LAU).  
+
+---
+
+### **TERCERA: ENTREGA DEL INMUEBLE**  
+- **Legalidad**: Correcto, pero falta acta de entrega detallada (riesgo de disputas sobre el estado inicial).  
+
+---
+
+### **CUARTA: RENTA**  
+1. **Renta semanal en dólares**:  
+   - **Ilegalidad**: Contraviene el Art. 17.1 LAU (renta debe expresarse en euros).  
+2. **Actualización semanal del IPC**:  
+   - **Ilegalidad**: La LAU exige revisiones anuales (Art. 18 LAU). La retroactividad semanal es abusiva.  
+3. **Falta de pago (4 semanas)**:  
+   - **Legalidad**: Aunque la LAU permite resolución por impago (Art. 27.1), el plazo de 4 semanas es muy corto (riesgo de abusividad).  
+
+---
+
+### **QUINTA: GARANTÍA**  
+1. **Fianza (2 semanas)**:  
+   - **Ilegalidad**: Debe ser 1 mes (Art. 36.1 LAU).  
+2. **Aval bancario (1.000 €)**:  
+   - **Legalidad**: Permitido como garantía adicional, pero la cuantía debe ser proporcional.  
+
+---
+
+### **SEXTA: SERVICIOS Y GASTOS**  
+- **Legalidad**: Correcto, pero el Art. 20 LAU exime al arrendador de reparaciones por uso individualizado (luz, agua, etc.).  
+
+---
+
+### **SÉPTIMA: REPARACIONES**  
+- **Ilegalidad**: El arrendador no puede eximirse de reparaciones por habitabilidad (Art. 21.1 LAU). Cláusula nula.  
+
+---
+
+### **OCTAVA: OBRAS**  
+- **Legalidad**: Correcto (Art. 21.2 LAU), pero la prohibición absoluta de obras menores (ej. colgar cuadros) podría ser **abusiva**.  
+
+---
+
+### **NOVENA: DEVOLUCIÓN**  
+1. **Penalización por retraso (doble renta diaria)**:  
+   - **Abusividad**: Desproporcionado (Art. 4.1 LAU).  
+
+---
+
+### **DÉCIMA: TANTEO Y RETRACTO**  
+- **Legalidad**: Renuncia permitida (Art. 25 LAU).  
+
+---
+
+### **DÉCIMO PRIMERA: CAUSAS DE TERMINACIÓN**  
+1. **Enajenación extingue arrendamiento**:  
+   - **Ilegalidad**: Contraviene el Art. 14 LAU (derecho del inquilino a continuar).  
+2. **Necesidad de ocupación del propietario**:  
+   - **Legalidad**: Correcto (Art. 9.3 LAU).  
+
+---
+
+### **DÉCIMO SEGUNDA: PROTECCIÓN DE DATOS**  
+- **Legalidad**: Ajustado al RGPD, pero la inclusión en fichero de morosidad debe cumplir el Art. 20 LAU (deuda firme).  
+
+---
+
+### **DÉCIMO TERCERA: LEY Y JURISDICCIÓN**  
+- **Legalidad**: Correcto (Art. 4 LAU).  
+
+---
+
+### **Conclusiones Generales**  
+- **Cláusulas ilegales/abusivas**:  
+  - Rentas en dólares, actualización semanal del IPC, fianza insuficiente, reparaciones del arrendador, penalización desproporcionada.  
+- **Riesgos principales**:  
+  - Falta de cédula de habitabilidad, términos vagos ("familia"), plazos de pago muy cortos.  
+- **Lagunas jurídicas**:  
+  - No se prevé cómo actuar si el IPC desaparece o cómo se calcula el equivalente en euros de la renta en dólares.  
+
+**Recomendación**: Reformular cláusulas ilegales y precisar términos vagos para evitar nulidades y conflictos judiciales.

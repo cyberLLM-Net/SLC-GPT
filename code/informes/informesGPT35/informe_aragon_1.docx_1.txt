@@ -1,0 +1,39 @@
+Contrato de Aragon 1.docx
+
+###Análisis previo al inicio de las cláusulas:
+
+En el contrato de arrendamiento de vivienda presentado, se identifican claramente a las partes involucradas, la descripción del inmueble objeto del arrendamiento, las condiciones de comunicación entre arrendador y arrendatario, así como la aceptación de ambas partes para formalizar el contrato. Se establece el plazo inicial del contrato, la posibilidad de prórroga tácita, el desistimiento por parte del inquilino, la prórroga obligatoria, la renta y su actualización, la forma de pago, los impuestos y gastos a cargo del inquilino, las obligaciones de conservación, las obras, la prohibición del subarriendo, la fianza, las obligaciones de ambas partes, las causas de terminación del arrendamiento, el tanteo y retracto, la jurisdicción, las notificaciones y la aceptación del contrato.
+
+###Cláusula Primera:
+
+####1.1. Ilegalidad:
+No se identifica ninguna ilegalidad en esta cláusula.
+
+####1.2. Abusividad:
+No se identifica ninguna abusividad en esta cláusula.
+
+####1.3. Áreas de riesgo:
+No se identifican áreas de riesgo en esta cláusula.
+
+####1.4. Términos vagos:
+No se identifican términos vagos en esta cláusula.
+
+####1.5. Laguna jurídica:
+No se identifica ninguna laguna jurídica en esta cláusula.
+
+###Cláusula Segunda:
+
+####2.1. Ilegalidad:
+No se identifica ninguna ilegalidad en esta cláusula.
+
+####2.2. Abusividad:
+No se identifica ninguna abusividad en esta cláusula.
+
+####2.3. Áreas de riesgo:
+Se debe tener en cuenta que la prórroga tácita debe estar regulada de acuerdo a la normativa vigente en materia de arrendamientos urbanos para evitar posibles conflictos en caso de desacuerdo entre las partes.
+
+####2.4. Términos vagos:
+No se identifican términos vagos en esta cláusula.
+
+####2.5. Laguna jurídica:
+No se identifica ninguna laguna jurídica en esta cláusula.

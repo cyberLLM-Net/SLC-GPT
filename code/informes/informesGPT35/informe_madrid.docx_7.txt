@@ -1,0 +1,92 @@
+Contrato de Madrid.docx
+
+###Análisis previo al inicio de las cláusulas:
+
+En el contrato de arrendamiento de vivienda en cuestión, se identifican claramente a las partes contratantes, el objeto del contrato, la descripción del inmueble, la duración del arrendamiento, las obligaciones de las partes, la renta, la garantía del contrato, los servicios y gastos, entre otros aspectos relevantes. Se establece la normativa aplicable, así como la jurisdicción competente en caso de controversias. Además, se incluyen cláusulas relacionadas con la protección de datos personales y la notificación entre las partes.
+
+###Primera: OBJETO
+
+####2.3. Identificar posibles áreas de riesgo:
+- La prohibición de destinar la vivienda al hospedaje de carácter vacacional puede generar conflictos si el Inquilino incumple esta cláusula.
+- La limitación del número máximo de personas que pueden ocupar el inmueble puede resultar en problemas si se excede este límite.
+
+####2.4. Identificar posibles áreas términos vagos:
+- La cláusula sobre el uso exclusivo como vivienda del Inquilino y su familia directa podría ser más específica en cuanto a quiénes se consideran familia directa.
+
+###Segunda: PLAZO DE VIGENCIA
+
+####2.5. Verificación de laguna jurídica:
+- No se observa ninguna laguna jurídica en esta cláusula.
+
+###Tercera: ENTREGA DEL INMUEBLE
+
+####2.5. Verificación de laguna jurídica:
+- No se observa ninguna laguna jurídica en esta cláusula.
+
+###Cuarta: RENTA
+
+####2.2. Cláusulas Abusivas:
+- La cláusula que establece que la falta de pago de una (4) semanas de renta es causa suficiente para la resolución del contrato y el ejercicio de la acción de desahucio podría considerarse abusiva si no se otorga un plazo razonable para el pago antes de la resolución del contrato.
+
+####2.3. Identificar posibles áreas de riesgo:
+- La actualización semanal de la renta según el IPC de España o de los Estados Unidos puede generar discrepancias si no se especifica claramente cómo se realizará esta actualización.
+
+###Quinta: GARANTÍA DEL CONTRATO
+
+####2.3. Identificar posibles áreas de riesgo:
+- La obligación de entregar un aval bancario como garantía adicional puede representar un riesgo para el Inquilino en caso de incumplimiento de las obligaciones contractuales.
+
+###Sexta: SERVICIOS Y GASTOS
+
+####2.4. Identificar posibles áreas términos vagos:
+- Sería conveniente especificar con mayor detalle qué se considera como gastos relacionados con la contratación de servicios y suministros individualizados por aparatos contadores.
+
+###Séptima: GASTOS DE REPARACIÓN Y CONSERVACIÓN
+
+####2.3. Identificar posibles áreas de riesgo:
+- La cláusula que establece que el Inquilino es responsable de todos los daños físicos o materiales que puedan ocasionarse a terceros como consecuencia de su habitabilidad en el inmueble puede generar disputas sobre la interpretación y alcance de esta responsabilidad.
+
+###Octava: OBRAS EN EL INMUEBLE
+
+####2.3. Identificar posibles áreas de riesgo:
+- La prohibición de realizar obras sin el consentimiento previo del Propietario puede limitar las acciones de mejora que el Inquilino desee realizar en el inmueble.
+
+###Novena: DEVOLUCIÓN DEL INMUEBLE
+
+####2.3. Identificar posibles áreas de riesgo:
+- La cláusula que establece una penalización por cada día de retraso en el desalojo del inmueble puede generar controversias si no se especifica claramente cómo se calculará esta penalización.
+
+###Décima: DERECHO DE TANTEO Y RETRACTO
+
+####2.3. Identificar posibles áreas de riesgo:
+- La renuncia expresa a los derechos de tanteo y retracto por parte del Inquilino puede limitar sus opciones en caso de querer adquirir el inmueble en el futuro.
+
+###Décimo Primera: CAUSAS DE TERMINACIÓN DEL CONTRATO
+
+####2.5. Verificación de laguna jurídica:
+- No se observa ninguna laguna jurídica en esta cláusula.
+
+###Décimo Segunda: PROTECCIÓN DE DATOS. INCLUSIÓN EN FICHERO DE MOROSIDAD
+
+####2.1. Cláusulas Ilegales:
+- La cesión de datos personales del Inquilino a un fichero de morosidad sin su consentimiento expreso podría considerarse ilegal según la normativa de protección de datos.
+
+####2.3. Identificar posibles áreas de riesgo:
+- La inclusión de los datos del Inquilino en un fichero de morosidad sin su consentimiento previo puede generar conflictos legales y vulnerar sus derechos de privacidad.
+
+###Décimo Tercera: LEY APLICABLE Y JURISDICCIÓN
+
+####2.5. Verificación de laguna jurídica:
+- No se observa ninguna laguna jurídica en esta cláusula.
+
+###Décimo Cuarta: NOTIFICACIONES
+
+####2.4. Identificar posibles áreas términos vagos:
+- Sería conveniente especificar con mayor claridad los medios de comunicación electrónica que se utilizarán para las notificaciones entre las partes.
+
+###Décimo Quinta: FIRMA DEL CONTRATO
+
+####2.3. Identificar posibles áreas de riesgo:
+- La falta de especificación de los anexos y sus efectos jurídicos podría generar dudas sobre su validez y alcance en caso de controversias.
+
+En general, el contrato presenta cláusulas que pueden generar áreas de riesgo, términos vagos y posibles problemas legales, especialmente en relación con las obligaciones y responsabilidades de las partes, la actualización de la renta, la protección de datos personales y la resolución del contrato. Se recomienda revisar detenidamente estas cláusulas para evitar futuros conflictos y garantizar la seguridad jurídica de ambas partes.

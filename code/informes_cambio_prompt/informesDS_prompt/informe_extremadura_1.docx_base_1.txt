@@ -1,0 +1,170 @@
+Contrato de Extremadura 1.docx
+
+### **Análisis Preliminar (Encabezado y Exposiciones)**  
+1. **Ilegalidad**: No se detectan cláusulas ilegales en esta sección introductoria.  
+2. **Abusividad**: No hay elementos abusivos, pero se omite la identificación completa del representante (si lo hubiera) de la SOCIMI, lo que podría generar riesgos de representación.  
+3. **Áreas de riesgo**:  
+   - Falta de especificación del poder de representación si la SOCIMI actúa mediante apoderado.  
+   - No se adjunta la nota registral completa (solo se menciona como "anexo I"), lo que podría afectar la prueba de titularidad.  
+4. **Términos vagos**: "Se reconocen capacidad legal suficiente" es genérico; debería detallarse cómo se acredita (ej. NIF de la SOCIMI, poderes notariales).  
+5. **Laguna jurídica**: No aplica.  
+
+---  
+
+### **Primera Cláusula (Destino de la vivienda)**  
+1. **Ilegalidad**: No. La limitación a uso residencial es conforme al art. 5 LAU.  
+2. **Abusividad**: No, pero la prohibición absoluta de cambio de destino sin autorización podría ser discutible si el cambio no perjudica al arrendador (ej. teletrabajo ocasional).  
+3. **Áreas de riesgo**:  
+   - "Familia" no está definida (¿incluye parejas de hecho? ¿otros convivientes?).  
+4. **Términos vagos**: "Estado actual" no se describe (debería incluir un inventario detallado).  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Segunda Cláusula (Régimen jurídico)**  
+1. **Ilegalidad**: No. Remisión correcta a la LAU y Código Civil.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Tercera Cláusula (Plazo y prórrogas)**  
+1. **Ilegalidad**:  
+   - **Sí**. La prórroga obligatoria hasta 3 años contradice el art. 9 LAU (máximo 5 años si es persona jurídica, pero el inquilino puede desistir tras 6 meses).  
+   - La indemnización por desistimiento (1 mes por año incumplido) excede lo permitido (art. 11 LAU: máximo 1 mes si el desistimiento es tras 6 meses).  
+2. **Abusividad**: **Sí**, por imponer condiciones más gravosas que la ley.  
+3. **Áreas de riesgo**:  
+   - Plazos de preaviso no coordinados con la LAU (ej. 4 meses para el arrendador).  
+4. **Términos vagos**: "Anualidades" no especifica si son naturales o desde la firma.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Cuarta Cláusula (Obligaciones del arrendatario)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**:  
+   - "Siempre que se considere oportuno" es amplio y podría ser abusivo si no se limita a casos justificados (art. 19 LAU exige "necesidad").  
+3. **Áreas de riesgo**:  
+   - "Preaviso razonable" es indeterminado (debería especificar horas/días).  
+4. **Términos vagos**: "Operarios que éste envíe" no define quiénes son (¿mantenimiento, inspecciones?).  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Quinta Cláusula (Renta y forma de pago)**  
+1. **Ilegalidad**:  
+   - **Sí**. El pago en dólares incumple el art. 17 LAU (debe ser en euros, moneda de curso legal en España).  
+   - La resolución por impago de 1 semana es desproporcionada (art. 27 LAU exige morosidad "notoria").  
+2. **Abusividad**: **Sí**, por exigir divisa extranjera y plazos de pago irrazonables.  
+3. **Áreas de riesgo**:  
+   - Falta de mecanismo de conversión dólares-euros.  
+4. **Términos vagos**: "Días laborables" no especifica si incluye festivos locales.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Sexta Cláusula (Actualización de renta)**  
+1. **Ilegalidad**:  
+   - **Sí**. La actualización semanal con IPC de EE.UU. vulnera el art. 18 LAU (solo permite anualidad y IPC español).  
+   - La retroactividad es ilegal (el art. 18 LAU prohíbe efectos retroactivos).  
+2. **Abusividad**: **Sí**, por condiciones leoninas (ej. IPC negativo no reduce la renta).  
+3. **Áreas de riesgo**:  
+   - Mecanismo de cálculo complejo y poco transparente.  
+4. **Términos vagos**: "Índices o módulos que los sustituyan" no está definido.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Séptima Cláusula (Prohibición de subarriendo y obras)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**:  
+   - La prohibición absoluta de obras menores (ej. colgar cuadros) podría ser abusiva (art. 21 LAU permite obras no alterativas).  
+3. **Áreas de riesgo**:  
+   - "Autorización expresa" no define plazos de respuesta del arrendador.  
+4. **Términos vagos**: "Obras mayores/menores" no están delimitadas.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Octava Cláusula (Gastos y tributos)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No, pero falta especificar qué parte asume el IBI y basuras (debería ser el arrendador, según art. 20 LAU).  
+3. **Áreas de riesgo**:  
+   - Espacios en blanco para asignación de gastos (riesgo de interpretación contradictoria).  
+4. **Términos vagos**: "Según ley" es redundante (ya se aplica la LAU).  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Novena Cláusula (Estado de la vivienda y obras)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**:  
+   - La prohibición de agujeros sin excepciones (ej. cuadros) podría ser abusiva.  
+   - El 20% de compensación por obras no autorizadas carece de base legal.  
+3. **Áreas de riesgo**:  
+   - No se adjunta el certificado energético (solo se menciona).  
+4. **Términos vagos**: "Desgaste lógico" no está definido.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Décima Cláusula (Reparaciones)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - "Estructura e instalaciones generales" debería definirse (ej. fontanería, electricidad).  
+4. **Términos vagos**: "Pequeñas reparaciones" es ambiguo.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Undécima Cláusula (Renuncia a derechos preferentes)**  
+1. **Ilegalidad**: No (art. 25.8 LAU permite la renuncia).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Falta marcar la opción elegida (renuncia/no renuncia).  
+4. **Términos vagos**: Ninguno.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Duodécima Cláusula (Fianza y garantía)**  
+1. **Ilegalidad**:  
+   - **Sí**. La actualización mensual de la fianza contradice el art. 36 LAU (solo se actualiza al finalizar el contrato).  
+   - El aval bancario de 1.000€ excede el límite legal (máximo 2 meses de renta, art. 36 LAU).  
+2. **Abusividad**: **Sí**, por exceso de garantías.  
+3. **Áreas de riesgo**:  
+   - "Mantener vigente el aval" no especifica plazos de renovación.  
+4. **Términos vagos**: Ninguno.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Decimotercera Cláusula (Resolución)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Decimocuarta Cláusula (Jurisdicción y notificaciones)**  
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - No se especifica si el email es medio válido para notificaciones judiciales.  
+4. **Términos vagos**: Ninguno.  
+5. **Laguna jurídica**: No.  
+
+---  
+
+### **Conclusión**  
+- **Cláusulas ilegales/abusivas**: 3ª, 5ª, 6ª, 12ª.  
+- **Recomendaciones**:  
+  1. Eliminar pactos contrarios a la LAU (ej. pago en dólares, actualización semanal de renta).  
+  2. Ajustar plazos y garantías a los límites legales.  
+  3. Definir términos ambiguos (ej. "obras menores", "preaviso razonable").  
+  4. Completar anexos obligatorios (certificado energético, inventario).

@@ -1,0 +1,156 @@
+Contrato de País Vasco 1.docx
+
+### **Análisis Preliminar (Antes de las Cláusulas)**  
+
+1. **Identificación de las Partes**:  
+   - Correcta identificación del arrendador y arrendatario, con datos esenciales (NIF, domicilio, correo electrónico y teléfono).  
+   - **Posible riesgo**: Falta de verificación de la capacidad jurídica de las partes (aunque se declara, no se adjuntan documentos probatorios).  
+
+2. **Descripción del Inmueble**:  
+   - Se detalla la ubicación, superficie y referencia catastral.  
+   - **Posible riesgo**: La superficie se indica como "aproximada", lo que podría generar conflictos si hay discrepancia con la realidad.  
+   - **Término vago**: "Superficie aproximada" (debería precisarse en metros cuadrados exactos).  
+
+3. **Certificado de Eficiencia Energética**:  
+   - Se menciona su entrega, cumpliendo con el Art. 5 de la LAU.  
+   - **Legalidad**: Correcto, pero debería adjuntarse copia al contrato.  
+
+4. **Inventario**:  
+   - Se adjunta un inventario detallado del mobiliario.  
+   - **Posible riesgo**: No se especifica el estado de los bienes (nuevo, usado, desgaste).  
+
+---  
+
+### **PRIMERA (Duración del Contrato y Prórrogas)**  
+
+1. **Plazo inicial de 1 año con prórrogas hasta 2 años**:  
+   - **Legalidad**: Correcto según Art. 9 LAU (plazo mínimo de arrendamiento de vivienda).  
+   - **Posible riesgo**: La prórroga automática hasta 2 años es legal, pero la notificación de no renovación con 30 días de antelación podría ser insuficiente si el arrendador necesita recuperar la vivienda.  
+
+2. **Prorrogas posteriores (hasta 3 años más)**:  
+   - **Legalidad**: Ajustado a la LAU (Art. 10), pero el plazo de notificación del arrendador (4 meses) es más exigente que el legal (Art. 10.1 LAU: 30 días para el arrendatario y 4 meses para el arrendador).  
+
+3. **Términos vagos**:  
+   - "Salvo que el arrendatario manifieste... con un mes de antelación" (debería precisar si es comunicación fehaciente).  
+
+---  
+
+### **SEGUNDA (Periodo Mínimo y Desistimiento)**  
+
+1. **Indemnización por incumplimiento del plazo mínimo (6 meses)**:  
+   - **Legalidad**: Legal, pero la indemnización equivalente al periodo faltante podría considerarse abusiva si supera el daño real (Art. 7.2 LAU).  
+   - **Posible riesgo**: La indemnización por desistimiento (1 mes por año restante) podría ser excesiva si no se justifica como daño real.  
+
+2. **Excepción a la prórroga obligatoria (necesidad de ocupación del arrendador)**:  
+   - **Legalidad**: Legal según Art. 9.3 LAU, pero debe probarse la necesidad real (sentencia firme en casos de divorcio, etc.).  
+
+---  
+
+### **TERCERA (Precio del Arrendamiento y Actualización)**  
+
+1. **Renta semanal en euros pagada en dólares**:  
+   - **Legalidad**: Riesgo de ilegalidad por fluctuación cambiaria (la LAU no regula pagos en divisa extranjera).  
+   - **Posible riesgo**: Conflictos por tipo de cambio aplicable.  
+
+2. **Actualización semanal según IPC español o estadounidense**:  
+   - **Legalidad**: Ilegal. La LAU (Art. 18) solo permite actualización anual por IPC español.  
+   - **Cláusula abusiva**: Actualización semanal es desproporcionada.  
+
+3. **Gastos incluidos/excluidos**:  
+   - **Legalidad**: Correcto, pero "gastos no susceptibles de individualización" es vago.  
+
+---  
+
+### **CUARTA (Forma de Pago)**  
+
+1. **Pago en metálico o transferencia**:  
+   - **Legalidad**: Legal, pero el pago en metálico sin recibo es riesgoso (falta de prueba de pago).  
+
+---  
+
+### **QUINTA (Impago y Consecuencias)**  
+
+1. **Interés de demora (legal + 2 puntos)**:  
+   - **Legalidad**: Legal (Art. 20.4 LAU).  
+
+2. **Cesión de datos a ficheros de morosidad**:  
+   - **Legalidad**: Legal si se cumple la LOPDGDD (requerimiento previo y comunicación posterior).  
+
+---  
+
+### **SEXTA (Obras y Reparaciones)**  
+
+1. **Prohibición de obras sin permiso escrito**:  
+   - **Legalidad**: Legal (Art. 21 LAU).  
+
+2. **Reparaciones por uso ordinario a cargo del arrendatario**:  
+   - **Legalidad**: Legal, pero el arrendador debe asumir las estructurales (Art. 21.1 LAU).  
+
+3. **Obras de mejora y aumento de renta**:  
+   - **Legalidad**: Legal si hay acuerdo (Art. 19.4 LAU).  
+
+---  
+
+### **SÉPTIMA (Obligaciones del Arrendatario)**  
+
+1. **Prohibición de actividades molestas/subarriendo**:  
+   - **Legalidad**: Legal (Art. 17 LAU).  
+
+2. **Animales peligrosos**:  
+   - **Legalidad**: Legal, pero "peligrosos" es subjetivo (debería definirse).  
+
+---  
+
+### **OCTAVA (Fianza y Garantías)**  
+
+1. **Fianza legal (2 semanas)**:  
+   - **Legalidad**: Legal (Art. 36 LAU), pero en País Vasco debe depositarse en organismo público.  
+
+2. **Aval bancario adicional (1.000 €)**:  
+   - **Legalidad**: Legal, pero podría ser abusivo si no se justifica.  
+
+---  
+
+### **NOVENA (Inventario y Devolución)**  
+
+1. **Devolución en perfecto estado**:  
+   - **Legalidad**: Legal, pero "perfecto estado" es subjetivo (debería especificar desgaste normal).  
+
+---  
+
+### **DÉCIMA (Renuncia al Derecho de Adquisición Preferente)**  
+
+1. **Renuncia al tanteo/retracto**:  
+   - **Legalidad**: Legal si es expresa (Art. 25.8 LAU).  
+
+---  
+
+### **UNDÉCIMA (Exención de Reparaciones del Arrendador)**  
+
+1. **Arrendador no se obliga a reparaciones de habitabilidad**:  
+   - **Ilegalidad**: Ilegal (Art. 21.1 LAU obliga al arrendador a mantener la habitabilidad).  
+
+2. **Responsabilidad del arrendatario por daños a terceros**:  
+   - **Legalidad**: Legal, pero no exime al arrendador de responsabilidad civil por vicios del inmueble.  
+
+---  
+
+### **DECIMOSEGUNDA (Prohibición de Obras)**  
+
+1. **Consentimiento escrito para instalaciones**:  
+   - **Legalidad**: Legal, pero "cualquier alteración en paredes" es excesivo (podría limitar uso normal).  
+
+---  
+
+### **Conclusiones Generales**  
+- **Cláusulas ilegales**:  
+  - Actualización semanal de renta (TERCERA).  
+  - Exención de reparaciones de habitabilidad (UNDÉCIMA).  
+- **Cláusulas potencialmente abusivas**:  
+  - Indemnización por desistimiento (SEGUNDA).  
+  - Aval bancario adicional (OCTAVA).  
+- **Lagunas jurídicas**:  
+  - Pago en dólares sin regulación en LAU.  
+  - Definición de "animales peligrosos".  
+
+**Recomendación**: Revisar y ajustar las cláusulas ilegales/abusivas para evitar nulidades y conflictos judiciales.

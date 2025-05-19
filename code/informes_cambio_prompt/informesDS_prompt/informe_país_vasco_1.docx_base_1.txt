@@ -1,0 +1,106 @@
+Contrato de País Vasco 1.docx
+
+### Análisis Preliminar (Antes de las Cláusulas)
+
+1. **Datos de las Partes y Objeto del Contrato**  
+   - **Legalidad**: Correcto, identifica a arrendador y arrendatario, domicilio, NIF, y objeto (vivienda con referencia catastral y certificado de eficiencia energética).  
+   - **Riesgos**: Falta completar datos como superficie útil y anexos (garaje/trastero), lo que podría generar disputas sobre descripciones inexactas.  
+   - **Términos vagos**: "Superficie aproximada" sin precisión exacta.  
+
+---
+
+### PRIMERA (Plazo y Renovación)  
+1. **Legalidad**: Ajustado a la LAU (art. 9 y 10), pero con matices:  
+   - Plazo inicial de 1 año + prórrogas hasta 3 años adicionales (máximo 5 años en total) es legal.  
+   - **Ilegalidad parcial**: La exigencia de 4 meses de preaviso del arrendador (vs. 30 días en LAU) podría ser nula por exceder el plazo legal.  
+2. **Abusividad**: No, salvo por el plazo de preaviso ampliado para el arrendador.  
+3. **Riesgos**: Confusión en plazos de preaviso (4 meses vs. 30 días legales).  
+4. **Términos vagos**: "Facultad de renovación anual" debería clarificar si es automática o requiere acuerdo.  
+
+---
+
+### SEGUNDA (Periodo Mínimo e Indemnizaciones)  
+1. **Legalidad**:  
+   - Periodo mínimo de 6 meses y penalización por incumplimiento: Legal (art. 11 LAU).  
+   - Indemnización de 1 mes por año pendiente: Legal, pero discutible si supera daños reales.  
+   - Excepción por necesidad de vivienda para familiares: Legal (art. 9.2 LAU).  
+2. **Abusividad**: La indemnización podría ser abusiva si no se justifica como daño real.  
+3. **Riesgos**: Cálculo proporcional para periodos <1 año puede generar conflictos.  
+
+---
+
+### TERCERA (Renta y Actualización)  
+1. **Legalidad**:  
+   - **Ilegalidad**: Actualización semanal de renta (debe ser anual según art. 18 LAU).  
+   - Pago en dólares: Riesgo cambiario y posible ilegalidad si no se ajusta a moneda legal (euros).  
+   - Inclusión de gastos generales: Legal, pero "no susceptibles de individualización" es vago.  
+2. **Abusividad**: Actualización semanal y pago en dólares podrían ser abusivos.  
+3. **Términos vagos**: "Gastos no susceptibles de individualización".  
+
+---
+
+### CUARTA (Forma de Pago)  
+1. **Legalidad**: Legal, pero falta completar datos bancarios.  
+2. **Riesgos**: Falta de recibo podría dificultar prueba de pago.  
+
+---
+
+### QUINTA (Impago)  
+1. **Legalidad**:  
+   - Interés de demora (legal + 2 puntos): Legal (art. 20.4 LAU).  
+   - Cesión de datos a ficheros: Legal con requisitos de protección de datos.  
+2. **Abusividad**: No, si se cumple normativa de protección de datos.  
+
+---
+
+### SEXTA (Obras y Reparaciones)  
+1. **Legalidad**:  
+   - Prohibición de obras sin permiso: Legal.  
+   - Reparaciones por uso ordinario a cargo del arrendatario: Legal (art. 21 LAU).  
+   - Obras de mejora y aumento de renta tras 5 años: Legal (art. 19.4 LAU).  
+2. **Riesgos**: Conflicto en delimitar "deterioro imputable" al arrendatario.  
+
+---
+
+### SÉPTIMA (Obligaciones del Arrendatario)  
+1. **Legalidad**: Prohibiciones estándar (subarriendo, animales peligrosos) son legales.  
+2. **Términos vagos**: "Actividades molestas o peligrosas" sin definir.  
+
+---
+
+### OCTAVA (Fianza y Garantía)  
+1. **Legalidad**:  
+   - Fianza legal (2 semanas): Legal (art. 36 LAU).  
+   - **Ilegalidad**: Actualización mensual de fianza (debe ser al final del contrato).  
+   - Aval bancario adicional: Legal si voluntario.  
+2. **Abusividad**: Actualización mensual de fianza podría ser abusiva.  
+
+---
+
+### NOVENA (Inventario y Devolución)  
+1. **Legalidad**: Correcto, pero inventario debe detallar estado de bienes.  
+2. **Riesgos**: Falta descripción exacta del estado inicial (ej. "perfecto estado" es subjetivo).  
+
+---
+
+### DÉCIMA (Venta y Derecho Preferente)  
+1. **Legalidad**: Renuncia a derecho preferente es legal (art. 25.8 LAU).  
+
+---
+
+### UNDÉCIMA (Reparaciones)  
+1. **Ilegalidad**: Cláusula que exime al arrendador de reparaciones de habitabilidad es nula (art. 21.1 LAU).  
+2. **Abusividad**: Eximir al arrendador de responsabilidad por daños a terceros podría ser abusivo.  
+
+---
+
+### DECIMOSEGUNDA (Obras)  
+1. **Legalidad**: Prohibición de obras sin permiso es legal, pero debe respetar normativa de accesibilidad.  
+
+### Conclusiones Generales  
+- **Cláusulas ilegales**: Actualización semanal de renta, exención de reparaciones de habitabilidad, actualización mensual de fianza.  
+- **Riesgos principales**: Plazos de preaviso contradictorios, términos vagos en obligaciones, falta de precisión en inventario.  
+- **Recomendaciones**: Ajustar a LAU en plazos, reparaciones, y actualización de renta; precisar términos vagos; completar datos omitidos.  
+
+---  
+*Nota: Este análisis se basa en la LAU (Ley 29/1994) y normativa complementaria (ej. protección de datos, normativa autonómica vasca).*

@@ -1,0 +1,38 @@
+Contrato de Aragon 1.docx
+
+###Análisis previo al inicio de las cláusulas:
+
+El contrato de arrendamiento de vivienda presentado establece las partes involucradas, la descripción del inmueble, las condiciones de arrendamiento, las obligaciones de ambas partes, la duración del contrato, la forma de pago, entre otros aspectos relevantes para regular la relación arrendaticia. Es importante destacar que el contrato se rige por la normativa española en materia de arrendamientos urbanos, específicamente por la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos (LAU).
+
+###Cláusula Primera:
+
+####1.1. Objeto:
+- No se observa ninguna ilegalidad en esta cláusula.
+- No se identifican áreas de riesgo en esta cláusula.
+- No se encuentran términos vagos en esta cláusula.
+- No parece existir una laguna jurídica en esta cláusula.
+
+###Cláusula Segunda:
+
+####2.1. Plazo:
+- La duración inicial del contrato es de un año, con posibilidad de prórroga tácita anual hasta un máximo de tres años.
+- No se aprecia ilegalidad en esta cláusula.
+- No se identifican áreas de riesgo en esta cláusula.
+- No se encuentran términos vagos en esta cláusula.
+- No parece existir una laguna jurídica en esta cláusula.
+
+####2.2. Desistimiento:
+- Se establece la posibilidad de desistimiento por parte del inquilino una vez transcurrido un año, con una indemnización proporcional.
+- No se observa ilegalidad en esta cláusula.
+- No se identifican áreas de riesgo en esta cláusula.
+- No se encuentran términos vagos en esta cláusula.
+- No parece existir una laguna jurídica en esta cláusula.
+
+###Cláusula Tercera:
+
+####3.1. Prórroga:
+- Se establece la prórroga obligatoria del contrato por anualidades hasta un máximo de tres años, salvo causas específicas.
+- No se aprecia ilegalidad en esta cláusula.
+- No se identifican áreas de riesgo en esta cláusula.
+- No se encuentran términos vagos en esta cláusula.
+- No parece existir una laguna jurídica en esta cláusula.

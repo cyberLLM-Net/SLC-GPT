@@ -1,0 +1,574 @@
+Contrato de Andalucía 1.docx
+
+Sección:
+CONTRATO DE ARRENDAMIENTO DE VIVIENDA REUNIDOS De una parte: Don [   ], mayor de edad, de nacionalidad [   ] con D.N.I. nº [   ], con domicilio en [   ] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Y de otra: Don [   ], con D.N.I. nº [   ], con domicilio en [   ].  y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Don [   ], con D.N.I. nº [   ], con domicilio en [   ].  y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. INTERVIENEN Don [   ] en su propio nombre y representación. En adelante se la denominará también como ARRENDADORA. Don [   ] en su propio nombre y representación. En adelante se les denominará también como ARRENDATARIO. Don [   ] en su propio nombre y representación. En adelante se les denominará también como AVALISTA. Ambas partes en la calidad con la que actúan, se reconocen recíprocamente capacidad jurídica para contratar y obligarse y en especial para el otorgamiento del presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA, del que resultan los siguientes ANTECEDENTES 1º.- Que LA ARRENDADORA, es propietaria de la vivienda sita en Sevilla calle Betis 15 1A. REF. CATASTRAL: [  0989901VK4708H0046PU ] Nº Cédula de habitabilidad [   ] se adjunta fotocopia de la misma como anexo al final del presente contrato. Certificado de eficiencia energética [   ]. Se adjunta fotocopia del certificado como anexo al final del presente contrato. A los efectos de dar cumplimiento a la ley de vivienda 2023 se señala lo siguiente: Acreditación de la superficie útil y construida de la vivienda, diferenciando en caso de división horizontal la superficie privativa de las comunes, y sin que pueda en ningún caso computarse a estos efectos las superficies de la vivienda con altura inferior a la exigida en la normativa reguladora: Se adjunta plano descriptivo / nota catastral / nota simple del registro de la propiedad. Antigüedad del edificio y, en su caso, de las principales reformas o actuaciones realizadas sobre el mismo: Servicios e instalaciones de que dispone la vivienda, tanto individuales como comunes. Certificado de eficiencia energética de la vivienda. Condiciones de accesibilidad de la vivienda y del edificio. Estado de ocupación o disponibilidad de la vivienda. Información jurídica del inmueble: la identificación registral de la finca, con la referencia de las cargas, gravámenes y afecciones de cualquier naturaleza, y la cuota de participación fijada en el título de propiedad. En el caso de tratarse de vivienda protegida, indicación expresa de tal circunstancia y de la sujeción al régimen legal de protección que le sea. En caso de edificios que cuenten oficialmente con protección arquitectónica por ser parte de un entorno declarado o en razón de su particular valor arquitectónico o histórico, se aportará información sobre el grado de protección y las condiciones y limitaciones para las intervenciones de reforma o rehabilitación. 2º.- Que EL ARRENDATARIO, está interesado en el alquiler de la vivienda descrita en el antecedente 1º, para su uso personal y vivienda habitual. 3º.- Y para formalizar lo que sobre el particular tienen convenido otorgan el presente contrato con sujeción a los siguientes, PACTOS
+
+Respuesta Base:
+Análisis de la cláusula:
+
+1. Ilegalidad: No se aprecia ninguna ilegalidad en la cláusula. Se ajusta a lo dispuesto en la Ley de Arrendamientos Urbanos (LAU) española.
+
+2. Abusividad: No se aprecia ninguna cláusula abusiva. Los términos y condiciones parecen ser justos y equitativos para ambas partes.
+
+3. Áreas de riesgo: No se identifican áreas de riesgo en esta cláusula. Sin embargo, es importante que la SOCIMI se asegure de que todos los documentos mencionados (DNI, cédula de habitabilidad, certificado de eficiencia energética, etc.) estén correctamente anexados al contrato.
+
+4. Términos vagos: No se identifican términos vagos en esta cláusula. Todos los términos y condiciones parecen estar claramente definidos.
+
+5. Posibles lagunas jurídicas: No se identifican lagunas jurídicas en esta cláusula. Se mencionan todos los elementos necesarios para un contrato de arrendamiento de vivienda según la LAU, incluyendo la identificación de las partes, la descripción de la propiedad, y la intención de las partes de entrar en un contrato de arrendamiento. Sin embargo, es importante que la SOCIMI se asegure de que todos los detalles mencionados en la cláusula (como la referencia catastral, la cédula de habitabilidad, el certificado de eficiencia energética, etc.) estén correctamente especificados y anexados al contrato.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+PRIMERO.- REGULACION.- El presente contrato se otorga conforme a lo establecido en la Ley 29/1994 de 24 de noviembre, de Arrendamientos Urbanos, modificada por la Ley 4/2013 de 5 de junio, y por lo pactado en el presente contrato. Con carácter supletorio es de aplicación lo dispuesto al efecto por el Código Civil.
+
+Respuesta Base:
+1.1. Cláusulas Ilegales: No, la cláusula no es ilegal. Se ajusta a la normativa vigente en España, específicamente a la Ley 29/1994 de 24 de noviembre, de Arrendamientos Urbanos, modificada por la Ley 4/2013 de 5 de junio.
+
+1.2. Cláusulas Abusivas: No, la cláusula no es abusiva. Establece el marco legal aplicable al contrato, lo cual es una práctica común y necesaria en este tipo de documentos.
+
+1.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo en esta cláusula. Sin embargo, es importante que ambas partes estén familiarizadas con las leyes mencionadas para entender completamente sus derechos y obligaciones.
+
+1.4. Identificar posibles términos vagos: No se identifican términos vagos en esta cláusula. Las leyes mencionadas son específicas y de conocimiento público.
+
+1.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La Ley de Arrendamientos Urbanos y el Código Civil cubren de manera exhaustiva la regulación de los contratos de arrendamiento. Sin embargo, siempre es posible que surjan situaciones no previstas por la ley, en cuyo caso se deberá recurrir a los principios generales del derecho.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEGUNDO.- OBJETO.- El objeto del arriendo del presente contrato lo constituye el piso-vivienda sita en calle Betís 15, 1A, Sevilla vacío de muebles y se destina exclusivamente a vivienda del arrendatario y para la permanente ocupación de él. Se adjuntan fotografías de la vivienda a los efectos de dejar constancia del estado del inmueble en el momento del arriendo. Si entrare a convivir con el arrendatario una tercera persona ajena del ámbito familiar directo en primer grado, lo deberá comunicar por escrito a la propiedad. El arrendatario declara recibir la vivienda en buen estado de conservación y en buenas condiciones de habitabilidad y se obliga a conservarla en perfecto estado.
+
+Respuesta Base:
+Análisis:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Se ajusta a lo establecido en la Ley de Arrendamientos Urbanos (LAU) española, que permite que el arrendador y el arrendatario acuerden el uso específico del inmueble.
+
+2.2. Cláusulas Abusivas: No se aprecian elementos abusivos en esta cláusula. La obligación de comunicar la entrada de una tercera persona ajena al ámbito familiar directo en primer grado puede considerarse razonable para el control del uso y conservación del inmueble.
+
+2.3. Identificar posibles áreas de riesgo: El principal riesgo en esta cláusula radica en la interpretación de "buen estado de conservación y en buenas condiciones de habitabilidad". Podría haber disputas sobre qué se considera "buen estado" y "buenas condiciones".
+
+2.4. Identificar posibles áreas términos vagos: Los términos "buen estado de conservación" y "buenas condiciones de habitabilidad" son subjetivos y podrían ser considerados vagos. Sería recomendable definir estos términos de manera más precisa para evitar posibles conflictos.
+
+2.5. Lagunas Jurídicas: No se aprecian lagunas jurídicas en esta cláusula. La LAU establece las obligaciones de conservación y mantenimiento de la vivienda por parte del arrendatario. Sin embargo, sería recomendable incluir una referencia a estas obligaciones legales para mayor claridad.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+TERCERO.- DURACION.- El plazo de duración del presente contrato se establece por un período de un año. Llegado el vencimiento del contrato, éste se prorrogará obligatoriamente por plazos anuales hasta que el arrendamiento alcance una duración mínima de dos años, salvo que el arrendatario manifieste al arrendador, con treinta días de antelación como mínimo a la fecha de terminación del contrato o de cualquiera de las prórrogas su voluntad de no renovarlo. El incumplimiento de dicho plazo se sancionará con la no devolución de la fianza. El período de tiempo mínimo de arrendamiento se establece en seis meses. En caso de desistimiento del contrato por parte del arrendatario antes de que se hubiera cumplido un año, dará lugar a una indemnización equivalente a la parte proporcional de la renta de un mes con relación a los meses que falten por cumplir de un año. El arrendatario deberá abandonar la vivienda arrendada el día que finalice el contrato. En el supuesto de que el arrendatario no abandonase la vivienda en la fecha de vencimiento del presente contrato, deberá abonar al arrendador una indemnización diaria desde dicha fecha hasta el completo desalojo de la vivienda equivalente al doble de la renta diaria que de acuerdo con lo previsto en el presente contrato debiera satisfacer. Se entiende por renta diaria el resultante de dividir por treinta la renta mensual correspondiente al último mes de vigencia del contrato. Dicha penalidad se entenderá sin perjuicio de las acciones indemnizatorias de los daños y perjuicios complementarios.
+
+Respuesta Base:
+Análisis:
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado. La cláusula se ajusta a la Ley de Arrendamientos Urbanos (LAU) española, que establece que el contrato de arrendamiento tiene una duración mínima de un año y puede prorrogarse hasta tres años más, salvo que el arrendatario manifieste su voluntad de no renovarlo con treinta días de antelación a la fecha de terminación del contrato o de cualquiera de las prórrogas.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en este apartado. Sin embargo, la sanción de no devolución de la fianza en caso de incumplimiento del plazo de preaviso podría considerarse desproporcionada, ya que la LAU establece que la fianza tiene como finalidad garantizar el cumplimiento de las obligaciones del arrendatario, pero no especifica que pueda retenerse en caso de incumplimiento del plazo de preaviso.
+
+2.3. Áreas de Riesgo: La principal área de riesgo en esta cláusula es la posibilidad de que el arrendatario no abandone la vivienda en la fecha de vencimiento del contrato, lo que podría dar lugar a un procedimiento de desahucio.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta cláusula.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. Sin embargo, podría ser conveniente especificar las condiciones en las que se puede retener la fianza, para evitar posibles interpretaciones ambiguas.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+CUARTO.- PRÓRROGA.- Llegado el plazo máximo de dos años pactados (o siete si el arrendador fuese persona jurídica), ninguna de las partes hubiese notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el caso del arrendador y al menos con dos meses de antelación en el caso del arrendatario, su voluntad de no renovarlo, el contrato se prorrogará obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que el arrendatario manifieste al arrendador con un mes de antelación a la fecha de terminación de cualquiera de las anualidades, su voluntad de no renovar el contrato. El período de tiempo mínimo de arrendamiento se establece en UN AÑO. [NUEVO] EN CASO DE QUE EL ARRENDADOR SEA GRAN TENEDOR: En los contratos de arrendamiento de vivienda habitual sujetos a la presente Ley en los que finalice el periodo de prórroga obligatoria, o el periodo de prórroga tácita, podrá aplicarse, previa solicitud del arrendatario, una prórroga extraordinaria del plazo del contrato de arrendamiento por un periodo máximo de un año, durante el cual se seguirá aplicando los términos y condiciones establecidos para el contrato en vigor. Esta solicitud de prórroga extraordinaria requerirá la acreditación por parte del arrendatario de una situación de vulnerabilidad social y económica sobre la base de un informe o certificado emitido en el último año por los servicios sociales de ámbito municipal o autonómico y deberá ser aceptada obligatoriamente por el arrendador cuando este sea un gran tenedor de vivienda de acuerdo con la definición de la Ley de vivienda estatal de 2023, salvo que se hubiese suscrito entre las partes un nuevo contrato de arrendamiento. [NUEVO] SI LA VIVIENDA ESTÁ EN UNA ZONA RESIDENCIAL TENSIONADA: En los contratos de arrendamiento de vivienda habitual sujetos a la presente Ley, en los que el inmueble se ubique en una zona de mercado residencial tensionado y dentro del periodo de vigencia de la declaración de la referida zona en los términos dispuestos en la legislación estatal en materia de vivienda, finalice el periodo de prórroga obligatoria legal de cinco o siete años o el periodo de prórroga tácita previsto en el apartado anterior, previa solicitud del arrendatario, podrá prorrogarse de manera extraordinaria el contrato de arrendamiento por plazos anuales, por un periodo máximo de tres años, durante los cuales se seguirán aplicando los términos y condiciones establecidos para el contrato en vigor. Esta solicitud de prórroga extraordinaria deberá ser aceptada obligatoriamente por el arrendador, salvo que se hayan fijado otros términos o condiciones por acuerdo entre las partes, se haya suscrito un nuevo contrato de arrendamiento con las limitaciones en la renta que en su caso procedan, o en el caso de que el arrendador haya comunicado en los plazos y condiciones establecidos en el artículo 9.3 de la LAU, la necesidad de ocupar la vivienda arrendada para destinarla a vivienda permanente para sí o sus familiares en primer grado de consanguinidad o por adopción o para su cónyuge en los supuestos de sentencia firme de separación, divorcio o nulidad matrimonial
+
+Respuesta Base:
+1. Cláusulas Ilegales: La cláusula no es ilegal. Se ajusta a lo establecido en el artículo 9 de la Ley de Arrendamientos Urbanos (LAU) en cuanto a la duración del contrato y las prórrogas.
+
+2. Cláusulas Abusivas: No se aprecian cláusulas abusivas en este apartado. Las condiciones de prórroga están claramente establecidas y se ajustan a la legislación vigente.
+
+3. Áreas de Riesgo: No se identifican áreas de riesgo en esta cláusula. Sin embargo, el arrendador debe estar atento a las notificaciones del arrendatario en cuanto a su voluntad de no renovar el contrato.
+
+4. Términos Vagos: No se identifican términos vagos en esta cláusula. Los plazos y condiciones para la prórroga del contrato están claramente definidos.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La cláusula se ajusta a la legislación vigente en materia de arrendamientos urbanos. Sin embargo, es importante tener en cuenta que la definición de "gran tenedor" y "zona residencial tensionada" debe estar claramente establecida en la Ley de Vivienda Estatal de 2023 y en la legislación estatal en materia de vivienda, respectivamente. En caso de que estas definiciones no estén claramente establecidas en la legislación, podría surgir una laguna jurídica.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+QUINTO.- RENTA Y ACTUALIZACIÓN.- Ambas Partes acuerdan fijar una renta semanal de 200 euros pagada por el Inquilino que será abonada por el inquilino en su equivalente en dólares estadounidenses. La falta de pago de una semana de renta será causa suficiente para que el Propietario pueda dar por resuelto este Contrato y ejercite la acción de desahucio. [La renta pactada será actualizada semanalmente conforme a las variaciones que experimente el mayor de estos índices: índice General Nacional del Sistema de Precios al Consumo de España ("I.P.C."), publicado por el Instituto Nacional de Estadística teniendo en consideración la variación en el mes inmediatamente anteriores o el Indice de Precios al Consumo de los Estados Unidos, publicado por la Entidad Nacional correspondiente de ese país. Si la variación experimentada por el I.P.C. fuera negativa, la renta permanecerá igual, sin actualizarse. El impago de una sola semana de la renta en los plazos estipulados dará derecho al arrendador a resolver el contrato e iniciar el correspondiente desahucio por impago de rentas, siendo por cuenta del arrendatario los gastos que estas acciones originen. La demanda podrá ser instada a partir del día quinto de la semana en que el arrendatario hubiera impagado dicha mensualidad. SI LA VIVIENDA ESTÁ SITUADA EN UNA ZONA DE MERCADO RESIDENCIA TENSIONADO: Se indica que la última renta del contrato de arrendamiento de vivienda habitual que hubiese estado vigente en los últimos cinco años fue de [   ], suscrito mediante contrato de fecha [   ]. El valor que le corresponde a la vivienda, atendiendo al índice de referencia de precios de alquiler de viviendas que resulte de aplicación es [   ] [NUEVO] Se hace constar que la última renta de contrato de arrendamiento de vivienda habitual que hubiese estado vigente en los últimos cinco años en la misma vivienda, una vez aplicada la cláusula de actualización anual de la renta del contrato anterior, sin que se puedan fijar nuevas condiciones que establezcan la repercusión al arrendatario de cuotas o gastos que no estuviesen recogidas en el contrato anterior ha sido de [INDICAR EL IMPORTE DE LA RENTA DEL ANTERIOR CONTRATO, APLICADAS LAS ACTUALIZACIONES CORRESPONDIENTES].
+
+Respuesta Base:
+1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado. Sin embargo, es importante señalar que la Ley de Arrendamientos Urbanos (LAU) en España establece que la renta se debe pagar mensualmente, no semanalmente. Además, la LAU no permite la actualización de la renta semanalmente, sino anualmente.
+
+2. Cláusulas Abusivas: La cláusula que establece que la falta de pago de una semana de renta será causa suficiente para que el Propietario pueda dar por resuelto este Contrato y ejercite la acción de desahucio puede ser considerada abusiva. Según la LAU, el arrendador sólo puede resolver el contrato por falta de pago de la renta si el arrendatario no paga durante dos meses consecutivos.
+
+3. Posibles áreas de riesgo: La cláusula que establece que la renta será abonada por el inquilino en su equivalente en dólares estadounidenses puede representar un riesgo debido a las fluctuaciones en el tipo de cambio.
+
+4. Términos vagos: La cláusula que establece que la renta será actualizada semanalmente conforme a las variaciones que experimente el mayor de estos índices: índice General Nacional del Sistema de Precios al Consumo de España ("I.P.C."), publicado por el Instituto Nacional de Estadística teniendo en consideración la variación en el mes inmediatamente anteriores o el Indice de Precios al Consumo de los Estados Unidos, publicado por la Entidad Nacional correspondiente de ese país. Este término es vago ya que no se especifica cómo se calculará la variación.
+
+5. Lagunas jurídicas: La cláusula que establece que la renta será abonada por el inquilino en su equivalente en dólares estadounidenses puede representar una laguna jurídica, ya que la LAU no contempla la posibilidad de pagar la renta en una moneda distinta al euro.
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEXTO.- FORMA DE PAGO.- El pago de la renta se verificará por adelantado, dentro de los tres primeros días de cada mes, mediante transferencia a la cuenta del arrendador: TITULAR: [   ] NUM. CUENTA: [   ] En este sentido el ARRENDATARIO hace constar que la cuenta corriente a que hace referencia el primer párrafo del presente PACTO es la siguiente: [   ]
+
+Respuesta Base:
+Análisis:
+
+1. Legalidad: La cláusula es legal. Según el artículo 17.1 de la Ley de Arrendamientos Urbanos (LAU), el pago de la renta se realizará en el plazo y forma que acuerden las partes, por lo que el método de pago por adelantado y mediante transferencia bancaria es válido.
+
+2. Abusividad: La cláusula no es abusiva. No se observa ningún término que pueda considerarse desequilibrado en perjuicio del arrendatario. El plazo de pago dentro de los tres primeros días de cada mes es razonable y común en este tipo de contratos.
+
+3. Áreas de riesgo: No se identifican áreas de riesgo evidentes en esta cláusula. Sin embargo, es importante que el arrendatario se asegure de tener fondos suficientes en su cuenta para realizar la transferencia a tiempo y evitar posibles penalizaciones por retraso en el pago.
+
+4. Términos vagos: No se identifican términos vagos en esta cláusula. Los términos utilizados son claros y precisos.
+
+5. Lagunas jurídicas: No se identifican lagunas jurídicas en esta cláusula. La LAU regula de manera clara la forma y plazo de pago de la renta en los contratos de arrendamiento.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N
+
+--------------------------------------------------------------------------------
+
+Sección:
+SÉPTIMO.-IMPUESTOS.- Los gastos de Comunidad de Propietarios así como el Impuesto sobre Bienes Inmuebles (I.B.I.), serán satisfechos íntegramente por el Inquilino. La tasa por recogida de residuos sólidos urbanos y la tasa por paso de carruajes (en su caso) será de cuenta del Inquilino.
+
+Respuesta Base:
+Análisis de la cláusula:
+
+1. Legalidad: La cláusula es legal. Según la Ley de Arrendamientos Urbanos (LAU) española, el arrendador puede repercutir al arrendatario el pago del Impuesto sobre Bienes Inmuebles (IBI) y los gastos de comunidad, siempre que así se haya pactado en el contrato. En este caso, el contrato establece claramente que estos gastos serán satisfechos por el inquilino.
+
+2. Abusividad: No es una cláusula abusiva. El arrendador tiene derecho a repercutir estos gastos al arrendatario, siempre que se haya pactado en el contrato. Sin embargo, es importante que el inquilino sea consciente de estos gastos antes de firmar el contrato.
+
+3. Áreas de riesgo: No se identifican áreas de riesgo en esta cláusula.
+
+4. Términos vagos: No se identifican términos vagos en esta cláusula. Todos los gastos que debe asumir el inquilino están claramente especificados.
+
+5. Lagunas jurídicas: No se identifican lagunas jurídicas en esta cláusula. La LAU permite que el arrendador repercuta al arrendatario el pago del IBI y los gastos de comunidad, siempre que se haya pactado en el contrato. En este caso, el contrato establece claramente que estos gastos serán satisfechos por el inquilino.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N
+
+--------------------------------------------------------------------------------
+
+Sección:
+OCTAVO.- OBLIGACIONES DE LA PARTE ARRENDATARIA.- La parte arrendataria en su calidad de inquilino de la vivienda arrendada asume expresamente las siguientes obligaciones: El pago de la renta, aumentos e incrementos legales, por adelantado dentro de los tres primeros días de cada mes, mediante domiciliación bancaria. A destinar el inmueble arrendado a la vivienda habitual y permanente del arrendatario y sus familiares, y a comunicar por escrito a la propiedad si entrare a convivir con el arrendatario una tercera persona ajena del ámbito familiar directo. Comunicar a la propiedad o al Administrador de Fincas, en el plazo de veinticuatro horas, cualquier incidencia o desperfecto hallado en el interior de la vivienda. A observar en todo momento las disposiciones legales vigentes. A permitir el acceso en la vivienda a la propiedad, su  Administrador, y a los operarios o industriales mandados por cualquiera de ambos, para la realización, inspección y comprobación de cualquier clase de obras o reparaciones que afecten al inmueble. A cumplir en todo momento las Normas Estatutarias Reglamentarias y los acuerdos de la Comunidad de Propietarios tenga establecidas o establezcan, en orden a la utilización de los servicios, elementos comunes y buen régimen de convivencia. A estos efectos no se permite la entrada de animales en el inmueble. A sufragar las pequeñas reparaciones que exija el desgaste por el uso ordinario de la vivienda, así como el deterioro de cuya reparación se trate, sea imputable al arrendatario. La parte arrendataria se obliga a contratar una póliza de seguros de daños, con una cobertura mínima de 6.000 € de continente y 20.000 € de contenido, que incluya también el riesgo de incendios, en compañía de notoria solvencia y durante toda la vigencia del contrato. En las condiciones de la póliza deberá hacerse mención expresa de la obligación del asegurador de notificar a la parte arrendadora la falta de pago de la prima así como cualquier modificación o incidencia que afecte al seguro. El incumplimiento de dicha obligación dará lugar a la resolución contractual.
+
+Respuesta Base:
+1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado del contrato. Todas las obligaciones impuestas al arrendatario son legales y están en consonancia con la Ley de Arrendamientos Urbanos (LAU) española.
+
+2. Cláusulas Abusivas: No se identifican cláusulas abusivas. Sin embargo, la cláusula que prohíbe la entrada de animales en el inmueble podría ser considerada abusiva si no se justifica por razones de higiene o seguridad, según la jurisprudencia española.
+
+3. Áreas de Riesgo: La cláusula que obliga al arrendatario a contratar una póliza de seguros de daños puede suponer un riesgo si no se especifica claramente qué tipo de daños cubre la póliza y qué sucede en caso de que el arrendatario no pueda contratar dicha póliza.
+
+4. Términos Vagos: La cláusula que obliga al arrendatario a "observar en todo momento las disposiciones legales vigentes" es vaga, ya que no especifica qué disposiciones legales debe observar el arrendatario.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en este apartado del contrato. Sin embargo, sería recomendable especificar qué se entiende por "pequeñas reparaciones" y "desgaste por el uso ordinario de la vivienda", para evitar posibles conflictos en el futuro.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+NOVENO.- OBLIGACIONES DE LA ARRENDADORA.- La parte arrendadora está obligada a: La devolución de la fianza a la parte arrendataria. A comunicar al arrendatario las actualizaciones pertinentes.. El Propietario NO se obliga a realizar las reparaciones que fueran necesarias en el Inmueble para conservar la vivienda en condiciones de habitabilidad para el uso convenido. El Inquilino será el único responsable de cuantos daños, tanto físicos como materiales puedan ocasionarse a terceros, como consecuencia, directa e indirecta de su habitabilidad en el Inmueble, eximiendo de toda responsabilidad al Propietario, incluso por daños derivados de instalaciones para servicios o suministros.
+
+Respuesta Base:
+1. Cláusulas Ilegales: La cláusula que establece que el propietario no se obliga a realizar las reparaciones necesarias para conservar la vivienda en condiciones de habitabilidad es ilegal. Según el artículo 21 de la Ley de Arrendamientos Urbanos (LAU), el arrendador está obligado a realizar, sin derecho a elevar por ello la renta, todas las reparaciones que sean necesarias para conservar la vivienda en las condiciones de habitabilidad para servir al uso convenido, salvo cuando el deterioro de cuya reparación se trate sea imputable al arrendatario.
+
+2. Cláusulas Abusivas: La cláusula que exime al propietario de toda responsabilidad por daños derivados de instalaciones para servicios o suministros puede ser considerada abusiva, ya que el propietario tiene la obligación de mantener la vivienda en condiciones de habitabilidad y seguridad.
+
+3. Áreas de Riesgo: La cláusula que establece que el inquilino será el único responsable de cuantos daños puedan ocasionarse a terceros como consecuencia de su habitabilidad en el inmueble puede generar riesgos, ya que puede haber situaciones en las que el propietario sea responsable.
+
+4. Términos Vagos: La cláusula no especifica qué se entiende por "daños, tanto físicos como materiales" ni qué se entiende por "terceros". Estos términos vagos pueden dar lugar a interpretaciones diversas y generar conflictos entre las partes.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. Sin embargo, es importante recordar que la LAU establece claramente las obligaciones del arrendador y del arrendatario, y cualquier cláusula que contradiga estas obligaciones puede ser considerada nula.
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO.- CAUSAS DE TERMINACIÓN DEL ARRIENDO.- Serán causas de terminación del presente contrato de arrendamiento de vivienda, además de las legalmente establecidas y de las previstas en este contrato, las que expresamente se mencionan a continuación: La falta de pago de una mensualidad, así como de las cantidades que, según contrato, corresponda satisfacer a la parte arrendataria. La falta de pago del importe de la fianza. Cuando en la vivienda arrendada no se destine al uso establecido en el objeto de este contrato, y que es la vivienda habitual y permanente del arrendatario. El incumplimiento por ambas partes de las obligaciones que se asumen en este contrato, de acuerdo con lo dispuesto en el artículo 1.124 del Código Civil, y en especial el incumplimiento por parte de la parte arrendataria de cualquiera de las obligaciones asumidas en el pacto Octavo del presente contrato. La necesidad del ARRENDADOR de ocupar la vivienda arrendada a partir del primer año de celebración del contrato, para destinarla a vivienda permanente para sí o sus familiares en primer grado de consanguinidad o por adopción o para su cónyuge en los supuestos de sentencia firme de separación, divorcio o nulidad matrimonial (art. 9.3 Ley arrendamientos Urbanos). Dicha comunicación deberá hacerse con al menos dos meses de antelación a la fecha en la que la vivienda se vaya a necesitar y el arrendatario estará obligado a entregar la finca arrendada en dicho plazo si las partes no llegan a un acuerdo distinto [PARA QUE ESTA CLÁUSULA SEA VÁLIDA ES PRECISO INDICAR EXPRESAMENTE A LA FIRMA DEL CONTRATO ESTE HECHO] . En caso de haberse pactado entre las partes el reemplazo total o parcial de la obligación del pago de la renta por el compromiso del arrendatario de reformar o rehabilitar el inmueble. Cuando la vivienda arrendada no se destine al satisfacer las necesidades de vivienda del arrendatario, o en la misma se lleven a cabo actividades nocivas, molestas, peligrosas, insalubres o ilícitas. Por habitar en la vivienda cualquier tipo de animales, incluso domésticos. Por causar molestias a los vecinos, y por haber requerido la presencia policial o de guardia urbana en al menos dos ocasiones por molestias a los vecinos ya sea por ruido, olores o conductas inapropiadas.
+
+Respuesta Base:
+1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado del contrato. Todas las causas de terminación del arrendamiento que se mencionan están en consonancia con la Ley de Arrendamientos Urbanos (LAU) y el Código Civil español.
+
+2. Cláusulas Abusivas: La cláusula que establece la terminación del contrato por la presencia de cualquier tipo de animales, incluso domésticos, podría considerarse abusiva, ya que no se especifica que estos animales deben causar molestias o daños a la propiedad. Esta cláusula podría ser considerada abusiva si se aplica de manera indiscriminada, sin tener en cuenta las circunstancias concretas.
+
+3. Áreas de Riesgo: La cláusula que permite la terminación del contrato por la necesidad del arrendador de ocupar la vivienda puede generar riesgos si no se maneja correctamente. El arrendador debe demostrar que realmente necesita la vivienda para sí mismo o para sus familiares en primer grado. Además, debe notificar al arrendatario con al menos dos meses de antelación.
+
+4. Términos Vagos: La cláusula que permite la terminación del contrato por "actividades nocivas, molestas, peligrosas, insalubres o ilícitas" es bastante vaga y podría dar lugar a interpretaciones subjetivas. Sería recomendable especificar qué se entiende por estas actividades.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en este apartado del contrato. Todas las causas de terminación del arrendamiento que se mencionan están contempladas en la legislación vigente. Sin embargo, es importante recordar que la interpretación y aplicación de estas cláusulas debe hacerse siempre de acuerdo con la ley y los principios de equidad.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOPRIMERO.- OBRAS.- El arrendatario no podrá practicar obras de clase alguna en la vivienda sin previo permiso concedido por escrito por el arrendado. En todo caso, las obras así autorizadas serán de cargo y cuenta del arrendatario y quedarán en beneficio de la finca, sin derecho a indemnización o reclamación en momento alguno. El permiso municipal será también de cuenta y cargo del arrendatario, así como la dirección técnica o facultativa en su caso, obligándose a reponer los daños causados y a reponer a su costa el estado original de la vivienda. Queda expresamente prohibido realizar obras en las fachadas exteriores del edificio, variar la pintura, o instalar elementos que modifiquen su estado y configuración arquitectónica. El incumplimiento por parte del arrendatario de las obligaciones derivadas en este pacto Decimoprimero dará lugar a la resolución del presente contrato de forma inmediata.
+
+Respuesta Base:
+1. Cláusula Ilegal: No, la cláusula no es ilegal. Se ajusta a lo establecido en el artículo 23 de la Ley de Arrendamientos Urbanos (LAU) que permite al arrendador prohibir al arrendatario la realización de obras que modifiquen la configuración de la vivienda o sus instalaciones.
+
+2. Cláusula Abusiva: No, la cláusula no es abusiva. Establece condiciones razonables y proporcionadas en relación con las obras que el arrendatario puede realizar en la vivienda, siempre con el consentimiento del arrendador.
+
+3. Áreas de Riesgo: El principal riesgo radica en la posibilidad de que el arrendatario realice obras sin el consentimiento del arrendador, lo que podría dar lugar a la resolución del contrato. Es importante que el arrendador supervise de manera adecuada el uso que el arrendatario hace de la vivienda.
+
+4. Términos Vagos: No se identifican términos vagos en la cláusula. Los términos utilizados son claros y precisos.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en la cláusula. La misma se ajusta a lo establecido en la LAU y no deja sin regular ninguna situación que pueda surgir en relación con las obras que el arrendatario puede realizar en la vivienda.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOSEGUNDO.- CONSERVACIÓN.- El arrendatario declara conocer las características y estado de conservación de la finca y aceptarlas expresamente y se obliga a conservarla en perfecto estado para el uso al que se destina, compuesta de puertas, cerraduras, cristales, instalaciones de toda clase, y en igual estado y a plena satisfacción de la propiedad tendrá que devolverlo cuando finalice el contrato. En este sentido son de cuenta y cargo del arrendatario los gastos ocasionados por los desperfectos que se produzcan, ya sean cristales, cerraduras y demás útiles y utensilios de las instalaciones y su adecuado entretenimiento, los gastos de conservación y reparación de las instalaciones de agua y electricidad, e instalaciones sanitarias y de servicios, calentador, receptor interior de la antena TV, y en particular todos los desagües, atascos, arreglo de la cocina, fregaderos, lavaderos, y sus tuberías, como también la conservación, reparación y sustitución de persianas, en caso de existir tales utensilios e instalaciones. Son de cuenta y cargo del arrendatario los gastos ocasionados por todos los desperfectos que se produzcan en la vivienda arrendada como consecuencia del uso de la misma.
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Según la Ley de Arrendamientos Urbanos española, el arrendatario tiene la obligación de realizar las pequeñas reparaciones que exija el desgaste por el uso ordinario de la vivienda y pagar los gastos de mantenimiento ordinario de la vivienda.
+
+2.2. Cláusulas Abusivas: No obstante, esta cláusula podría considerarse abusiva en la medida en que parece imponer al arrendatario la obligación de asumir todos los gastos de conservación y reparación de la vivienda, incluyendo aquellos que deberían ser responsabilidad del arrendador. Según la Ley de Arrendamientos Urbanos, el arrendador tiene la obligación de realizar, sin derecho a elevar por ello la renta, todas las reparaciones que sean necesarias para conservar la vivienda en las condiciones de habitabilidad para servir al uso convenido, salvo cuando el deterioro de cuya reparación se trate sea imputable al arrendatario.
+
+2.3. Posibles áreas de riesgo: Esta cláusula podría generar un riesgo para la SOCIMI en caso de que se determine que es abusiva y, por lo tanto, nula. En ese caso, la SOCIMI podría verse obligada a asumir los costos de reparación y mantenimiento que se pretendía imponer al arrendatario.
+
+2.4. Posibles términos vagos: La cláusula contiene términos vagos como "perfecto estado" y "a plena satisfacción de la propiedad", que podrían dar lugar a interpretaciones subjetivas y conflictos entre las partes.
+
+2.5. Lagunas jurídicas: No se identifican lagunas jurídicas en esta cláusula. Sin embargo, es importante tener en cuenta que la interpretación y aplicación de la cláusula deberá realizarse de acuerdo con la Ley de Arrendamientos Urbanos y la jurisprudencia aplicable.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOTERCERO.- SUMINISTROS.- La adquisición, conservación, reparación o sustitución de los contadores de suministros y el importe del consumo, son de cuenta y cargo exclusivo del arrendatario. El inmueble se alquila en el estado actual de las acometidas generales y ramales o líneas existentes correspondientes al mismo, para los suministros de los que está dotado el inmueble. El arrendatario podrá concertar con las respectivas compañías suministradoras todos o algunos de los suministros de que está dotado el inmueble, con total indemnidad de la propiedad y del administrador. Si se hubiere de efectuar alguna modificación, en las instalaciones particulares del inmueble arrendado, su costo será íntegramente a cargo del arrendatario, caso de que le interese y desee continuar con el suministro de que se trata, pero previamente deberá someter a la propiedad, para su aprobación, el informe y proyecto de las variaciones que en cada caso deban realizarse, exigidas por la respectiva compañía suministradora. El inquilino se obliga a realizar el cambio de titularidad de cada suministro, en el plazo de 7 días naturales a contar desde hoy. Queda exenta la propiedad de toda responsabilidad por la falta de cualquier suministro. En caso de que el ARRENDATARIO diera de baja alguno de los suministros de agua o electricidad, una vez finalizado el contrato, se penalizará con 400 euros, que podrán detraerse de la fianza.
+
+Respuesta Base:
+1. Análisis de la cláusula:
+
+Esta cláusula establece que el arrendatario es responsable de todos los costos relacionados con los suministros de la propiedad, incluyendo la adquisición, conservación, reparación o sustitución de los contadores de suministros y el importe del consumo. Además, el arrendatario tiene la obligación de cambiar la titularidad de cada suministro en un plazo de 7 días naturales desde la firma del contrato. También se establece una penalización de 400 euros si el arrendatario da de baja alguno de los suministros de agua o electricidad una vez finalizado el contrato.
+
+2.1. Cláusulas Ilegales:
+
+La cláusula no parece contener elementos ilegales según la legislación española. 
+
+2.2. Cláusulas Abusivas:
+
+La cláusula podría considerarse abusiva en la parte en que establece una penalización de 400 euros si el arrendatario da de baja alguno de los suministros una vez finalizado el contrato. Esta penalización podría ser considerada desproporcionada.
+
+2.3. Identificar posibles áreas de riesgo:
+
+El principal riesgo en esta cláusula es la posible interpretación de abusividad en la penalización de 400 euros por dar de baja los suministros. 
+
+2.4. Identificar posibles términos vagos:
+
+La cláusula podría ser considerada vaga en la parte que dice "con total indemnidad de la propiedad y del administrador". No se especifica qué se entiende por "total indemnidad".
+
+2.5. Lagunas jurídicas:
+
+No se identifican lagunas jurídicas en esta cláusula. Sin embargo, sería recomendable revisar la legislación local para asegurarse de que todas las responsabilidades y obligaciones del arrendatario en relación con los suministros están claramente establecidas y son legales.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOCUARTO.- FIANZA.- El Inquilino entrega en este acto al Propietario, quien declara recibirla, la cantidad de 200 EUROS, equivalente a dos semanas de renta, por concepto de fianza legal, según lo establecido en el apartado primero del Artículo 36 de la LAU para garantizar el cumplimiento de las obligaciones que asume en virtud del presente Contrato. La fianza se actualizará en la cuantía que corresponda de manera mensual. 5Garantía adicional: El Inquilino entrega en este acto un aval bancario por un importe máximo garantizado de 1.000 Euros, a primer requerimiento y como garantía de todas las responsabilidades económicas asumidas por el Inquilino en virtud del presente Contrato. El referido aval se incorpora al presente Contrato como Anexo. El/los Inquilino(s) se compromete a mantener vigente el referido Aval durante toda la vigencia del Contrato.
+
+Respuesta Base:
+Análisis:
+
+1. Ilegalidad: La cláusula no es ilegal. Según la Ley de Arrendamientos Urbanos (LAU) española, es legal que el propietario solicite una fianza al inquilino para garantizar el cumplimiento de las obligaciones del contrato. Además, la LAU permite que se soliciten garantías adicionales a la fianza, como un aval bancario.
+
+2. Abusividad: La cláusula no es abusiva. Sin embargo, es importante señalar que la actualización mensual de la fianza podría considerarse excesiva si no se justifica adecuadamente. En este sentido, sería recomendable revisar la justificación de esta actualización mensual.
+
+3. Áreas de riesgo: El principal riesgo en esta cláusula es la actualización mensual de la fianza. Si no se justifica adecuadamente, podría ser considerada abusiva y, por lo tanto, nula. Además, el inquilino podría tener dificultades para mantener el aval bancario durante toda la vigencia del contrato, lo que podría dar lugar a conflictos.
+
+4. Términos vagos: La cláusula es clara y no contiene términos vagos. Sin embargo, sería recomendable especificar qué se entiende por "actualización mensual" de la fianza y cómo se calculará.
+
+5. Lagunas jurídicas: No se identifican lagunas jurídicas en esta cláusula. La LAU regula de manera clara y precisa la fianza y las garantías adicionales en los contratos de arrendamiento.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOQUINTO.- PROHIBICIÓN DEL SUBARRIENDO.- Queda expresamente prohibida la cesión del contrato y/o el subarriendo parcial y/o total de la vivienda arrendada. El incumplimiento por parte del arrendatario de esta prohibición dará lugar a la resolución del presente contrato de forma inmediata.
+
+Respuesta Base:
+1. Análisis de la cláusula:
+
+Esta cláusula prohíbe al arrendatario ceder el contrato o subarrendar total o parcialmente la vivienda arrendada. Además, establece que el incumplimiento de esta prohibición dará lugar a la resolución inmediata del contrato.
+
+2.1. Cláusulas Ilegales:
+
+Esta cláusula no es ilegal. De acuerdo con el artículo 8 de la Ley de Arrendamientos Urbanos (LAU) española, el arrendatario no puede subarrendar o ceder el contrato sin el consentimiento por escrito del arrendador. Por lo tanto, esta cláusula es legal y está en línea con la legislación española.
+
+2.2. Cláusulas Abusivas:
+
+Esta cláusula no es abusiva. El arrendador tiene el derecho de prohibir el subarriendo o la cesión del contrato para proteger sus intereses y asegurarse de que la vivienda se utiliza de la manera acordada.
+
+2.3. Identificar posibles áreas de riesgo:
+
+No se identifican áreas de riesgo en esta cláusula. Sin embargo, el arrendador debe asegurarse de que esta cláusula se cumple para evitar posibles problemas.
+
+2.4. Identificar posibles términos vagos:
+
+La cláusula es clara y no contiene términos vagos.
+
+2.5. Lagunas Jurídicas:
+
+No se identifican lagunas jurídicas en esta cláusula. La legislación española es clara en cuanto a la prohibición de subarriendo y cesión del contrato sin el consentimiento del arrendador.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOSEXTO.- RENUNCIA DEL DERECHO DE ADQUISICION PREFERENTE.- El arrendatario hace expresa renuncia a los derechos de tanteo y retracto recogidos en el artículo 25 de la LAU.
+
+Respuesta Base:
+Análisis:
+
+1. Cláusulas Ilegales: Esta cláusula no es ilegal. Según la Ley de Arrendamientos Urbanos (LAU) española, el inquilino tiene derecho de tanteo y retracto en caso de venta de la vivienda arrendada, pero puede renunciar a estos derechos, como se establece en esta cláusula. 
+
+2. Cláusulas Abusivas: No es abusiva. Aunque la renuncia a estos derechos puede parecer desfavorable para el inquilino, la ley permite tal renuncia y, por lo tanto, no puede considerarse abusiva.
+
+3. Posibles áreas de riesgo: El principal riesgo aquí es para el inquilino, que renuncia a su derecho a comprar la propiedad si el propietario decide venderla. Sin embargo, para el propietario (en este caso, la SOCIMI), esta cláusula reduce el riesgo de tener que vender la propiedad al inquilino en lugar de a un tercero que pueda ofrecer un precio más alto.
+
+4. Términos vagos: No hay términos vagos en esta cláusula. Se refiere específicamente a los derechos de tanteo y retracto y al artículo de la LAU que los regula.
+
+5. Lagunas jurídicas: No parece haber ninguna laguna jurídica en esta cláusula. La LAU es clara en cuanto a los derechos de tanteo y retracto y su posible renuncia. Sin embargo, sería recomendable que el inquilino esté plenamente informado y comprenda lo que significa esta renuncia antes de firmar el contrato.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOSÉPTIMO.- RENUNCIA A LA SUBROGACIÓN.- De conformidad con el artículo 16.4 de la LAU no existirá derecho de subrogación en caso de fallecimiento del arrendatario.
+
+Respuesta Base:
+Análisis de la Cláusula DECIMOSÉPTIMA:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Se ajusta a lo establecido en el artículo 16.4 de la Ley de Arrendamientos Urbanos (LAU) española, que establece que no habrá derecho a subrogación en caso de fallecimiento del arrendatario, salvo que se trate de los supuestos contemplados en los apartados 1 y 2 del mismo artículo.
+
+2.2. Cláusulas Abusivas: No es una cláusula abusiva. Se trata de una cláusula que se ajusta a la normativa legal vigente y que tiene por objeto regular una situación específica prevista en la LAU.
+
+2.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo en esta cláusula. La misma se limita a reproducir lo establecido en la LAU.
+
+2.4. Identificar posibles áreas términos vagos: No se identifican términos vagos en esta cláusula. La misma es clara y precisa en su redacción.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La misma se ajusta a lo previsto en la LAU y no deja espacio para situaciones no contempladas en la normativa vigente.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMOCTAVO.- JURISDICCIÓN.- Las partes se someten a los Juzgados y Tribunales de [   ] y los superiores que le correspondan.
+
+Respuesta Base:
+1. Análisis de la cláusula:
+
+Esta cláusula se refiere a la jurisdicción competente en caso de que surja algún conflicto entre las partes. Las partes acuerdan someterse a los Juzgados y Tribunales de un lugar específico (que no se menciona en la cláusula) y a los superiores que le correspondan.
+
+2.1. Cláusulas Ilegales:
+
+La cláusula no es ilegal. En el derecho español, las partes pueden acordar someterse a una jurisdicción específica, siempre y cuando no se trate de un contrato de adhesión o de consumo, en cuyo caso la ley establece ciertas restricciones para proteger al consumidor.
+
+2.2. Cláusulas Abusivas:
+
+La cláusula no es abusiva en sí misma. Sin embargo, podría ser considerada abusiva si el lugar de jurisdicción acordado resulta ser muy lejano o inaccesible para una de las partes, causando un desequilibrio significativo en sus derechos y obligaciones.
+
+2.3. Identificar posibles áreas de riesgo:
+
+El principal riesgo en esta cláusula es que el lugar de jurisdicción acordado sea inapropiado o inconveniente para una de las partes. Esto podría dificultar su capacidad para defender sus derechos en caso de conflicto.
+
+2.4. Identificar posibles términos vagos:
+
+El término "[   ]" es vago ya que no se especifica el lugar de jurisdicción. Este término debería ser reemplazado por el nombre de la ciudad o región acordada.
+
+2.5. Lagunas jurídicas:
+
+No se identifican lagunas jurídicas en esta cláusula. Sin embargo, es importante asegurarse de que el lugar de jurisdicción acordado sea legal y apropiado según la ley española.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DECIMONOVENO.- NOTIFICACIONES.- A efectos de recibir cualquier notificación vinculada con los derechos y obligaciones reconocidos en este contrato se designa la dirección que consta en el encabezamiento del contrato para el arrendador, y el de la vivienda que es objeto de arrendamiento para el arrendatario. Asimismo, y a fin de facilitar las comunicaciones entre las partes se designan las siguientes direcciones de correo electrónico, siempre que se garantice la autenticidad de la comunicación y de su contenido y quede constancia fehaciente de la remisión y recepción íntegras y del momento en que se hicieron. Por el arrendatario: [   ] Por el arrendador: [   ] Por el avalista: [   ]
+
+Respuesta Base:
+Análisis:
+
+1. Ilegalidad: No, la cláusula no es ilegal. En España, la Ley de Arrendamientos Urbanos (LAU) no prohíbe que las partes acuerden un lugar para recibir notificaciones. Además, el uso de correo electrónico para las notificaciones está permitido siempre que se cumplan las condiciones establecidas en la cláusula.
+
+2. Abusividad: No, la cláusula no es abusiva. No impone ninguna condición desfavorable o injusta a ninguna de las partes. Ambas partes tienen la oportunidad de recibir notificaciones en un lugar conveniente para ellas.
+
+3. Áreas de riesgo: No parece haber áreas de riesgo evidentes en esta cláusula. Sin embargo, es importante que las partes se aseguren de mantener actualizadas las direcciones de correo electrónico proporcionadas para evitar problemas de comunicación.
+
+4. Términos vagos: No, la cláusula no contiene términos vagos. Es clara y precisa en cuanto a cómo y dónde deben enviarse las notificaciones.
+
+5. Posibles lagunas jurídicas: No parece haber ninguna laguna jurídica en esta cláusula. La LAU no especifica cómo deben realizarse las notificaciones, por lo que las partes tienen libertad para acordar el método que prefieran. Sin embargo, es importante que las partes se aseguren de que cualquier método de notificación que elijan cumpla con los requisitos legales para ser considerado como prueba en caso de litigio.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+VIGÉSIMO.- Se constituye en fiador personal y solidario de las obligaciones dimanantes de este contrato de arrendamiento D. ………………………….. El fiador se obliga a pagar o cumplir todas y cada una de las obligaciones del arrendatario en caso de incumplimiento por parte de éste, incluyendo los gastos judiciales establecidos en el artículo 1827 del Código Civil. Manifiesta el fiador que su obligación será vinculante tanto durante el periodo contractual como durante las sucesivas prórrogas que pudieran producirse, del tipo que sean e, incluso, para el caso de tácita reconducción. El fiador renuncia en este acto al beneficio de orden y al derecho de excusión, así como al derecho de división para el caso de que se tuviere que adicionar nuevo fiador al contrato.
+
+Respuesta Base:
+Análisis:
+
+1. Legalidad: La cláusula es legal. En el derecho español, la figura del fiador es reconocida y regulada por el Código Civil en sus artículos 1822 y siguientes. El fiador se obliga a cumplir con las obligaciones del deudor principal en caso de que éste no lo haga. 
+
+2. Abusividad: No es abusiva. La cláusula establece claramente las obligaciones del fiador y las consecuencias de su incumplimiento. Sin embargo, es importante que el fiador comprenda plenamente las implicaciones de su papel y las obligaciones que asume.
+
+3. Áreas de riesgo: El principal riesgo radica en la posibilidad de que el arrendatario no cumpla con sus obligaciones y el fiador tenga que asumir la responsabilidad. Además, la cláusula establece que la obligación del fiador se extiende a las prórrogas del contrato, lo que podría suponer un compromiso a largo plazo.
+
+4. Términos vagos: No se identifican términos vagos en la cláusula. Todos los términos y condiciones están claramente definidos.
+
+5. Lagunas jurídicas: No se identifican lagunas jurídicas en la cláusula. La figura del fiador y sus obligaciones están claramente reguladas en el Código Civil español. Sin embargo, es importante que el fiador esté plenamente informado de sus obligaciones y derechos antes de asumir este papel.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N
+
+--------------------------------------------------------------------------------
+
+Sección:
+VIGESIMOPRIMERO.- ACEPTACIÓN.- Las partes aceptan el presente contrato así como sus  correspondientes anexos y sus efectos jurídicos y se comprometen a su cumplimiento de buena fe. En [   ] a  de [   ] de [   ] EL ARRENDADOR ___________________________ DON [   ] EL ARRENDATARIO __________________________ DON [   ] EL AVALISTA ____________________ DON [   ] Relación de Anexos : Anexo nº 1 – Documento identificativo del arrendatario Anexo nº2 – Documento bancario Anexo nº3 – Nominas Anexo nº4 .- Fotos de la vivienda
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Se ajusta a la normativa española en materia de arrendamientos urbanos, en particular a la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
+
+2.2. Cláusulas Abusivas: No se puede considerar abusiva. Establece la aceptación del contrato por ambas partes y su compromiso de cumplirlo de buena fe, lo cual es un principio general del derecho. Además, se incluye una relación de anexos que forman parte del contrato, lo cual es una práctica habitual y recomendable para aportar mayor seguridad jurídica a las partes.
+
+2.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo en esta cláusula.
+
+2.4. Identificar posibles áreas términos vagos: Los términos de esta cláusula son claros y no se identifican términos vagos. No obstante, los espacios en blanco deberán ser correctamente rellenados para evitar posibles interpretaciones ambiguas.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. Se ajusta a la normativa vigente y no deja sin regular ninguna situación que pueda surgir en el marco de la relación arrendaticia.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
