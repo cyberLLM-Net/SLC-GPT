@@ -1,0 +1,268 @@
+Contrato de Andalucía 1.docx
+
+### Análisis Preliminar (Antes de la Primera Cláusula)
+
+**1. Identificación de las Partes y Antecedentes:**
+   - El contrato identifica correctamente a las partes (arrendador, arrendatario y avalista) y sus respectivas capacidades jurídicas para contratar. Se adjuntan documentos identificativos y se describe la propiedad objeto del contrato, cumpliendo con los requisitos de la Ley de Vivienda 2023.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales en esta sección.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas en esta sección.
+   - **Áreas de Riesgo:** La falta de especificación de algunos datos (como la referencia catastral completa o el certificado de eficiencia energética) podría generar problemas en caso de disputa.
+   - **Términos Vagos:** No se detectan términos vagos en esta sección.
+   - **Lagunas Jurídicas:** No se detectan lagunas jurídicas en esta sección.
+
+---
+
+### PRIMERO.- REGULACIÓN
+
+**1. Regulación del Contrato:**
+   - El contrato se rige por la Ley de Arrendamientos Urbanos (LAU) y, supletoriamente, por el Código Civil.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### SEGUNDO.- OBJETO
+
+**2. Objeto del Contrato:**
+   - El objeto es el arrendamiento de una vivienda para uso exclusivo como vivienda habitual. Se prohíbe la convivencia con terceros no familiares sin notificación.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** La prohibición de convivencia con terceros no familiares podría considerarse abusiva si limita derechos fundamentales del arrendatario.
+   - **Áreas de Riesgo:** La prohibición de convivencia con terceros no familiares podría generar conflictos.
+   - **Términos Vagos:** No se especifica qué se entiende por "tercera persona ajena del ámbito familiar directo en primer grado".
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### TERCERO.- DURACIÓN
+
+**3. Duración del Contrato:**
+   - El contrato tiene una duración inicial de un año, con prórrogas obligatorias hasta alcanzar dos años. Se establecen penalizaciones por desistimiento anticipado.
+   - **Cláusulas Ilegales:** La penalización por desistimiento anticipado podría ser ilegal si excede lo permitido por la LAU.
+   - **Cláusulas Abusivas:** La penalización por desistimiento anticipado podría considerarse abusiva si es desproporcionada.
+   - **Áreas de Riesgo:** La penalización por desistimiento anticipado y la indemnización diaria por no desalojo podrían generar conflictos.
+   - **Términos Vagos:** No se especifica cómo se calcula la indemnización diaria por no desalojo.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### CUARTO.- PRÓRROGA
+
+**4. Prórroga del Contrato:**
+   - Se establecen prórrogas obligatorias y extraordinarias, especialmente en casos de vulnerabilidad social o zonas tensionadas.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Las prórrogas extraordinarias podrían generar incertidumbre para el arrendador.
+   - **Términos Vagos:** No se especifica cómo se acredita la "situación de vulnerabilidad social y económica".
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### QUINTO.- RENTA Y ACTUALIZACIÓN
+
+**5. Renta y Actualización:**
+   - La renta se fija en euros pero se paga en dólares, con actualización semanal según el IPC o el IPC de EE.UU.
+   - **Cláusulas Ilegales:** La actualización semanal de la renta podría ser ilegal según la LAU, que establece actualizaciones anuales.
+   - **Cláusulas Abusivas:** La actualización semanal y el pago en dólares podrían considerarse abusivas.
+   - **Áreas de Riesgo:** La actualización semanal y el pago en dólares podrían generar conflictos.
+   - **Términos Vagos:** No se especifica cómo se realiza la conversión de euros a dólares.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### SEXTO.- FORMA DE PAGO
+
+**6. Forma de Pago:**
+   - La renta se paga por adelantado mediante transferencia bancaria.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### SÉPTIMO.- IMPUESTOS
+
+**7. Impuestos:**
+   - El arrendatario asume los gastos de comunidad, IBI y tasas municipales.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### OCTAVO.- OBLIGACIONES DE LA PARTE ARRENDATARIA
+
+**8. Obligaciones del Arrendatario:**
+   - El arrendatario asume diversas obligaciones, incluyendo el pago de la renta, la contratación de un seguro y la prohibición de tener animales.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** La prohibición de tener animales podría considerarse abusiva si no está justificada.
+   - **Áreas de Riesgo:** La prohibición de tener animales y la obligación de contratar un seguro podrían generar conflictos.
+   - **Términos Vagos:** No se especifica qué se entiende por "pequeñas reparaciones".
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### NOVENO.- OBLIGACIONES DE LA ARRENDADORA
+
+**9. Obligaciones del Arrendador:**
+   - El arrendador no se obliga a realizar reparaciones necesarias para mantener la habitabilidad.
+   - **Cláusulas Ilegales:** Esta cláusula podría ser ilegal según la LAU, que obliga al arrendador a mantener la vivienda en condiciones de habitabilidad.
+   - **Cláusulas Abusivas:** Esta cláusula podría considerarse abusiva.
+   - **Áreas de Riesgo:** La falta de obligación de realizar reparaciones podría generar conflictos.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DÉCIMO.- CAUSAS DE TERMINACIÓN DEL ARRIENDO
+
+**10. Causas de Terminación:**
+   - Se enumeran diversas causas de terminación, incluyendo la falta de pago y la necesidad del arrendador de ocupar la vivienda.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** La necesidad del arrendador de ocupar la vivienda podría generar conflictos.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOPRIMERO.- OBRAS
+
+**11. Obras:**
+   - El arrendatario no puede realizar obras sin permiso escrito del arrendador.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOSEGUNDO.- CONSERVACIÓN
+
+**12. Conservación:**
+   - El arrendatario debe mantener la vivienda en buen estado.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** No se especifica qué se entiende por "perfecto estado".
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOTERCERO.- SUMINISTROS
+
+**13. Suministros:**
+   - El arrendatario asume los costos de los suministros y su mantenimiento.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOCUARTO.- FIANZA
+
+**14. Fianza:**
+   - Se establece una fianza de 200 euros y un aval bancario de 1.000 euros.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOQUINTO.- PROHIBICIÓN DEL SUBARRIENDO
+
+**15. Prohibición del Subarriendo:**
+   - Se prohíbe el subarriendo.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOSEXTO.- RENUNCIA DEL DERECHO DE ADQUISICIÓN PREFERENTE
+
+**16. Renuncia del Derecho de Adquisición Preferente:**
+   - El arrendatario renuncia a los derechos de tanteo y retracto.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOSÉPTIMO.- RENUNCIA A LA SUBROGACIÓN
+
+**17. Renuncia a la Subrogación:**
+   - El arrendatario renuncia a la subrogación en caso de fallecimiento.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMOCTAVO.- JURISDICCIÓN
+
+**18. Jurisdicción:**
+   - Las partes se someten a los tribunales de Sevilla.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### DECIMONOVENO.- NOTIFICACIONES
+
+**19. Notificaciones:**
+   - Se designan direcciones para notificaciones.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### VIGÉSIMO.- FIADOR
+
+**20. Fiador:**
+   - Se designa un fiador solidario.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### VIGESIMOPRIMERO.- ACEPTACIÓN
+
+**21. Aceptación:**
+   - Las partes aceptan el contrato y sus anexos.
+   - **Cláusulas Ilegales:** No se detectan cláusulas ilegales.
+   - **Cláusulas Abusivas:** No se detectan cláusulas abusivas.
+   - **Áreas de Riesgo:** Ninguna.
+   - **Términos Vagos:** Ninguno.
+   - **Lagunas Jurídicas:** Ninguna.
+
+---
+
+### Conclusión General:
+El contrato presenta algunas cláusulas potencialmente ilegales o abusivas, especialmente en relación con la actualización de la renta, la prohibición de convivencia con terceros no familiares y la falta de obligación del arrendador de realizar reparaciones necesarias. Además, existen términos vagos que podrían generar conflictos. Se recomienda revisar y ajustar estas cláusulas para garantizar su validez y evitar futuras disputas.

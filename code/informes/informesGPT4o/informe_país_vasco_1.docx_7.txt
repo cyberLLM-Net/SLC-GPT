@@ -1,0 +1,157 @@
+Contrato de País Vasco 1.docx
+
+**Análisis Previo a la Primera Cláusula:**
+
+El contrato de arrendamiento de vivienda presentado se celebra entre un arrendador y un arrendatario, ambos mayores de edad y con capacidad legal para suscribir el contrato. Se especifican los datos personales de ambas partes, incluyendo sus domicilios, NIF, correos electrónicos y números de teléfono para comunicaciones. El arrendador es propietario de una vivienda en Bilbao, que se encuentra libre de ocupantes y cuenta con un certificado de eficiencia energética. Se menciona la posibilidad de anexos como garaje o trastero, aunque no se especifican. El arrendatario manifiesta su interés en habitar la vivienda, y ambas partes acuerdan celebrar el contrato conforme a las cláusulas que siguen.
+
+- **Cláusulas Ilegales:** No se identifican cláusulas ilegales en esta sección preliminar.
+- **Cláusulas Abusivas:** No se identifican cláusulas abusivas en esta sección preliminar.
+- **Áreas de Riesgo:** No se identifican áreas de riesgo en esta sección preliminar.
+- **Términos Vagos:** La mención de anexos como garaje o trastero es vaga, ya que no se especifican.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas en esta sección preliminar.
+
+### 
+
+**Primera Cláusula:**
+
+La cláusula establece un plazo de arrendamiento de un año, con la posibilidad de renovación anual hasta alcanzar dos años. Si ninguna parte notifica su intención de no renovar, el contrato se prorrogará anualmente hasta un máximo de tres años más. Se especifican los plazos de notificación para ambas partes.
+
+- **Cláusulas Ilegales:** La cláusula es legal conforme a la Ley de Arrendamientos Urbanos (LAU), que permite prórrogas automáticas.
+- **Cláusulas Abusivas:** No se considera abusiva, ya que respeta los derechos del arrendatario a la prórroga.
+- **Áreas de Riesgo:** Existe riesgo si las partes no notifican a tiempo su intención de no renovar, lo que podría llevar a prórrogas no deseadas.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Segunda Cláusula:**
+
+Se pacta un periodo mínimo de validez del contrato de seis meses, con indemnización por incumplimiento. Pasado este periodo, el arrendatario puede desistir con preaviso, pagando una indemnización proporcional. Se excluye la prórroga obligatoria si el arrendador necesita la vivienda para uso personal o familiar.
+
+- **Cláusulas Ilegales:** La cláusula es legal, pero debe ajustarse a la LAU en cuanto a indemnizaciones.
+- **Cláusulas Abusivas:** La indemnización por desistimiento podría considerarse abusiva si no se ajusta a la proporcionalidad establecida por la LAU.
+- **Áreas de Riesgo:** Riesgo de conflicto si el arrendador alega necesidad personal sin justificación adecuada.
+- **Términos Vagos:** La "necesidad" del arrendador es un término potencialmente vago.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Tercera Cláusula:**
+
+Se fija una renta semanal de 200 euros, pagadera en dólares estadounidenses, con actualización semanal basada en el IPC de España o EE.UU. Los gastos generales están incluidos, pero no los individualizados. La tasa de basuras es a cargo del arrendatario.
+
+- **Cláusulas Ilegales:** La actualización semanal de la renta podría ser ilegal si no se ajusta a la normativa vigente sobre actualización de rentas.
+- **Cláusulas Abusivas:** La frecuencia de actualización y el pago en dólares podrían considerarse abusivos.
+- **Áreas de Riesgo:** Riesgo de fluctuaciones cambiarias al pagar en dólares.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Cuarta Cláusula:**
+
+El pago de la renta se realizará mediante ingreso o transferencia bancaria, sin necesidad de recibo por parte del arrendador.
+
+- **Cláusulas Ilegales:** La cláusula es legal.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de falta de comprobante si el arrendatario no conserva el resguardo.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Quinta Cláusula:**
+
+El impago de la renta es causa de resolución del contrato. Se establece un interés de demora y la posibilidad de incluir al arrendatario en ficheros de solvencia patrimonial.
+
+- **Cláusulas Ilegales:** La inclusión en ficheros debe cumplir con la normativa de protección de datos.
+- **Cláusulas Abusivas:** El interés de demora podría ser abusivo si excede lo permitido por la ley.
+- **Áreas de Riesgo:** Riesgo reputacional para el arrendatario por inclusión en ficheros.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Sexta Cláusula:**
+
+El arrendatario no puede realizar obras sin permiso del arrendador. Las reparaciones necesarias para la habitabilidad son a cargo del arrendador, salvo deterioro imputable al arrendatario.
+
+- **Cláusulas Ilegales:** La cláusula es legal.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de conflicto sobre qué reparaciones son necesarias y quién debe asumirlas.
+- **Términos Vagos:** "Obras que modifiquen su configuración" es un término potencialmente vago.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Séptima Cláusula:**
+
+El arrendatario se compromete a no realizar actividades industriales, molestas, insalubres, nocivas o peligrosas, ni ceder o subarrendar sin permiso. Se prohíbe la tenencia de animales peligrosos sin permiso.
+
+- **Cláusulas Ilegales:** La cláusula es legal.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de interpretación sobre qué constituye una actividad molesta o un animal peligroso.
+- **Términos Vagos:** "Actividades molestas" y "animales peligrosos" son términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Octava Cláusula:**
+
+Se establece una fianza de 200 euros y un aval bancario de 1.000 euros como garantías. La fianza se actualizará mensualmente.
+
+- **Cláusulas Ilegales:** La actualización mensual de la fianza podría ser ilegal si no se ajusta a la normativa.
+- **Cláusulas Abusivas:** La exigencia de un aval bancario podría ser abusiva si no está justificada.
+- **Áreas de Riesgo:** Riesgo financiero para el arrendatario por el aval bancario.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Novena Cláusula:**
+
+El arrendatario reconoce el inventario y se compromete a devolver la vivienda y el mobiliario en perfecto estado. La fianza garantiza esta obligación.
+
+- **Cláusulas Ilegales:** La cláusula es legal.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de disputas sobre el estado de devolución del mobiliario.
+- **Términos Vagos:** "Perfecto estado de conservación" es un término potencialmente vago.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Décima Cláusula:**
+
+El arrendatario renuncia al derecho de adquisición preferente en caso de venta de la vivienda. El arrendador debe comunicar la venta con 30 días de antelación.
+
+- **Cláusulas Ilegales:** La renuncia al derecho de adquisición preferente es legal si se ajusta a la LAU.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de que el arrendatario no sea informado adecuadamente de la venta.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+### 
+
+**Undécima Cláusula:**
+
+El propietario no se obliga a realizar reparaciones para mantener la habitabilidad. El inquilino es responsable de los daños a terceros y de las reparaciones necesarias por uso negligente.
+
+- **Cláusulas Ilegales:** La cláusula podría ser ilegal si exime al propietario de su obligación de mantener la habitabilidad.
+- **Cláusulas Abusivas:** La exención de responsabilidad del propietario podría ser abusiva.
+- **Áreas de Riesgo:** Riesgo de que el inquilino asuma reparaciones que legalmente corresponden al propietario.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** Podría haber una laguna si no se especifica claramente qué reparaciones corresponden a cada parte.
+
+### 
+
+**Decimosegunda Cláusula:**
+
+El inquilino no puede realizar obras sin consentimiento escrito del propietario. Las obras realizadas quedarán en beneficio del inmueble sin derecho a resarcimiento.
+
+- **Cláusulas Ilegales:** La cláusula es legal.
+- **Cláusulas Abusivas:** No se considera abusiva.
+- **Áreas de Riesgo:** Riesgo de que el inquilino realice obras sin permiso y deba asumir los costos de reposición.
+- **Términos Vagos:** No se identifican términos vagos.
+- **Lagunas Jurídicas:** No se identifican lagunas jurídicas.
+
+###

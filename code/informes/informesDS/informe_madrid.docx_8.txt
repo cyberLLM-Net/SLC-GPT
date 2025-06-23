@@ -1,0 +1,891 @@
+Contrato de Madrid.docx
+
+Sección:
+CONTRATO DE ARRENDAMIENTO DE VIVIENDA En [lugar] a [fecha] REUNIDOS De una parte, Don/Doña [Nombre del propietario], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación (en adelante, el/los "Propietario/s"). De otra parte, Don/Doña [Nombre inquilino 1], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación, y Don/Doña [Nombre inquilino 2], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación (en adelante, el/los "Inquilino/s"). El Propietario y el Inquilino serán denominadas conjuntamente como las "Partes". Ambas partes en la calidad con la que actúan, se reconocen recíprocamente capacidad jurídica para contratar y obligarse y en especial para el otorgamiento del presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA, y EXPONEN 1º.- Que el Propietario, es propietaria de la vivienda sita en Madrid calle Teresita González Quevedo 15, Derecha, 1A. REF. CATASTRAL: 0989901VK4708H0046PU Comunidad de propietarios: SI Nº Cédula de habitabilidad No  se adjunta fotocopia de la misma. Certificado de eficiencia energética: No se adjunta fotocopia del certificado. El Propietario manifiesta expresamente que el Inmueble cumple con todos los requisitos y condiciones necesarias para ser destinado a satisfacer las necesidades permanentes de vivienda del Inquilino. (En adelante, la vivienda y sus dependencias descritas, conjuntamente, el "Inmueble"). 2º.- Que el Inquilino, manifiesta su interés en tomar en arrendamiento el citado Inmueble descrito en el Expositivo 1º, para su uso propio (y, en su caso, el de su familia) como vivienda habitual y permanente. 3º.- Ambas partes libremente reconocen entender y aceptar el presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA (el "Contrato"), conforme a las disposiciones de la Ley 29/1994 de 24 de noviembre de Arrendamientos Urbanos (la "LAU"), reconociéndose mutuamente capacidad jurídica para suscribirlo, con sujeción a las siguientes: CLÁUSULAS
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE CONTRATO DE ARRENDAMIENTO DE VIVIENDA**  
+
+### **1. Identificación de las Partes**  
+**Análisis:**  
+- **Legalidad:** Correcta identificación de las partes (Propietario e Inquilino/s) con datos esenciales (nombre, DNI/NIE, domicilio).  
+- **Riesgos:**  
+  - Falta adjuntar **cédula de habitabilidad** y **certificado de eficiencia energética**, exigidos por la normativa autonómica (Madrid) y el RD 235/2013, respectivamente. Esto podría invalidar el contrato o generar sanciones administrativas.  
+  - La afirmación de que el inmueble "cumple con todos los requisitos" sin aportar documentos es un **riesgo jurídico** si posteriormente se demuestra lo contrario.  
+
+---  
+
+### **2. Expositivos (1º-3º)**  
+**1º.- Descripción del Inmueble**  
+- **Legalidad:** La descripción física y referencia catastral son adecuadas (art. 5 LAU).  
+- **Ilegalidad/Abusividad:**  
+  - **Omisión de documentos obligatorios** (cédula de habitabilidad y certificado energético) vulnera el art. 9.1 LAU y normativa autonómica. Podría considerarse **cláusula abusiva** por generar desequilibrio (art. 82 TRLGDCU).  
+  - **Área de riesgo:** La declaración del Propietario sobre el cumplimiento de requisitos sin prueba documental es **imprecisa** y podría derivar en responsabilidad por incumplimiento.  
+
+**2º.- Destino del Inmueble**  
+- **Legalidad:** Correcto para arrendamiento de vivienda (art. 2 LAU).  
+
+**3º.- Marco Legal**  
+- **Legalidad:** Remisión a la LAU es válida.  
+
+---  
+
+### **3. Cuestiones Generales**  
+- **Lagunas jurídicas:**  
+  - No se especifica si el contrato se inscribe en el **Registro de la Propiedad** (art. 2.4 LAU), lo que podría afectar a terceros.  
+  - Ausencia de mención a **plazo mínimo** (5 años para personas jurídicas, art. 9 LAU), lo que genera inseguridad sobre la duración.  
+
+---  
+
+### **Conclusiones Preliminares**  
+1. **Cláusulas ilegales/abusivas:**  
+   - La falta de adjuntar la cédula de habitabilidad y el certificado energético es **ilegal** y potencialmente abusiva.  
+2. **Áreas de riesgo:**  
+   - Declaraciones sin soporte documental (ej. "cumplimiento de requisitos").  
+   - Omisión de plazos mínimos legales.  
+3. **Términos vagos:**  
+   - "Todos los requisitos" sin concreción.  
+4. **Lagunas jurídicas:**  
+   - No se regula la inscripción registral ni el plazo mínimo obligatorio para SOCIMIs.  
+
+**Recomendaciones:**  
+- Exigir la **cédula de habitabilidad** y **certificado energético** antes de firmar.  
+- Incluir **plazo mínimo de 5 años** (art. 9 LAU) y mención expresa a la inscripción registral.  
+- Sustituir afirmaciones genéricas por **documentación específica**.  
+
+---  
+**Nota:** Este análisis se centra en las cláusulas examinadas. El informe completo requerirá el estudio de todas las cláusulas operativas (renta, duración, garantías, etc.).
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S
+
+--------------------------------------------------------------------------------
+
+Sección:
+PRIMERA: OBJETO El Propietario arrienda al Inquilino, que acepta en este acto, el Inmueble descrito en el Expositivo 1º. El Inquilino se compromete a usar dicho Inmueble exclusivamente como vivienda del Inquilino y de su familia directa, en su caso. 1.3	En relación con el uso del Inmueble, queda estrictamente prohibido: a) Cualquier otro tipo de uso distinto al descrito en el apartado anterior. b) El subarrendamiento, total o parcial. c) La cesión del contrato sin el consentimiento previo y por escrito del Arrendador. d) El uso del Inmueble para comercio, industria ni oficina o despacho profesional. e) Destinarla al hospedaje de carácter vacacional. El incumplimiento por el Inquilino de esta obligación esencial facultará al Propietario a resolver el presente Contrato. 1.4	Por las dimensiones del Inmueble, el número máximo de personas que podrán ocuparlo es de cuatro, incluyendo al Inquilino. 1.5	El Inquilino se obliga a cumplir y respetar en todo momento los estatutos y normas internas de la comunidad de propietarios a la que pertenece el Inmueble, que declara conocer y aceptar. Además, se compromete a no molestar ni perjudicar la pacífica convivencia del resto de vecinos de la comunidad. 1.6	Mascotas: Se prohíbe expresamente al Inquilino tener en el Inmueble cualquier tipo de animal doméstico, salvo consentimiento expreso por escrito del Propietario. El incumplimiento de la presente obligación será considerado causa suficiente para la resolución del Contrato, de conformidad con lo establecido en el artículo 27.1 de la vigente LAU.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA PRIMERA ("OBJETO") DEL CONTRATO DE ARRENDAMIENTO**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **1.1. Uso exclusivo como vivienda (párrafo inicial y apartado 1.3)**  
+- **Legalidad**: **Sí**, es legal. El art. 5 LAU (Ley de Arrendamientos Urbanos) permite limitar el uso del inmueble a vivienda.  
+- **Abusividad**: **No**, siempre que no restrinja derechos básicos (ej. convivencia familiar).  
+- **Riesgos**:  
+  - **Subarrendamiento/cesión (1.3.b y c)**: La prohibición absoluta de subarriendo podría ser discutible si el arrendatario necesita compartir gastos (art. 8 LAU exige consentimiento del arrendador, pero tribunales han admitido cesiones razonables).  
+  - **Uso profesional (1.3.d)**: Si el inquilino ejerce teletrabajo ocasional, podría considerarse abusivo prohibirlo totalmente (debe especificarse si se permite actividad profesional no perturbadora).  
+- **Términos vagos**: "Familia directa" (¿incluye parejas de hecho no registradas?). Recomienda definir en el contrato según jurisprudencia (STS 18/2/2020).  
+
+#### **1.2. Límite de ocupantes (1.4)**  
+- **Legalidad**: **Sí**, pero con matices. El art. 17.1 LAU permite fijar límites razonables.  
+- **Abusividad**: **Potencial** si el límite es desproporcionado para las dimensiones del inmueble (debe justificarse en metros cuadrados).  
+- **Riesgos**: Conflictos si el inquilino amplía la familia (ej. nacimiento de un hijo). Recomienda añadir flexibilidad para cambios justificados.  
+
+#### **1.3. Normas de la comunidad (1.5)**  
+- **Legalidad**: **Sí**, el art. 9 LAU obliga al inquilino a respetar las normas comunitarias.  
+- **Abusividad**: **No**, pero debe adjuntarse copia de los estatutos al contrato (art. 5.2 LAU).  
+- **Riesgos**: Si las normas comunitarias prohíben mascotas, podría colisionar con el art. 18.1 LAU (derecho a tenencia si no causa daños).  
+
+#### **1.4. Prohibición de mascotas (1.6)**  
+- **Legalidad**: **Sí**, pero con limitaciones. El art. 18 LAU permite prohibirlas si se justifica (ej. comunidad con estatutos restrictivos).  
+- **Abusividad**: **Potencial** si es una prohibición absoluta sin evaluar daños reales (STS 605/2021 exige proporcionalidad).  
+- **Riesgos**:  
+  - Un tribunal podría anular la cláusula si el animal no causa molestias (recomienda añadir: "*salvo autorización expresa basada en circunstancias objetivas*").  
+  - La referencia al art. 27.1 LAU es correcta (incumplimiento esencial), pero debe probarse el perjuicio al propietario.  
+
+### **2. Lagunas jurídicas detectadas**  
+- **Teletrabajo**: No se aclara si el uso ocasional del inmueble para trabajo remoto está permitido (vacío legal ante el aumento del teletrabajo).  
+- **"Familia directa"**: Falta definición legal precisa (¿incluye acogida temporal de familiares?).  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Modificar 1.3.d**: Añadir "*Se permite el teletrabajo ocasional sin alterar el uso residencial*".  
+2. **Flexibilizar 1.6**: Incluir excepción para mascotas si el inquilino demuestra responsabilidad (ej. certificado veterinario).  
+3. **Anexar estatutos comunitarios** al contrato para evitar impugnaciones por falta de transparencia (art. 5.2 LAU).  
+
+**Conclusión**: La cláusula es legal en su mayoría, pero contiene riesgos por términos ambiguos y prohibiciones absolutas. Ajustar los puntos señalados reduciría vulnerabilidad a impugnaciones.  
+
+---  
+*Nota: Este informe se basa en la LAU (Ley 29/1994) y jurisprudencia actualizada (2024). Para casos concretos, se recomienda consultar al departamento legal de la SOCIMI.*
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEGUNDA: PLAZO DE VIGENCIA 2.1 El Contrato entrará en vigor en la fecha de hoy con una duración inicial obligatoria de un (1) año a partir de la fecha de entrada en vigor del Contrato. Siendo el plazo mínimo de cumplimiento obligatorio. 2.2 El Contrato se prorrogará tácitamente (sin necesidad de aviso previo) en cada anualidad hasta un máximo legal de dos (2) años, salvo que el Inquilino manifieste al Propietario, con treinta (30) días de antelación a la fecha de terminación del Contrato o de cualquiera de sus prórrogas, su voluntad de no renovar el Contrato. 2.3 Una vez transcurridos como mínimo dos (2) años de duración del Contrato, si ninguna de las Partes hubiese notificado a la otra, con al menos cuatro (4) meses de antelación en el caso del Propietario, o con al menos con dos (2) meses de antelación en el caso del Inquilino, a la fecha de finalización su voluntad de no renovar el Contrato, el Contrato se prorrogará obligatoriamente por anualidades hasta un máximo de tres (3) años, salvo que el Inquilino manifieste al arrendador con un mes de antelación a la fecha de terminación de cualquiera de las anualidades, su voluntad de no renovar el Contrato. 2.4 El Inquilino podrá desistir del Contrato una vez que hayan transcurrido al menos doce (12) meses a contar desde la fecha de entrada en vigor del Contrato, siempre que notifique por escrito con treinta (30) días de antelación al Propietario. El desistimiento dará lugar a una indemnización equivalente a la parte proporcional de la renta arrendaticia de una mensualidad con relación a los meses que falten por cumplir de un año.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA SEGUNDA ("PLAZO DE VIGENCIA")**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **2.1. Duración inicial obligatoria de 1 año**  
+- **Legalidad**: **Legal**, conforme al art. 9.1 LAU (Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos), que establece un plazo mínimo de 1 año para arrendamientos de vivienda.  
+- **Abusividad**: **No abusiva**, ya que el plazo mínimo legal está respetado.  
+- **Riesgos**: Ninguno relevante.  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No se identifica.  
+
+#### **2.2. Prórroga tácita hasta 2 años**  
+- **Legalidad**: **Legal**, pero con matices. La LAU (art. 9.2) permite prórrogas tácitas anuales hasta 5 años (no 2), salvo que el arrendatario manifieste su voluntad de no renovar con 30 días de antelación.  
+- **Abusividad**: **Potencialmente abusiva**, porque limita el plazo máximo de prórroga tácita a 2 años (inferior al legal de 5 años), perjudicando al inquilino.  
+- **Riesgos**: **Alto riesgo de impugnación judicial** por contravenir el art. 9.2 LAU.  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No, pero hay contradicción con la LAU.  
+
+#### **2.3. Prórroga obligatoria hasta 3 años (tras 2 años iniciales)**  
+- **Legalidad**: **Ilegal**. La LAU no permite imponer prórrogas obligatorias más allá de las tácitas (art. 9.2). Además, los plazos de preaviso (4 meses para el arrendador, 2 para el inquilino) no se ajustan a los 30 días mínimos del art. 9.3 LAU.  
+- **Abusividad**: **Sí**, porque impone condiciones más gravosas que la ley (ej. plazos de preaviso asimétricos y extensos).  
+- **Riesgos**: **Alto riesgo de nulidad** por vulneración de la LAU.  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No, pero hay clara infracción legal.  
+
+#### **2.4. Desistimiento del inquilino tras 12 meses con indemnización**  
+- **Legalidad**: **Legal en parte**. El art. 11 LAU permite al inquilino desistir tras 6 meses (no 12) con 30 días de preaviso, pero la indemnización pactada (1 mensualidad proporcional) **excede el límite legal** (art. 11.2: máximo 1 mensualidad completa, no proporcional).  
+- **Abusividad**: **Sí**, porque:  
+  - Amplía el plazo mínimo de permanencia (12 meses vs. 6 legales).  
+  - Establece una indemnización superior a la permitida.  
+- **Riesgos**: **Nulidad parcial** de la cláusula (indemnización excesiva).  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No.  
+
+### **2. Conclusiones generales**  
+- **Cláusulas ilegales**:  
+  - 2.3 (prórroga obligatoria hasta 3 años y plazos de preaviso).  
+  - 2.4 (indemnización por desistimiento excesiva).  
+- **Cláusulas abusivas**:  
+  - 2.2 (limitación injustificada de prórrogas tácitas).  
+  - 2.3 y 2.4 (condiciones más gravosas que la LAU).  
+- **Recomendaciones**:  
+  - Ajustar las prórrogas tácitas al plazo legal de 5 años (art. 9.2 LAU).  
+  - Eliminar la prórroga obligatoria de 3 años.  
+  - Reducir la indemnización por desistimiento a 1 mensualidad completa (no proporcional).  
+  - Alinear plazos de preaviso con los 30 días mínimos de la LAU.  
+
+**Nota**: La SOCIMI debe revisar estas cláusulas para evitar impugnaciones judiciales y sanciones por infracción de la LAU.
+
+Respuesta Struct:
+Legalidad: L 
+Abusividad: N
+Áreas de riesgo: N
+Vaguedades: S
+Lagunas: S
+
+--------------------------------------------------------------------------------
+
+Sección:
+TERCERA: ENTREGA DEL INMUEBLE 3.1 El Propietario entrega al Inquilino el Inmueble en perfectas condiciones de habitabilidad, buen estado de conservación y funcionamiento de sus servicios y a la entera satisfacción de éste. Ambas Partes confirman que el Inmueble se entrega con cocina no equipada y vivienda sin muebles. 3.2 En este acto el Propietario hace entrega al Inquilino de 1 juego de llaves completos de acceso al Inmueble.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA TERCERA DEL CONTRATO DE ARRENDAMIENTO**  
+
+**1. Análisis de la Cláusula 3.1 ("Entrega del Inmueble en condiciones de habitabilidad")**  
+- **Ilegalidad**: No se aprecia ilegalidad, ya que el artículo 17.1 de la LAU exige que el arrendador entregue la vivienda en condiciones de habitabilidad, lo que se ajusta a lo pactado.  
+- **Abusividad**: No es abusiva, pues refleja un estándar legal (habitabilidad y buen estado) y no impone desequilibrio alguno a favor del arrendador.  
+- **Áreas de riesgo**:  
+  - **Riesgo 1**: La expresión "a la entera satisfacción del Inquilino" podría generar conflictos si el inquilino alega subjetivamente deficiencias no objetivas. Se recomienda sustituir por "en condiciones conformes a la normativa de habitabilidad vigente".  
+  - **Riesgo 2**: La mención a la cocina no equipada y vivienda sin muebles es clara, pero convendría adjuntar un inventario detallado para evitar disputas sobre el estado inicial.  
+- **Términos vagos**: "Perfectas condiciones de habitabilidad" podría ser impreciso. Se sugiere referirse a los requisitos del Código Técnico de la Edificación y normativa autonómica aplicable.  
+- **Laguna jurídica**: No se identifica, ya que la LAU regula expresamente la obligación de entrega en condiciones de habitabilidad (art. 17 LAU).  
+
+**2. Análisis de la Cláusula 3.2 ("Entrega de llaves")**  
+- **Ilegalidad/Abusividad**: No hay irregularidades. La entrega de llaves es una obligación implícita del arrendador (art. 17.2 LAU).  
+- **Áreas de riesgo**:  
+  - **Riesgo 1**: No se especifica el número exacto de llaves ni su tipología (por ejemplo, llaves de buzón o comunidad). Podría añadirse: "1 juego de llaves de acceso a la vivienda, portal y áreas comunes".  
+- **Términos vagos**: "Juego de llaves completos" es ambiguo. Debería definirse qué se incluye (ej. llave de trastero, garaje, etc.).  
+- **Laguna jurídica**: No aplica.  
+
+**Recomendaciones para la SOCIMI**:  
+1. **Incluir un inventario detallado** del estado del inmueble (fotos, descripción de paredes, suelos, instalaciones) para evitar reclamaciones futuras.  
+2. **Precisar el alcance de "habitabilidad"** remitiéndose a normativa concreta (ej. RD 7/2019 de acceso a la vivienda).  
+3. **Detallar las llaves entregadas** en un anexo al contrato.  
+
+*Observación final*: La cláusula cumple con la LAU, pero la redacción actual podría generar litigios por subjetividad. Una técnica de *drafting* más precisa reduciría riesgos jurídicos y operativos.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+CUARTA: RENTA Renta arrendaticia 4.1 Ambas Partes acuerdan fijar una renta semanal de 200 euros pagada por el Inquilino que será abonada por el inquilino en su equivalente en dólares estadounidenses. 4.2 La falta de pago de una (4) semanas de renta será causa suficiente para que el Propietario pueda dar por resuelto este Contrato y ejercite la acción de desahucio. Inicio del devengo de la renta 4.3 Se establece que la renta se devengará a partir de la fecha de entrada en vigor del presente Contrato. El Inquilino paga al Propietario el importe de la renta correspondiente a los días que quedan para finalizar el mes en curso, que el Propietario declara haber recibido a su entera satisfacción, sirviendo el presente Contrato como recibo de pago. Pago de la renta 4.4  El Inquilino abonará la renta semanalmente de manera anticipadas dentro de los cinco días laborable de cada semana, mediante transferencia bancaria a la siguiente cuenta titularidad del Propietario: Titular: [Nombre del Propietario]. Entidad: [Entidad del Propietario]. Nº de Cuenta/IBAN: [Cuenta del Propietario]. Actualización de la renta 4.5	La renta pactada será actualizada semanalmente conforme a las variaciones que experimente el mayor de estos índices: índice General Nacional del Sistema de Precios al Consumo de España ("I.P.C."), publicado por el Instituto Nacional de Estadística teniendo en consideración la variación en el mes inmediatamente anteriores o el Indice de Precios al Consumo de los Estados Unidos, publicado por la Entidad Nacional correspondiente de ese país. Si la variación experimentada por el I.P.C. fuera negativa, la renta permanecerá igual, sin actualizarse. 4.6	Dada la demora con que se publica el I.P.C, las Partes acuerdan que las revisiones semanales tendrán efectos retroactivos a la fecha en que hubiera correspondido su aplicación, quedando obligadas las Partes (según corresponda) a satisfacer las diferencias correspondientes de una sola vez. La revisión se efectuará por años naturales, repercutiendo en el recibo emitido al mes siguiente de la publicación del IPC los atrasos habidos desde el mes de enero del año en curso, o, en su caso desde el mes de la firma del contrato. En ningún caso, la demora en aplicar la revisión supondrá renuncia o caducidad de la misma. En el caso de que el Instituto Nacional de Estadística dejase de publicar los índices a que se refiere esta Cláusula, la revisión que se establece se calculará en base a los índices o módulos que los sustituyan. 4.7	Sin perjuicio de todo lo anterior, si la legislación aplicable sustituye de forma imperativa el I.P.C. por otro índice de referencia que deba ser de aplicación, se calculará la actualización de la renta de conformidad con el índice de referencia que sea de obligado cumplimiento en cada momento.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA CUARTA ("RENTA") DEL CONTRATO DE ARRENDAMIENTO**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **4.1. Renta semanal en euros pagada en dólares**  
+- **Ilegalidad**: **Sí**.  
+  - El artículo 7.1 de la LAU exige que la renta se fije en euros, siendo nula cualquier pacto en moneda extranjera (salvo en arrendamientos no destinados a vivienda, art. 7.2 LAU). La referencia al pago en dólares es ilegal.  
+- **Abusividad**: **Sí**.  
+  - Genera inseguridad jurídica al inquilino por la fluctuación cambiaria, desequilibrando derechos y obligaciones (art. 82 TRLGDCU).  
+- **Riesgo**: **Alto**.  
+  - La nulidad de este apartado podría afectar a la validez del resto de la cláusula (art. 6.3 LAU).  
+- **Términos vagos**: **No**.  
+
+#### **4.2. Resolución por impago de 4 semanas**  
+- **Ilegalidad**: **No**, pero con matices.  
+  - El art. 27 LAU permite resolver el contrato por impago, pero exige un plazo mínimo de un mes (no 4 semanas). Este plazo más breve podría considerarse abusivo.  
+- **Abusividad**: **Posible**.  
+  - Acortar el plazo legal (1 mes) perjudica al inquilino (art. 85 TRLGDCU).  
+- **Riesgo**: **Moderado**.  
+  - Un juez podría invalidar este plazo por contravenir la LAU.  
+- **Términos vagos**: **No**.  
+
+#### **4.3. Devengo de la renta desde la firma**  
+- **Ilegalidad**: **No**.  
+  - Es válido pactar el devengo desde la firma (art. 17 LAU).  
+- **Abusividad**: **No**.  
+- **Riesgo**: **Bajo**.  
+- **Términos vagos**: **No**.  
+
+#### **4.4. Pago semanal anticipado en 5 días laborables**  
+- **Ilegalidad**: **No**, pero cuestionable.  
+  - La LAU no prohíbe pagos semanales, pero la periodicidad mensual es la habitual en vivienda (art. 17 LAU). La exigencia de pago anticipado podría ser abusiva.  
+- **Abusividad**: **Posible**.  
+  - La frecuencia semanal y el plazo corto (5 días) imponen cargas desproporcionadas al inquilino (art. 82 TRLGDCU).  
+- **Riesgo**: **Moderado**.  
+  - Riesgo de impagos por la rigidez del sistema.  
+- **Términos vagos**: **No**.  
+
+#### **4.5. Actualización semanal según IPC español o estadounidense**  
+- **Ilegalidad**: **Sí**.  
+  - El art. 18 LAU solo permite revisiones **anuales** basadas en el IPC español. Una revisión semanal y la referencia al IPC de EE.UU. son ilegales.  
+- **Abusividad**: **Sí**.  
+  - La volatilidad semanal perjudica al inquilino y desvirtúa la finalidad de la LAU.  
+- **Riesgo**: **Alto**.  
+  - Nulidad de pleno derecho (art. 18.1 LAU).  
+- **Términos vagos**: **No**.  
+
+#### **4.6. Efectos retroactivos de la revisión**  
+- **Ilegalidad**: **Sí**.  
+  - La retroactividad y el cálculo "por años naturales" contradicen el art. 18 LAU (revisión anual prospectiva).  
+- **Abusividad**: **Sí**.  
+  - Obligar al inquilino a pagar diferencias acumuladas es desproporcionado.  
+- **Riesgo**: **Alto**.  
+  - Nulidad por contravenir la LAU.  
+- **Términos vagos**: **Sí**.  
+  - "Diferencias correspondientes de una sola vez" no especifica plazos ni límites.  
+
+#### **4.7. Sustitución del IPC por otro índice**  
+- **Ilegalidad**: **No**.  
+  - Es válido adaptarse a cambios legales (art. 18.3 LAU).  
+- **Abusividad**: **No**.  
+- **Riesgo**: **Bajo**.  
+- **Términos vagos**: **No**.  
+
+### **2. Lagunas jurídicas detectadas**  
+- **Moneda extranjera en arrendamientos de vivienda**: La LAU no prevé excepciones al pago en euros, pero no regula expresamente consecuencias de pactos en divisas (ej.: validez del contrato si se declara nulo solo este apartado).  
+- **Revisiones semanales**: No hay norma que contemple esta posibilidad, generando inseguridad sobre cómo aplicar la nulidad (¿se anula solo la periodicidad o toda la cláusula?).  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Eliminar** toda referencia a pagos en dólares y revisiones semanales.  
+2. **Ajustarse al art. 18 LAU**: Revisiones anuales basadas únicamente en el IPC español.  
+3. **Uniformizar plazos**: Alinear el impago con el mes mínimo exigido por la LAU.  
+4. **Evitar retroactividad**: Las revisiones deben aplicarse hacia adelante, no acumular diferencias.  
+
+*Nota: Este informe se basa en la LAU (Ley 29/1994) y el TRLGDCU (Texto Refundido 1/2007). Cualquier modificación legislativa posterior deberá ser verificada.*  
+
+**Firmado:** [Nombre del Jurista]  
+**Especialista en Derecho Inmobiliario**  
+**Fecha:** [Fecha del Informe]
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S
+
+--------------------------------------------------------------------------------
+
+Sección:
+QUINTA: GARANTÍA DEL CONTRATO Fianza arrendaticia 5.1	El Inquilino entrega en este acto al Propietario, quien declara recibirla, la cantidad de 200 EUROS, equivalente a dos semanas de renta, por concepto de fianza legal, según lo establecido en el apartado primero del Artículo 36 de la LAU para garantizar el cumplimiento de las obligaciones que asume en virtud del presente Contrato. 5.4 La fianza se actualizará en la cuantía que corresponda de manera mensual. 5.5 Garantía adicional: El Inquilino entrega en este acto un aval bancario por un importe máximo garantizado de 1.000 Euros, a primer requerimiento y como garantía de todas las responsabilidades económicas asumidas por el Inquilino en virtud del presente Contrato. El referido aval se incorpora al presente Contrato como Anexo. El/los Inquilino(s) se compromete a mantener vigente el referido Aval durante toda la vigencia del Contrato.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA QUINTA ("GARANTÍA DEL CONTRATO")**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **5.1. Fianza arrendaticia**  
+- **Ilegalidad**: **No**. La fianza de dos semanas de renta (200 €) se ajusta al **art. 36.1 LAU**, que establece un máximo de un mes de renta para garantizar el cumplimiento de las obligaciones del inquilino.  
+- **Abusividad**: **No**. La cuantía es proporcional y legal.  
+- **Áreas de riesgo**: **Sí**. Si el contrato no especifica el destino de la fianza (depósito en la CCAA según art. 36.2 LAU), podría generar responsabilidad para el arrendador.  
+- **Términos vagos**: **No**. La cláusula es clara en cuantía y fundamento legal.  
+- **Laguna jurídica**: **No**. La LAU regula expresamente la fianza.  
+
+#### **5.4. Actualización de la fianza**  
+- **Ilegalidad**: **Sí**. El **art. 36 LAU** no prevé la actualización mensual de la fianza. Esta solo debe depositarse una vez al inicio y devolverse al finalizar el contrato (salvo daños o impagos). Una actualización automática podría considerarse una modificación unilateral prohibida.  
+- **Abusividad**: **Sí**. Imponer una actualización mensual sin base legal desequilibra las obligaciones del inquilino (art. 82 TRLGDCU).  
+- **Áreas de riesgo**: **Sí**. Riesgo de impugnación judicial por vulneración de la LAU.  
+- **Términos vagos**: **Sí**. No aclara el criterio de actualización (IPC, renta, etc.).  
+- **Laguna jurídica**: **No**. La LAU es clara en la intangibilidad de la fianza.  
+
+#### **5.5. Garantía adicional (aval bancario)**  
+- **Ilegalidad**: **No**. La LAU no prohíbe garantías adicionales, siempre que sean voluntarias (STS 18/12/2015).  
+- **Abusividad**: **Depende**. Si el aval es **desproporcionado** (ej. cuantía muy superior al riesgo) o impuesto sin alternativa (como depósito adicional), podría ser abusivo (art. 85 TRLGDCU).  
+- **Áreas de riesgo**: **Sí**.  
+  - Si el aval se exige como condición *sine qua non* para alquilar, podría anularse por abusivo.  
+  - Riesgo de litigio si no se justifica la necesidad (ej. inquilino con solvencia acreditada).  
+- **Términos vagos**: **Sí**. No especifica las causas concretas para ejecutar el aval.  
+- **Laguna jurídica**: **No**. La jurisprudencia admite garantías complementarias si son razonables.  
+
+### **2. Recomendaciones para la SOCIMI**  
+1. **Eliminar la cláusula 5.4** (actualización mensual de la fianza), por contraria a la LAU.  
+2. **Reformular el aval bancario (5.5)**:  
+   - Justificar su necesidad en casos específicos (ej. inquilinos sin historial crediticio).  
+   - Ofrecer alternativas (ej. depósito adicional de un mes, dentro del límite legal).  
+3. **Asegurar el depósito de la fianza** en el organismo autonómico correspondiente, para evitar sanciones.  
+
+*Nota: Este informe se basa en la LAU (Ley 29/1994) y el TRLGDCU (RD 1/2007), vigentes a la fecha de análisis.*  
+
+---  
+**¿Desea profundizar en algún aspecto o revisar otra cláusula?**
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEXTA: SERVICIOS Y GASTOS 6.1 El Inquilino se obliga a pagar cualquier gasto relacionado con la contratación de los servicios y suministros individualizados por aparatos contadores (tales como luz, agua, gas, teléfono e internet) con los que cuenta el Inmueble y que serán íntegramente asumidos por el Inquilino a partir de hoy. El Inquilino se obliga a encargarse del mantenimiento, reparación y sustitución de dichos contadores y cualesquiera otros servicios que contrate o utilice en el Inmueble y que, en general, sean susceptibles de uso individualizado y/o que se contabilicen por contador. 6.2	Titularidad suministros El Inquilino se pondrá en contacto con las diferentes compañías suministradoras para: a) que los recibos que emitan se carguen en la cuenta bancaria que el mismo indique, quedando, en consecuencia, obligado a la domiciliación bancaria de dichos recibos; y b) realizar el cambio de titularidad de cada suministro, en el plazo de 7 días naturales a contar desde hoy. 6.3	Gastos comunidad e IBI Los gastos de Comunidad de Propietarios así como el Impuesto sobre Bienes Inmuebles (I.B.I.), serán satisfechos íntegramente por el Inquilino. 6.4	Pago de tasas La tasa por recogida de residuos sólidos urbanos y la tasa por paso de carruajes (en su caso) será de cuenta del Inquilino. 6.5	El Propietario no asume responsabilidad alguna por las interrupciones que pudieran producirse en cualquiera de los servicios comunes o individuales, ni estará obligado a efectuar revisiones de renta por dichas interrupciones.
+
+Respuesta Base:
+**INFORME JURÍDICO - CLÁUSULA SEXTA: SERVICIOS Y GASTOS**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **6.1. Pago de suministros individualizados y mantenimiento de contadores**  
+- **Legalidad**: **Legal**, ya que el artículo 20.1 de la LAU establece que el arrendatario debe abonar los suministros de consumo propio (luz, agua, gas, etc.).  
+- **Posible abusividad**: **No abusiva**, siempre que el inquilino solo asuma los gastos efectivamente individualizables. Sería abusivo si se le impusieran costes no medidos por contador (ej., calefacción central sin repartidores).  
+- **Áreas de riesgo**:  
+  - **Riesgo** si se incluyen servicios no individualizables (ej., mantenimiento de instalaciones generales).  
+  - **Términos vagos**: "Cualesquiera otros servicios susceptibles de uso individualizado" podría generar conflicto si no se especifica qué servicios se incluyen.  
+
+#### **6.2. Titularidad de suministros y domiciliación bancaria**  
+- **Legalidad**: **Legal**, pero con matices. El inquilino debe asumir los suministros (art. 20 LAU), pero:  
+  - **Plazo de 7 días naturales** para el cambio de titularidad: **Riesgo de ilegalidad** si es insuficiente (la jurisprudencia suele exigir plazos razonables, y 7 días podría ser corto para trámites administrativos).  
+  - **Domiciliación bancaria obligatoria**: **Posible abusividad**, ya que el inquilino podría preferir otros métodos de pago (STS 18/12/2015 considera abusivas cláusulas que imponen condiciones no negociadas).  
+- **Áreas de riesgo**:  
+  - Falta de flexibilidad en el pago (no se mencionan alternativas a la domiciliación).  
+
+#### **6.3. Gastos de comunidad e IBI**  
+- **Legalidad**: **Legal en parte**.  
+  - **IBI**: **Ilegal** imponerlo al inquilino, pues el art. 21 LAU lo atribuye al propietario (salvo pacto en contrario en arrendamientos de local de negocio, no aplicable aquí).  
+  - **Gastos de comunidad**: **Legal** si son ordinarios (art. 20 LAU), pero **ilegal** si incluyen derramas o obras no repercutibles (art. 9.1.e) LAU).  
+- **Abusividad**: **Sí**, si no se distingue entre gastos ordinarios y extraordinarios.  
+- **Términos vagos**: No se especifica el alcance de "gastos de Comunidad".  
+
+#### **6.4. Tasas municipales (residuos y paso de carruajes)**  
+- **Legalidad**: **Legal** para la tasa de residuos (art. 20 LAU), pero **ilegal** para "paso de carruajes" si no existe tal tasa o es obligación del propietario.  
+- **Áreas de riesgo**: Incluir tasas inexistentes o no justificadas.  
+
+#### **6.5. Exención de responsabilidad por interrupciones de servicios**  
+- **Legalidad**: **Legal en parte**.  
+  - El propietario no responde de interrupciones ajenas a su control (ej., cortes de la compañía eléctrica).  
+  - **Ilegal** si exime de responsabilidad por falta de mantenimiento de instalaciones propias (art. 21 LAU obliga al arrendador a conservar el inmueble en condiciones habitables).  
+- **Abusividad**: **Sí**, si se exime de responsabilidad incluso por negligencia del propietario.  
+
+### **2. Lagunas jurídicas detectadas**  
+- **Falta de regulación expresa** sobre plazos mínimos para cambio de titularidad de suministros, lo que podría generar inseguridad en la aplicación del plazo de 7 días.  
+- **Ambiguidad en "gastos de comunidad"**, ya que la LAU no detalla qué conceptos pueden repercutirse al inquilino en viviendas (sí en locales).  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Eliminar la imposición del IBI** al inquilino (salvo que sea local de negocio).  
+2. **Precisar los gastos de comunidad** que se repercuten (solo ordinarios).  
+3. **Ampliar el plazo para cambio de titularidad** (ej., 15 días hábiles).  
+4. **Ofrecer alternativas a la domiciliación bancaria** obligatoria.  
+5. **Modificar la exención de responsabilidad** para no incluir fallos por falta de mantenimiento.  
+
+**Conclusión**: La cláusula contiene varios puntos ilegales (IBI, posiblemente gastos de comunidad) y abusivos (domiciliación forzosa, exención amplia de responsabilidad), requiriendo ajustes para evitar nulidades y reclamaciones.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SÉPTIMA: GASTOS DE REPARACIÓN Y CONSERVACIÓN 7.1 El Propietario NO se obliga a realizar las reparaciones que fueran necesarias en el Inmueble para conservar la vivienda en condiciones de habitabilidad para el uso convenido. El Inquilino será el único responsable de cuantos daños, tanto físicos como materiales puedan ocasionarse a terceros, como consecuencia, directa e indirecta de su habitabilidad en el Inmueble, eximiendo de toda responsabilidad al Propietario, incluso por daños derivados de instalaciones para servicios o suministros. A efectos aclaratorios, el Inquilino deberá realizar todas aquellas reparaciones necesarias para el mantenimiento y correcto funcionamiento de los electrodomésticos y/o muebles del Inmueble cuando los desperfectos hayan sido ocasionados por el Inquilino o sus ocupantes, ya sea por un uso negligente o por el desgaste derivado del uso habitual y diligente de dichos elementos. En consecuencia, el Inquilino declara conocer el estado de los electrodomésticos y/o muebles en el momento de la entrega del Inmueble.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA SÉPTIMA DEL CONTRATO DE ARRENDAMIENTO**  
+
+### **1. Análisis de la Cláusula Séptima**  
+La cláusula establece que:  
+- El **propietario no asume la obligación de realizar reparaciones necesarias para mantener la vivienda en condiciones de habitabilidad**.  
+- El **inquilino asume toda responsabilidad por daños** (físicos o materiales) a terceros derivados de su uso del inmueble, incluso por fallos en instalaciones.  
+- El **inquilino debe reparar electrodomésticos y muebles** si los desperfectos son causados por él, ya sea por negligencia o desgaste normal.  
+- El inquilino **declara conocer el estado de los enseres al inicio del arrendamiento**.  
+
+---  
+
+### **2. Valoración Jurídica**  
+
+#### **2.1. ¿Es una cláusula ilegal?**  
+**Sí**, en parte.  
+- **Artículo 21.1 de la LAU (Ley 29/1994, de Arrendamientos Urbanos):** El arrendador está obligado a realizar **todas las reparaciones necesarias para conservar la vivienda en condiciones de habitabilidad**, salvo que el deterioro sea imputable al inquilino.  
+  - **Problema:** La cláusula exonera al propietario de **todas** las reparaciones, incluso las esenciales (ej: goteras, fontanería, electricidad), lo que vulnera la LAU.  
+- **Responsabilidad por daños a terceros:** El propietario no puede eludir su responsabilidad civil por **defectos estructurales o instalaciones peligrosas** (art. 1902 CC).  
+
+#### **2.2. ¿Es una cláusula abusiva?**  
+**Sí**, según la **Directiva 93/13/CEE** y el **artículo 82 del Real Decreto Legislativo 1/2007** (TRLGDCU):  
+- Desequilibra gravemente los derechos del inquilino, imponiéndole **obligaciones que legalmente corresponden al arrendador**.  
+- Podría ser declarada nula por un juez si el inquilino la impugna.  
+
+#### **2.3. ¿Presenta áreas de riesgo?**  
+**Sí**, principalmente:  
+- **Riesgo legal:** Un inquilino podría demandar para que se declare nula la cláusula y obligue al propietario a asumir reparaciones.  
+- **Riesgo reputacional:** Para una SOCIMI, incluir cláusulas ilegales puede generar mala imagen y conflictos con inquilinos.  
+- **Riesgo económico:** Si un defecto del inmueble causa daños a terceros, el propietario podría ser demandado pese a la cláusula.  
+
+#### **2.4. ¿Contiene términos vagos?**  
+**Sí**:  
+- **"Reparaciones necesarias para la habitabilidad"**: No define qué se entiende por "habitabilidad" (debería referirse a estándares legales, como el Código Técnico de la Edificación).  
+- **"Daños derivados de instalaciones"**: No distingue entre fallos por antigüedad (responsabilidad del propietario) y por mal uso (inquilino).  
+
+#### **2.5. ¿Existe una laguna jurídica?**  
+**No**, porque:  
+- La LAU y el Código Civil regulan claramente las obligaciones de reparación. El problema no es la ausencia de norma, sino que la cláusula **contraviene normas existentes**.  
+
+---  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Modificar la cláusula** para ajustarse a la LAU:  
+   - El propietario debe asumir las reparaciones necesarias para la habitabilidad.  
+   - El inquilino solo responderá por daños causados por su negligencia.  
+2. **Incluir un inventario detallado** del estado de electrodomésticos y muebles (fotos y descripción).  
+3. **Aclarar qué reparaciones corresponden a cada parte** (ej: el inquilino paga solo roturas por mal uso).  
+
+**Conclusión:** La cláusula es **ilegal y abusiva** en su redacción actual y debe reformularse para evitar riesgos legales.  
+
+---  
+**Fuentes legales:**  
+- Ley 29/1994 (LAU), arts. 21 y 22.  
+- Código Civil, art. 1554 y 1902.  
+- TRLGDCU (Real Decreto Legislativo 1/2007), art. 82.
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+OCTAVA: OBRAS EN EL INMUEBLE 8.1 El Inquilino no podrá realizar obras, instalaciones, ni mejoras de ningún tipo en el Inmueble sin el expreso consentimiento previo del Propietario por escrito. Especialmente, se requerirá el consentimiento escrito del Propietario para: a) la instalación de cualquier electrodoméstico, mueble o aparato de aire acondicionado adherido al Inmueble; y b) realizar cualquier tipo de alteraciones en las paredes, azulejos y baldosas del Inmueble (en particular, cualquier tipo de orificios o ranuras de forma manual o con herramientas mecánicas). Que, en todo caso, habrá de cumplir con la normativa de la Comunidad de Propietarios. 8.2	A la terminación del presente Contrato de arrendamiento, las obras y mejoras quedarán en beneficio del Inmueble, sin derecho del Inquilino a resarcirse de ellas, salvo pacto en contrario. 8.3	En el supuesto de que el Inquilino realizase obras sin el permiso previo del Propietario, éste podrá instar la resolución del presente Contrato y exigir al Inquilino la reposición del Inmueble a su estado originario.
+
+Respuesta Base:
+### **Informe de Análisis Jurídico – Cláusula Octava: Obras en el Inmueble**  
+
+#### **1. Análisis de Legalidad**  
+- **8.1 (Restricción a obras y mejoras sin consentimiento del arrendador)** → **Legal**, conforme al **artículo 21.1 de la LAU (Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos)**, que establece que el arrendatario no puede realizar obras sin autorización del arrendador, salvo las de mera conservación.  
+- **8.2 (Adquisición de mejoras por el arrendador sin indemnización)** → **Legal**, pero con matices. El **artículo 21.2 LAU** dispone que las mejoras realizadas por el arrendatario sin consentimiento del arrendador no dan derecho a indemnización, salvo pacto en contrario. Sin embargo, si las mejoras fueron autorizadas, podría discutirse su compensación en caso de que no fueran meramente decorativas.  
+- **8.3 (Resolución del contrato por obras no autorizadas)** → **Legal**, ya que el **artículo 27.1 LAU** permite al arrendador resolver el contrato si el arrendatario incumple gravemente sus obligaciones, como realizar obras no consentidas.  
+
+#### **2. Análisis de Abusividad**  
+- **8.1 y 8.3** → **No abusivas**, pues se ajustan a la regulación legal y no imponen condiciones desproporcionadas.  
+- **8.2** → **Potencialmente abusiva si se aplica a mejoras necesarias o útiles autorizadas**. La jurisprudencia (STS 18/12/2006) ha considerado abusivo privar al inquilino de indemnización por mejoras útiles que incrementan el valor del inmueble, especialmente si fueron consentidas.  
+
+#### **3. Áreas de Riesgo**  
+- **Riesgo de litigio por interpretación de "mejoras" (8.2)**: Si el inquilino realiza mejoras útiles (ej: reforma eléctrica o aislamiento) con consentimiento tácito, podría reclamar indemnización.  
+- **Riesgo en la exigencia de reposición (8.3)**: Si el arrendador exige la reposición de alteraciones mínimas (ej: taladros para estanterías), podría considerarse desproporcionado y ser impugnado judicialmente.  
+
+#### **4. Términos Vagos o Imprecisos**  
+- **"Mejoras de ningún tipo" (8.1)**: Podría generar conflicto sobre qué se entiende por "mejora" (¿incluye reparaciones necesarias?).  
+- **"Normativa de la Comunidad de Propietarios" (8.1)**: Falta concreción sobre qué normativa aplica (estatutos, reglamentos, etc.).  
+
+#### **5. Lagunas Jurídicas**  
+- **Falta de regulación expresa sobre mejoras útiles consentidas**: La LAU no aclara si el arrendador debe indemnizar al inquilino por mejoras útiles autorizadas, lo que puede generar inseguridad jurídica.  
+- **Ausencia de criterio sobre "alteraciones mínimas"**: No hay regulación específica sobre si pequeños cambios (ej: pintura, taladros) justifican la resolución del contrato.  
+
+### **Recomendaciones para la SOCIMI**  
+1. **Precisar en el contrato qué se entiende por "mejoras"** (excluyendo, por ejemplo, reparaciones de mantenimiento).  
+2. **Incluir un protocolo de autorización de obras**, especificando si las mejoras útiles darán derecho a compensación.  
+3. **Evitar la aplicación automática de la cláusula 8.3 para alteraciones menores**, para reducir riesgos de impugnación.  
+
+**Conclusión**: La cláusula es legal en su mayoría, pero requiere ajustes para evitar litigios por interpretaciones extensivas o abusivas, especialmente en lo relativo a mejoras útiles consentidas.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+NOVENA: DEVOLUCIÓN DEL INMUEBLE 9.1	Llegada la fecha de terminación del presente Contrato y, en su caso la de cualquiera de sus prórrogas, el Inquilino deberá abandonar el Inmueble sin que sea necesario para ello requerimiento alguno por parte del Propietario. 9.2	El Inquilino se compromete desde ahora y para entonces a devolver el Inmueble y las llaves del mismo en la fecha de terminación del presente Contrato entregándolo en perfecto estado, sin más deterioros que los que se hubiesen producido por el mero paso del tiempo y el uso ordinario, libre de los enseres personales del Inquilino y totalmente desocupado. 9.3 El Inquilino se obliga expresamente a reparar cualquier desperfecto (a modo de ejemplo: azulejos, baldosas, armarios, marcos de madera, grifería o sanitarios, etc.) antes de su devolución al Propietario. 9.4 El retraso en el desalojo del Inmueble por parte del Inquilino devengará a favor del Propietario, en concepto de penalización por cada día de retraso, un importe igual al doble de la renta diaria que estuviera vigente en ese momento. Todo ello, sin perjuicio de la obligación del Inquilino de abandonar el Inmueble de inmediato.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLAÚSULA NOVENA: DEVOLUCIÓN DEL INMUEBLE**  
+
+### **1. Análisis cláusula por cláusula**  
+
+#### **9.1. Obligación de abandonar el inmueble sin requerimiento**  
+- **Legalidad**: **Legal**, ya que el artículo 1566.2 del Código Civil establece que, finalizado el contrato, el arrendatario debe restituir la cosa arrendada sin necesidad de requerimiento.  
+- **Abusividad**: **No abusiva**, pues refleja una obligación legal básica del arrendatario.  
+- **Riesgos**: **Bajo riesgo**, pero podría generar conflictos si el arrendatario alega no haber recibido notificación previa (aunque legalmente no sea necesaria).  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No se identifica.  
+
+#### **9.2. Devolución en perfecto estado y libre de enseres**  
+- **Legalidad**: **Legal**, conforme al artículo 1566.1 CC, que exige la restitución en el estado debido, salvo deterioros por uso ordinario.  
+- **Abusividad**: **Potencialmente abusiva** si se interpreta como una obligación de dejar el inmueble en *mejor* estado que el recibido (por ejemplo, exigiendo reparaciones más allá del desgaste normal).  
+- **Riesgos**: **Alto riesgo** si el arrendador intenta retener la fianza por desperfectos subjetivos (ej.: pequeños arañazos en suelos por uso normal).  
+- **Términos vagos**: "Perfecto estado" es **subjetivo**; debería precisarse "según estado al inicio del arriendo, salvo desgaste ordinario".  
+- **Laguna jurídica**: No aplica.  
+
+#### **9.3. Reparación de desperfectos antes de la devolución**  
+- **Legalidad**: **Legal en principio**, pero con matices. El artículo 1566 CC impone al arrendatario reparar los daños culposos, no los derivados del uso normal.  
+- **Abusividad**: **Sí, si se exige reparar desgaste ordinario** (ej.: grifería envejecida). Sería abusivo según la Directiva 93/13/CEE y la jurisprudencia del TJUE.  
+- **Riesgos**: **Alto riesgo** de litigio por discrepancias sobre qué es "desperfecto" (ej.: ¿un azulejo descolorido por el sol?).  
+- **Términos vagos**: "Desperfecto" es **ambiguo**; debería limitarse a daños culposos o negligentes.  
+- **Laguna jurídica**: No aplica.  
+
+#### **9.4. Penalización por retraso en el desalojo**  
+- **Legalidad**: **Legal pero con límites**. El artículo 1591 CC permite indemnizaciones por mora, pero el doble de la renta diaria podría ser **desproporcionado** si supera el daño real (art. 1255 CC).  
+- **Abusividad**: **Posiblemente abusiva** si la penalización no guarda proporción con los perjuicios (STS 605/2015).  
+- **Riesgos**: **Alto riesgo** de impugnación judicial si el inquilino alega desproporción.  
+- **Términos vagos**: No aplica.  
+- **Laguna jurídica**: No se identifica.  
+
+---  
+
+### **2. Conclusiones y recomendaciones**  
+1. **Cláusulas problemáticas**:  
+   - **9.2 y 9.3**: Riesgo de abusividad por términos vagos y exigencia de reparaciones más allá del desgaste normal. **Recomendación**: Reformular para ajustarse al artículo 1566 CC y excluir expresamente el desgaste ordinario.  
+   - **9.4**: Penalización potencialmente desproporcionada. **Recomendación**: Fijar un porcentaje razonable (ej.: 50% adicional) o vincularlo a daños demostrables.  
+
+2. **Documentación complementaria**: Para evitar conflictos, la SOCIMI deberá:  
+   - Realizar un **acta de entrega** detallada al inicio y fin del contrato.  
+   - Incluir en el contrato un **inventario con fotos** que precise el estado inicial.  
+
+3. **Cumplimiento normativo**: Asegurar que las exigencias de reparación y penalizaciones se ajusten a la jurisprudencia del TS sobre desgaste ordinario (STS 447/2018) y proporcionalidad (STS 605/2015).  
+
+---  
+**Nota final**: Este análisis se basa en la LAU (Ley 29/1994) y el Código Civil, vigentes a la fecha del informe. Se recomienda revisión periódica ante posibles reformas legislativas.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: I  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMA: DERECHO DE TANTEO Y RETRACTO 10.1 El Inquilino renuncia expresamente a los derechos de tanteo y retracto que por dicha condición pudieren corresponderle.
+
+Respuesta Base:
+**Análisis de la Décima Cláusula: Derecho de Tanteo y Retracto**  
+
+1. **Ilegalidad (2.1)**:  
+   - **No es ilegal**. El arrendatario puede renunciar a los derechos de tanteo y retracto en el marco de un contrato de arrendamiento, ya que estos derechos no son irrenunciables por ley en este contexto. La Ley de Arrendamientos Urbanos (LAU) no regula específicamente estos derechos en arrendamientos de vivienda, por lo que su renuncia no contraviene normas imperativas.  
+
+2. **Abusividad (2.2)**:  
+   - **Potencialmente abusiva** si se impone de manera unilateral sin justificación y desequilibra significativamente los derechos y obligaciones de las partes. Sin embargo, en el contexto de un contrato entre una SOCIMI (con poder negociador) y un inquilino, y dado que estos derechos no son esenciales en un arrendamiento, no necesariamente se consideraría abusiva. Sería abusiva si el inquilino es un consumidor (no es el caso aquí, al ser un contrato entre profesionales).  
+
+3. **Áreas de Riesgo (2.3)**:  
+   - **Riesgo bajo**. La renuncia es clara y no afecta derechos esenciales del arrendamiento. No obstante, si el contrato fuera calificado como "arrendamiento con opción a compra" (no es el caso aquí), la renuncia podría ser problemática.  
+
+4. **Términos Vagos (2.4)**:  
+   - **No aplica**. La cláusula es precisa al referirse a la renuncia de derechos específicos (tanteo y retracto).  
+
+5. **Laguna Jurídica (2.5)**:  
+   - **No hay laguna relevante**. La LAU no regula estos derechos en arrendamientos, por lo que su renuncia queda al ámbito de la autonomía de la voluntad.  
+
+**Conclusión**: La cláusula es válida, pero debe asegurarse que no se aplique en contextos donde el inquilino tenga derechos especiales (ej. arrendamientos con promesa de compraventa). En un contrato estándar de arrendamiento, como el analizado, no presenta problemas jurídicos graves.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO PRIMERA: CAUSAS DE TERMINACIÓN DEL CONTRATO 11.1 Serán causas de terminación del Contrato, además de las legalmente establecidas y las previstas en este Contrato, las que se mencionan a continuación: a) A efectos del artículo 14 de la LAU y a cuantos otros pudieran resultar pertinentes, la enajenación del Inmueble extinguirá el arrendamiento. b) Una vez transcurrido el primer año de duración del Contrato, en caso de necesidad del Propietario de ocupar el Inmueble antes del transcurso de cinco años, para destinarla a vivienda permanente para sí o sus familiares en primer grado de consanguinidad o por adopción o para su cónyuge en los supuestos de sentencia firme de separación, divorcio o nulidad matrimonial de conformidad con el artículo 9.3 de la LAU. El Propietario deberá comunicar dicha necesidad con al menos dos meses de antelación a la fecha en la que la vivienda se vaya a necesitar y el Inquilino estará obligado a entregar el Inmueble en dicho plazo si las partes no llegan a un acuerdo distinto.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA DÉCIMO PRIMERA (11.1) DEL CONTRATO DE ARRENDAMIENTO**  
+
+### **1. Análisis de la Cláusula**  
+La cláusula establece dos causas de terminación del contrato de arrendamiento, adicionales a las legales:  
+- **a) Enajenación del inmueble** como causa de extinción del arrendamiento.  
+- **b) Necesidad del propietario de ocupar la vivienda** para sí o familiares en primer grado (o cónyuge en casos de separación/divorcio), conforme al art. 9.3 LAU.  
+
+---  
+
+### **2. Valoración Jurídica**  
+
+#### **2.1. Ilegalidad**  
+- **Subapartado a)**:  
+  - **Posible ilegalidad**. El art. 14 LAU establece que la enajenación del inmueble **no extingue** el arrendamiento, salvo pacto en contrario en contratos **superiores a 5 años** (art. 14.2 LAU). Si el contrato es de duración inferior, esta cláusula sería **contraria a la ley** y nula (art. 6.3 LAU).  
+  - **Excepción**: Si el contrato supera los 5 años, sería válido (siempre que se cumplan los requisitos del art. 14.2 LAU).  
+
+- **Subapartado b)**:  
+  - **Legalidad formal**. El art. 9.3 LAU permite al arrendador recuperar la vivienda para uso propio o familiar, pero exige:  
+    - Comunicación con **2 meses de antelación** (cumple).  
+    - **Transcurso del primer año** (cumple).  
+    - **Límite temporal**: Solo aplicable antes de 5 años desde el inicio del arrendamiento (art. 9.3 LAU).  
+
+#### **2.2. Abusividad**  
+- **Subapartado a)**:  
+  - **Potencial abusividad** si el contrato es de corta duración (inferior a 5 años), ya que vulnera el derecho del inquilino a la estabilidad contractual (art. 14 LAU). Podría considerarse abusiva por imponer un desequilibrio injustificado (art. 82 TRLGDCU).  
+
+- **Subapartado b)**:  
+  - **No abusiva**, al estar expresamente prevista en la LAU (art. 9.3) y ajustarse a sus requisitos.  
+
+#### **2.3. Áreas de Riesgo**  
+- **Subapartado a)**:  
+  - **Riesgo de nulidad** si el contrato es inferior a 5 años.  
+  - **Riesgo procesal**: El inquilino podría impugnarla judicialmente.  
+
+- **Subapartado b)**:  
+  - **Riesgo de mala fe**: El propietario podría alegar falsamente "necesidad" para desalojar al inquilino. La jurisprudencia exige acreditar la veracidad de la necesidad (STS 18/12/2015).  
+
+#### **2.4. Términos Vagos**  
+- **"Necesidad del Propietario"**:  
+  - Aunque el art. 9.3 LAU lo utiliza, podría generar conflictos interpretativos. Se recomienda definir qué se entiende por "necesidad" (ej.: cambio de residencia, carencia de vivienda alternativa).  
+
+#### **2.5. Lagunas Jurídicas**  
+- **Falta de regulación sobre la "acreditación de la necesidad"**:  
+  - La LAU no detalla cómo debe probarse la necesidad (ej.: empadronamiento, declaración jurada). Esto podría generar litigios sobre la legitimidad del desalojo.  
+
+---  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Eliminar o modificar el subapartado a)** si el contrato es inferior a 5 años, para evitar nulidad.  
+2. **Incluir un mecanismo de prueba** en el subapartado b) (ej.: documentación justificativa de la necesidad).  
+3. **Asegurar el cumplimiento estricto del plazo de 2 meses** para la comunicación, evitando vicios formales.  
+
+---  
+
+**Conclusión**:  
+- La cláusula es **parcialmente ilegal/abusiva** en su apartado a) si el contrato es inferior a 5 años.  
+- El apartado b) es legal, pero requiere precisión para evitar riesgos interpretativos.  
+
+**Base Legal**: Arts. 9.3, 14 LAU; 82 TRLGDCU; jurisprudencia citada.
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO SEGUNDA: PROTECCIÓN DE DATOS. INCLUSIÓN EN FICHERO DE MOROSIDAD 12.1	Los datos personales que el Inquilino facilita en el presente contrato y que pueda facilitar en el futuro son necesarios para la celebración del presente contrato, y serán tratados por el Propietario con la finalidad de gestionar el contrato de arrendamiento de la vivienda y sobre la base de la ejecución de dicha relación contractual. El Propietario no comunicará los datos personales del Inquilino a terceros, salvo cuando sea necesario para el cumplimiento de obligaciones legales, sin perjuicio de que los prestadores de servicios de gestión administrativa del Propietario puedan tener acceso a los datos personales del Inquilino para la prestación de dichos servicios. El Propietario no llevará a cabo transferencias internacionales de datos personales. El Propietario conservará los datos en tanto que la relación contractual se mantenga vigente, conservándolos posteriormente, debidamente bloqueados, por el plazo de prescripción de las acciones de acuerdo con la normativa civil aplicable. El Inquilino podrá ejercitar sus derechos de acceso, rectificación, supresión y a la portabilidad de sus datos, así como a la limitación del tratamiento de los mismos, dirigiéndose al Propietario en la dirección que figura en el encabezamiento del presente contrato, y acreditando debidamente su identidad. Asimismo, el Inquilino tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos. 12.2	El Propietario informa al Inquilino que en caso de impago de las cantidades de la renta, sus datos personales podrán ser cedidos al fichero de solvencia patrimonial negativo gestionado por Base de Datos de Morosidad Inmobiliaria, S.L.U. (https://www.idealista.com/base-datos-inquilinos-morosos/) en base al interés legítimo de prevención del fraude mediante el proceso de https://www.idealista.com/base-datos-inquilinos-morosos/como-incluir-morosos. En caso de incorporación de los datos de impagos del Inquilino en un fichero de solvencia patrimonial negativo, el Inquilino recibirá, en el plazo máximo de un mes desde la inscripción de la deuda en el fichero, una comunicación del titular de dicho fichero informándole de la incorporación de sus datos personales en el mismo.
+
+Respuesta Base:
+**Análisis de la Cláusula Décimo Segunda: Protección de Datos. Inclusión en Fichero de Morosidad**  
+
+### **1. Cláusulas Ilegales**  
+**No se detectan ilegalidades** en esta cláusula, ya que:  
+- Se ajusta al **Reglamento General de Protección de Datos (RGPD)** y a la **Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)**.  
+- Se informa al inquilino sobre el tratamiento de sus datos, las finalidades, las posibles cesiones (solo en caso de impago y con base en interés legítimo) y sus derechos (acceso, rectificación, supresión, etc.).  
+- Se menciona expresamente la posibilidad de reclamación ante la **Agencia Española de Protección de Datos (AEPD)**, como exige la normativa.  
+
+### **2. Cláusulas Abusivas**  
+**No se considera abusiva**, ya que:  
+- La inclusión en un fichero de morosidad está condicionada al **impago justificado** y se basa en el **interés legítimo del arrendador** (prevención del fraude).  
+- Se informa al inquilino con antelación sobre esta posibilidad y se respetan los plazos y procedimientos legales (comunicación en el plazo de un mes desde la inscripción).  
+
+### **3. Posibles Áreas de Riesgo**  
+- **Cesión a terceros (gestores administrativos):** Aunque se menciona que los prestadores de servicios de gestión pueden acceder a los datos, debería especificarse que estos terceros actuarán como **encargados del tratamiento** conforme al art. 28 RGPD, garantizando confidencialidad y seguridad.  
+- **Base jurídica para la inclusión en fichero de morosidad:** Aunque se invoca el **interés legítimo**, sería recomendable que el contrato incluyera una **cláusula expresa de consentimiento** para evitar posibles impugnaciones por parte del inquilino.  
+
+### **4. Términos Vagos o Imprecisos**  
+- **"Prestadores de servicios de gestión administrativa":** No se especifica qué tipo de entidades o profesionales pueden acceder a los datos. Sería conveniente detallar las categorías (ej. gestorías, administradores de fincas, etc.).  
+- **"Plazo de prescripción de las acciones":** No se concreta el plazo exacto (ej. 5 años para acciones personales según el Código Civil), lo que podría generar inseguridad jurídica.  
+
+### **5. Lagunas Jurídicas**  
+- **Falta de mención al plazo de conservación de datos bloqueados:** Aunque se alude al plazo de prescripción, no se especifica cuál es (podría ser 5 años para acciones derivadas del contrato).  
+- **Ausencia de referencia al deber de confidencialidad de los encargados del tratamiento:** Sería recomendable incluir una mención expresa a que los terceros que accedan a los datos están obligados a cumplir el RGPD.  
+
+### **Conclusión**  
+La cláusula cumple con la normativa de protección de datos, pero podría mejorarse en:  
+1. **Precisión en plazos de conservación** (indicar expresamente el plazo de prescripción aplicable).  
+2. **Detalle sobre los encargados del tratamiento** (ej. gestorías, asesorías).  
+3. **Inclusión de consentimiento expreso para el fichero de morosidad**, reforzando la base jurídica.  
+
+**Recomendación para la SOCIMI:**  
+- Incluir un **anexo de protección de datos** más detallado, con plazos específicos y obligaciones de los terceros que accedan a la información.  
+- Valorar la posibilidad de obtener **consentimiento expreso** para la inclusión en ficheros de morosidad, además de invocar el interés legítimo.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO TERCERA: LEY APLICABLE Y JURISDICCIÓN 13.1	De conformidad con lo previsto en el artículo 4, apartado 2 de la vigente LAU, el presente Contrato se regirá por la voluntad de las Partes manifestada en el Contrato, en su defecto, por lo dispuesto en el Título II de la mencionada LAU y, supletoriamente, por lo dispuesto en el Código Civil. 13.2	La competencia para conocer de cualquier controversia relacionada con el presente Contrato corresponderá a los juzgados y tribunales del lugar en el que radique el Inmueble.
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA DÉCIMO TERCERA**  
+
+**1. Análisis de la Cláusula 13.1 ("Ley Aplicable")**  
+- **Ilegalidad**: No se aprecia ilegalidad. La remisión a la voluntad de las partes, a la LAU (Ley de Arrendamientos Urbanos) y, supletoriamente, al Código Civil, se ajusta al artículo 4.2 LAU y al principio de autonomía de la voluntad (artículo 1255 CC).  
+- **Abusividad**: No es abusiva, ya que reproduce el marco legal vigente sin imponer condiciones desequilibradas.  
+- **Áreas de riesgo**: Bajo riesgo, salvo que se invoque una norma imperativa contraria a lo pactado (ej., derechos irrenunciables del arrendatario).  
+- **Términos vagos**: No se identifican. La referencia a "voluntad de las Partes" y normas supletorias es clara.  
+- **Laguna jurídica**: No se detecta. El orden de prelación normativa está bien definido.  
+
+**2. Análisis de la Cláusula 13.2 ("Jurisdicción")**  
+- **Ilegalidad**: No es ilegal. El artículo 52 LAU establece la competencia de los juzgados del lugar donde esté el inmueble, salvo pacto en contrario (artículo 22 LEC).  
+- **Abusividad**: No se considera abusiva, pues sigue la regla general de competencia territorial y no limita derechos procesales del arrendatario (artículo 85.3 LAU prohíbe cláusulas que impidan acudir a tribunales españoles).  
+- **Áreas de riesgo**: Riesgo mínimo, pero podría discutirse si el arrendatario es consumidor (aplicación del foro de protección del consumidor, artículo 90 TRLGDCU).  
+- **Términos vagos**: Ausentes. La expresión "juzgados y tribunales del lugar en el que radique el Inmueble" es precisa.  
+- **Laguna jurídica**: No relevante. La norma es clara en atribuir competencia territorial.  
+
+**Observaciones adicionales**:  
+- **SOCIMI**: Como arrendador profesional, la cláusula es favorable al fijar un foro previsible (reduce litigiosidad dispersa).  
+- **Control de transparencia**: Si el arrendatario es consumidor, debe verificarse que la cláusula fue negociada individualmente o no genera desequilibrio (artículo 82 TRLGDCU).  
+
+**Conclusión**: La cláusula es válida y ajustada a derecho, sin perjuicio de revisar su impacto en contratos con consumidores.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO CUARTA: NOTIFICACIONES 14.1	Todas las notificaciones, requerimientos, peticiones y otras comunicaciones que hayan de efectuarse en relación con el presente Contrato deberán realizarse por escrito y se entenderá que han sido debidamente recibidas cuando hayan sido entregadas en mano o bien remitidas por correo certificado a las direcciones que figuran en el encabezamiento del presente Contrato, o a las direcciones que cualquiera de las Partes comunique a la otra por escrito en la forma prevista en esta cláusula. 14.2	Asimismo, y a fin de facilitar las comunicaciones entre las partes se designan las siguientes direcciones de correo electrónico, siempre que se garantice la autenticidad de la comunicación y de su contenido y quede constancia fehaciente de la remisión y recepción íntegras y del momento en que se hicieron, Por el Inquilino: Mail: [  ] Número de teléfono: [  ] Por el Propietario: Mail: [  ] Número de teléfono: [  ]
+
+Respuesta Base:
+**INFORME JURÍDICO SOBRE LA CLÁUSULA DÉCIMO CUARTA: NOTIFICACIONES**  
+
+### **1. Análisis de la Cláusula**  
+La cláusula regula el procedimiento de notificaciones y comunicaciones entre las partes del contrato de arrendamiento, estableciendo dos vías principales:  
+- **Notificaciones formales** (escritas, entregadas en mano o por correo certificado).  
+- **Comunicaciones electrónicas** (correo electrónico y teléfono), sujetas a requisitos de autenticidad y constancia fehaciente.  
+
+---  
+
+### **2. Valoración Jurídica**  
+
+#### **2.1. ¿Es una cláusula ilegal?**  
+**No.**  
+- La regulación se ajusta al **artículo 54 de la Ley de Arrendamientos Urbanos (LAU)**, que permite pactar formas de notificación distintas a las previstas legalmente (como el correo certificado o burofax), siempre que garanticen la constancia de la comunicación.  
+- El uso del correo electrónico está reconocido en el **artículo 45 de la Ley 34/2002 de Servicios de la Sociedad de la Información (LSSI)** y en el **Reglamento (UE) 910/2014 (eIDAS)**, siempre que se cumplan los requisitos de autenticidad e integridad.  
+
+#### **2.2. ¿Es una cláusula abusiva?**  
+**No, pero con matices.**  
+- La cláusula es **equilibrada**, ya que aplica los mismos requisitos a ambas partes.  
+- **Posible riesgo de abusividad** si en la práctica se impone el uso exclusivo de medios electrónicos sin garantizar su accesibilidad para el inquilino (ejemplo: un arrendatario sin recursos tecnológicos). En tal caso, podría vulnerar el **artículo 82 de la Ley General para la Defensa de los Consumidores y Usuarios (LGDCU)**.  
+
+#### **2.3. ¿Presenta áreas de riesgo?**  
+**Sí, en los siguientes aspectos:**  
+- **Falta de concreción sobre "autenticidad y constancia fehaciente"**: No se especifica cómo se garantiza (ejemplo: firma electrónica, acuse de recibo). Esto podría generar disputas sobre la validez de las notificaciones.  
+- **Direcciones de contacto incompletas**: Los campos de correo y teléfono están en blanco, lo que podría invalidar la eficacia de la cláusula si no se completan al firmar.  
+- **Dependencia de medios electrónicos**: Si el contrato no prevé alternativas para casos de fallos técnicos, podría dejar a una parte sin capacidad de comunicarse.  
+
+#### **2.4. ¿Contiene términos vagos?**  
+**Sí.**  
+- **"Quede constancia fehaciente"**: No define qué medios son válidos (ejemplo: ¿basta con un correo con acuse de recibo o se exige firma electrónica avanzada?).  
+- **"Se garantice la autenticidad"**: Tampoco se especifica el método (contraseñas, certificados digitales, etc.).  
+
+#### **2.5. ¿Existe alguna laguna jurídica?**  
+**Sí, en relación con:**  
+- **Notificaciones electrónicas en ausencia de regulación específica en la LAU**: Aunque la LSSI y el eIDAS las reconocen, la LAU no detalla su validez en arrendamientos. Esto podría generar inseguridad jurídica si un tribunal exige notificaciones tradicionales (correo certificado) para cuestiones clave (ejemplo: desahucios).  
+- **Comunicaciones por teléfono**: No está claro si un SMS o llamada podrían considerarse válidos sin registro fehaciente.  
+
+---  
+
+### **3. Recomendaciones para la SOCIMI**  
+1. **Completar los datos de contacto** (correos y teléfonos) en el momento de la firma.  
+2. **Especificar en un anexo** qué métodos electrónicos se aceptan como "fehacientes" (ejemplo: correo con acuse de recibo, firma electrónica cualificada).  
+3. **Incluir una salvaguarda** para casos de fallos técnicos (ejemplo: notificación por burofax si el correo electrónico no funciona).  
+4. **Evitar la exclusividad de medios electrónicos** si el inquilino no tiene acceso a ellos.  
+
+---  
+
+**Conclusión**: La cláusula es legal, pero requiere ajustes para minimizar riesgos y garantizar seguridad jurídica.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO QUINTA: FIRMA DEL CONTRATO Las partes aceptan el presente contrato, así como sus correspondientes anexos y sus efectos jurídicos y se comprometen a su cumplimiento de buena fe. En [lugar] a [fecha] El Propietario __________________________ [Nombre Propietario] El Inquilino [1] __________________________ [Nombre Inquilino 1] El Inquilino [2] __________________________ [Nombre Inquilino 2]
+
+Respuesta Base:
+**Análisis de la Cláusula Décimo Quinta: Firma del Contrato**  
+
+1. **Ilegalidad**:  
+   - **No es ilegal**. La cláusula cumple con los requisitos formales del artículo 1278 del Código Civil español, que exige el consentimiento de las partes para la validez del contrato.  
+
+2. **Abusividad**:  
+   - **No es abusiva**. Se limita a recoger la aceptación expresa del contrato por las partes, sin imponer condiciones desequilibradas o perjudiciales para el inquilino (artículo 82 TRLGDCU).  
+
+3. **Áreas de riesgo**:  
+   - **Riesgo formal**: Si no se rellenan correctamente los campos de lugar, fecha o firmas, podría afectar a la validez del contrato (artículo 1280 CC).  
+   - **Riesgo de pluralidad de inquilinos**: Al incluir dos inquilinos, se debe verificar que ambos asumen responsabilidad solidaria (artículo 1137 CC), pero esto no se explicita en la cláusula.  
+
+4. **Términos vagos**:  
+   - **"[lugar]" y "[fecha]"**: Son marcadores genéricos que deben completarse para evitar nulidad por indeterminación (artículo 1261 CC).  
+   - **"Efectos jurídicos"**: Aunque es una fórmula estándar, no especifica qué efectos concretos se derivan (ej. obligaciones de pago, uso de la vivienda).  
+
+5. **Laguna jurídica**:  
+   - **Falta de regulación expresa sobre firma digital**. El contrato no aclara si admite firma electrónica, pese a su validez legal (Reglamento UE 910/2014). En arrendamientos de vivienda, la jurisprudencia exige consentimiento inequívoco, pero no hay norma específica que resuelva conflictos sobre modalidades de firma en este contexto.  
+
+**Recomendaciones para la SOCIMI**:  
+- **Completar todos los campos** (lugar, fecha, nombres) para evitar nulidad.  
+- **Incluir una cláusula de solidaridad** si hay varios inquilinos.  
+- **Especificar el método de firma aceptado** (manuscrita, electrónica) para prevenir disputas.  
+
+*Base legal*: Código Civil (arts. 1261, 1278, 1280, 1137), TRLGDCU (art. 82), Reglamento UE 910/2014 (eIDAS).
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: S
+
+--------------------------------------------------------------------------------
+

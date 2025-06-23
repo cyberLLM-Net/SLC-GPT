@@ -1,0 +1,180 @@
+Contrato de Aragon 1.docx
+
+### Análisis previo al inicio de las cláusulas:
+
+En el contrato de arrendamiento de vivienda presentado, se identifican claramente a las partes intervinientes, la descripción del inmueble objeto del arrendamiento, la duración del contrato, la renta acordada, las obligaciones de ambas partes, entre otros aspectos relevantes para el arrendamiento de una vivienda.
+
+### Cláusula Primera:
+
+**Objeto:**
+- **Ilegalidad:** No se identifica ninguna ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica ninguna abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula.
+
+### Cláusula Segunda:
+
+**Plazo:**
+- **Ilegalidad:** No se observa ninguna ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica ninguna abusividad en esta cláusula.
+- **Áreas de riesgo:** La cláusula establece una prórroga tácita del contrato, lo cual es común en los contratos de arrendamiento. Sin embargo, es importante tener en cuenta que el plazo máximo de prórroga tácita en España es de tres años, por lo que debe verificarse que se respete este límite.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula.
+
+### Cláusula Tercera:
+
+**Desistimiento:**
+- **Ilegalidad:** No se aprecia ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Cuarta:
+
+**Prórroga:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** La cláusula establece las condiciones de prórroga obligatoria del contrato, lo cual es común en los contratos de arrendamiento en España. Es importante verificar que se respeten los plazos y condiciones establecidos por la ley.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula.
+
+### Cláusula Quinta:
+
+**Renta y actualización:**
+- **Ilegalidad:** No se identifica ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Sexta:
+
+**Forma de pago:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Séptima:
+
+**Impuestos y gastos:**
+- **Ilegalidad:** No se aprecia ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Octava:
+
+**Conservación:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Novena:
+
+**Obras:**
+- **Ilegalidad:** No se identifica ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Décima:
+
+**Suministros:**
+- **Ilegalidad:** No se aprecia ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Undécima:
+
+**Prohibición del subarriendo:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Duodécima:
+
+**Fianza:**
+- **Ilegalidad:** No se identifica ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Decimotercera:
+
+**Obligaciones de la parte arrendataria:**
+- **Ilegalidad:** No se aprecia ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Decimocuarta:
+
+**Obligaciones de la parte arrendadora:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Decimoquinta:
+
+**Causas de terminación del arriendo:**
+- **Ilegalidad:** No se identifica ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Decimoctava:
+
+**Tanteo y retracto:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Decimonovena:
+
+**Jurisdicción:**
+- **Ilegalidad:** No se aprecia ilegalidad en esta cláusula.
+- **Abusividad:** No se observa abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Vigésimo:
+
+**Notificaciones:**
+- **Ilegalidad:** No se identifica ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Cláusula Vigésimo primero:
+
+**Aceptación:**
+- **Ilegalidad:** No se observa ilegalidad en esta cláusula.
+- **Abusividad:** No se identifica abusividad en esta cláusula.
+- **Áreas de riesgo:** No se identifican áreas de riesgo en esta cláusula.
+- **Términos vagos:** No se identifican términos vagos en esta cláusula.
+- **Laguna jurídica:** No se identifica ninguna laguna jurídica en esta cláusula. 
+
+### Conclusión:
+
+En general, el contrato de arrendamiento de vivienda analizado no presenta cláusulas ilegales, abusivas, términos vagos o lagunas jurídicas significativas. Sin embargo, es importante que las partes involucradas en el contrato cumplan con las obligaciones y condiciones establecidas para evitar posibles conflictos en el futuro. Se recomienda revisar periódicamente el contrato para asegurar su actualización y cumplimiento adecuado de la normativa vigente en materia de arrendamientos en España.

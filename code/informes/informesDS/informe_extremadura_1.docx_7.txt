@@ -1,0 +1,203 @@
+Contrato de Extremadura 1.docx
+
+### Análisis Preliminar (Encabezado y Exposiciones)
+
+1. **Ilegalidad**: No se detectan cláusulas ilegales en esta sección.  
+2. **Abusividad**: No hay elementos abusivos.  
+3. **Áreas de riesgo**:  
+   - Falta de identificación completa de las partes (ej. DNI, domicilio) podría generar problemas de validez.  
+   - No se adjunta la nota registral (anexo I) en el texto proporcionado, lo que podría afectar la prueba de propiedad.  
+4. **Términos vagos**:  
+   - "Intervienen en su propio nombre y derecho" es redundante y no añade claridad.  
+5. **Laguna jurídica**: No se identifican.  
+
+---
+
+### PRIMERO (Propiedad del inmueble)  
+
+1. **Ilegalidad**: No. La descripción del inmueble y su registro son adecuados.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Si la nota registral no se aporta efectivamente, habría riesgo en la prueba de propiedad.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### SEGUNDO (Objeto del contrato)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: No.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### PRIMERA (Destino de la vivienda)  
+
+1. **Ilegalidad**: No, pero la prohibición absoluta de cambio de destino sin autorización podría ser discutible si afecta derechos básicos (ej. teletrabajo).  
+2. **Abusividad**: Potencialmente, si se interpreta como limitación desproporcionada del uso legítimo.  
+3. **Áreas de riesgo**:  
+   - "Familia" no está definida (¿incluye parejas de hecho?).  
+4. **Términos vagos**: "Necesidad permanente de vivienda" es subjetivo.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### SEGUNDA (Régimen jurídico)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: No.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### TERCERA (Duración y prórrogas)  
+
+1. **Ilegalidad**:  
+   - La indemnización por desistimiento (1 mes proporcional) excede lo permitido en el art. 11 LAU (máximo 1 mes completo).  
+2. **Abusividad**: Sí, por penalizar excesivamente al arrendatario.  
+3. **Áreas de riesgo**:  
+   - Confusión en plazos de preaviso (ej. 30 días vs. 4 meses).  
+4. **Términos vagos**: "Anualidades" podría precisarse.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### CUARTA (Obligaciones del arrendatario)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - "Preaviso razonable" para acceso es indeterminado.  
+4. **Términos vagos**: "Casos necesarios o urgentes" es ambiguo.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### QUINTA (Renta y forma de pago)  
+
+1. **Ilegalidad**:  
+   - Pago en dólares sin referencia al cambio oficial podría violar el art. 3.1 LAU (moneda de curso legal).  
+   - Resolución por impago de 1 semana es desproporcionada (art. 27 LAU exige mora).  
+2. **Abusividad**: Sí, por condiciones de pago onerosas.  
+3. **Áreas de riesgo**:  
+   - Falta de IBAN completo.  
+4. **Términos vagos**: "Días laborables" no define si incluye festivos locales.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### SEXTA (Actualización de renta)  
+
+1. **Ilegalidad**:  
+   - Actualización semanal es abusiva e ilegal (art. 18 LAU permite solo anual).  
+   - Retroactividad y referencia al IPC de EE.UU. son ilegales.  
+2. **Abusividad**: Sí, por frecuencia y complejidad.  
+3. **Áreas de riesgo**:  
+   - Mecanismo de cálculo es inaplicable.  
+4. **Términos vagos**: "Índice que los sustituya" es indeterminado.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### SÉPTIMA (Prohibición de subarriendo y obras)  
+
+1. **Ilegalidad**: No, pero la indemnización del 20% por obras no autorizadas podría ser desproporcionada.  
+2. **Abusividad**: Parcialmente, si limita mejoras necesarias.  
+3. **Áreas de riesgo**:  
+   - "Obras mayores/menores" no está definido.  
+4. **Términos vagos**: "Autorización expresa y por escrito" no especifica plazos.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### OCTAVA (Gastos y tributos)  
+
+1. **Ilegalidad**: No, pero debe precisarse qué parte asume IBI y basuras (texto está incompleto).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Omisión de asignación de gastos en el texto proporcionado.  
+4. **Términos vagos**: "Según ley" es redundante.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### NOVENA (Estado de la vivienda)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**:  
+   - Prohibición total de agujeros en paredes podría ser excesiva.  
+3. **Áreas de riesgo**:  
+   - "Desgaste lógico" es subjetivo.  
+4. **Términos vagos**: "Técnico competente" no especifica titulación.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### DÉCIMA (Reparaciones)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - "Pequeñas reparaciones" no está definido.  
+4. **Términos vagos**: "Negligencia" es interpretable.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### UNDÉCIMA (Renuncia a derechos preferentes)  
+
+1. **Ilegalidad**: No, si la renuncia es expresa.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Falta de checkbox para marcar renuncia/sin renuncia.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### DUODECIMA (Fianza y garantía)  
+
+1. **Ilegalidad**:  
+   - Actualización mensual de la fianza viola el art. 36 LAU (solo al renovar).  
+   - Aval bancario de 1.000€ podría ser excesivo para rentas bajas.  
+2. **Abusividad**: Sí, por acumulación de garantías.  
+3. **Áreas de riesgo**:  
+   - "Primer requerimiento" sin condiciones es arriesgado.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### DECIMOTERCERA (Resolución)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: No.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### DECIMOCUARTA (Jurisdicción y notificaciones)  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Falta de email/teléfono en el texto proporcionado.  
+4. **Términos vagos**: No.  
+5. **Laguna jurídica**: No.  
+
+---
+
+### Observaciones finales:  
+- **Cláusulas críticas**: QUINTA (pago en dólares), SEXTA (actualización semanal), DUODECIMA (aval).  
+- **Recomendaciones**:  
+  - Uniformizar plazos de preaviso según LAU.  
+  - Eliminar cláusulas ilegales (ej. actualización semanal).  
+  - Definir términos ambiguos ("obras menores", "preaviso razonable").  
+  - Aportar anexos obligatorios (nota registral, certificado energético).

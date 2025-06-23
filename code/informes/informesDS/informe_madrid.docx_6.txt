@@ -1,0 +1,110 @@
+Contrato de Madrid.docx
+
+### Análisis Preliminar (Antes de la Primera Cláusula)
+
+1. **Identificación de las Partes**: Correcta identificación de arrendador y arrendatario con datos completos (DNI/NIE, domicilio, etc.), cumpliendo con el artículo 4.1 LAU. No se detectan irregularidades.
+
+2. **Expositivos**:
+   - **1º**: Declaración de propiedad y características del inmueble. **Riesgo**: Falta adjuntar cédula de habitabilidad y certificado de eficiencia energética (obligatorios según RD 235/2013 y normativa autonómica madrileña). Esto podría invalidar el contrato o generar sanciones administrativas.
+   - **2º y 3º**: Uso como vivienda habitual y sometimiento a la LAU. Correcto.
+
+### PRIMERA: OBJETO
+
+1. **Ilegalidad**: 
+   - **1.3.e)**: Prohibición de uso vacacional. **Posible ilegalidad** si el inmueble está registrado como vivienda turística y cumple requisitos legales (Art. 5.2 LAU).
+   - **1.6**: Prohibición total de mascotas. **Ilegal** según Ley 7/2023 (modificación LAU), que permite animales domésticos salvo causas justificadas (ej. comunidades con prohibición estatutaria).
+
+2. **Cláusulas Abusivas**: 
+   - **1.4**: Límite de 4 personas. **Riesgo de abusividad** si no se justifica por metros cuadrados (Art. 9.1 LAU y jurisprudencia sobre "uso normal").
+   - **1.6**: Resolución automática por tenencia de mascotas. **Abusiva** por desproporción (Art. 82.3 TRLGDCU).
+
+3. **Términos Vagos**: "No molestar a vecinos" (1.5) es subjetivo. Debería concretarse (ej. ruidos después de 23h).
+
+4. **Lagunas Jurídicas**: Ninguna relevante.
+
+### SEGUNDA: PLAZO DE VIGENCIA
+
+1. **Ilegalidad**: 
+   - **2.4**: Indemnización por desistimiento. **Ilegal** si supera un mes de renta (Art. 11 LAU). Aquí es proporcional, pero la actualización semanal (Cláusula Cuarta) complica el cálculo.
+
+2. **Cláusulas Abusivas**: Ninguna.
+
+3. **Riesgos**: 
+   - **2.2-2.3**: Plazos de preaviso distintos para arrendador (4 meses) e inquilino (2 meses). **Riesgo de nulidad** por desigualdad (Art. 9.3 LAU exige 4 meses para ambos).
+
+4. **Términos Vagos**: Ninguno.
+
+### TERCERA: ENTREGA DEL INMUEBLE
+
+1. **Ilegalidad/Abusividad**: Ninguna. Entrega en condiciones de habitabilidad es conforme al Art. 21 LAU.
+
+2. **Riesgo**: "Perfecto estado" (3.1) sin inventario detallado. **Riesgo de conflictos** en la devolución.
+
+### CUARTA: RENTA
+
+1. **Ilegalidad**: 
+   - **4.1**: Pago en dólares. **Ilegal** según Art. 7.1 LAU (debe ser en euros).
+   - **4.5**: Actualización semanal con IPC español o estadounidense. **Ilegal** (Art. 18 LAU solo permite anual con IPC español).
+
+2. **Cláusulas Abusivas**: 
+   - **4.2**: Resolución por impago de 4 semanas. **Abusiva** (Art. 27.1 LAU exige mora de un mes completo).
+   - **4.6**: Retroactividad en revisiones. **Abusiva** por complejidad y perjuicio al inquilino.
+
+3. **Riesgos**: Mecanismo de actualización semanal inviable en la práctica.
+
+### QUINTA: GARANTÍA
+
+1. **Ilegalidad**: 
+   - **5.1**: Fianza de 2 semanas (200€). **Legal** (Art. 36 LAU permite hasta 2 meses; aquí es inferior).
+   - **5.5**: Aval bancario de 1.000€. **Legal** como garantía adicional, pero debe justificarse proporcionalidad.
+
+2. **Riesgo**: Actualización mensual de la fianza (5.4) sin criterio claro.
+
+### SEXTA: SERVICIOS Y GASTOS
+
+1. **Ilegalidad**: 
+   - **6.3**: IBI a cargo del inquilino. **Ilegal** (Art. 21.2 LAU lo atribuye al propietario salvo pacto en contrato de temporada, que no es el caso).
+
+2. **Cláusulas Abusivas**: 
+   - **6.5**: Exención total de responsabilidad por interrupciones de servicios. **Abusiva** (Art. 21.1 LAU obliga al arrendador a garantizar habitabilidad).
+
+### SÉPTIMA: REPARACIONES
+
+1. **Ilegalidad/Abusividad**: 
+   - **7.1**: Eximir al propietario de reparaciones de habitabilidad. **Ilegal y abusiva** (Art. 21.1 LAU es imperativo).
+
+### OCTAVA: OBRAS
+
+1. **Legalidad**: Restricciones a obras sin consentimiento son conformes al Art. 21.3 LAU. **8.2** (mejoras sin indemnización) es legal si no son necesarias (Art. 1756 CC).
+
+### NOVENA: DEVOLUCIÓN
+
+1. **Cláusulas Abusivas**: 
+   - **9.4**: Penalización por día de retraso (doble renta diaria). **Abusiva** por desproporción (jurisprudencia suele limitar al 150% del precio diario).
+
+### DÉCIMA: TANTEO Y RETRACTO
+
+1. **Legalidad**: Renuncia permitida (Art. 25 LAU).
+
+### DÉCIMO PRIMERA: TERMINACIÓN
+
+1. **Ilegalidad**: 
+   - **11.1.a)**: Extinción por enajenación. **Ilegal** (Art. 14 LAU mantiene el contrato con el nuevo propietario).
+
+### DÉCIMO SEGUNDA: PROTECCIÓN DE DATOS
+
+1. **Legalidad**: Conforme al RGPD. Inclusión en fichero de morosidad es legal con notificación (Art. 21 LOPDGDD).
+
+### RESTO DE CLAUSULAS (13ª a 15ª)
+
+- **Legalidad**: Correctas. Competencia judicial y notificaciones conforme a la LAU.
+
+---
+
+### Conclusiones Generales:
+- **Cláusulas Nulificables**: Pago en dólares (4.1), actualización semanal de renta (4.5), IBI a inquilino (6.3), extinción por venta (11.1.a), prohibición total de mascotas (1.6).
+- **Recomendaciones para la SOCIMI**:
+  1. Eliminar cláusulas ilegales y ajustar plazos (ej. preaviso igual para ambas partes).
+  2. Adjuntar cédula de habitabilidad y certificado energético.
+  3. Revisar penalizaciones para evitar abusividad.
+  4. Especificar condiciones de habitabilidad y reparaciones.

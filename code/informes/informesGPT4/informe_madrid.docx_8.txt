@@ -1,0 +1,418 @@
+Contrato de Madrid.docx
+
+Sección:
+CONTRATO DE ARRENDAMIENTO DE VIVIENDA En [lugar] a [fecha] REUNIDOS De una parte, Don/Doña [Nombre del propietario], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación (en adelante, el/los "Propietario/s"). De otra parte, Don/Doña [Nombre inquilino 1], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación, y Don/Doña [Nombre inquilino 2], mayor de edad, de nacionalidad [nacionalidad], con domicilio en [domicilio] y DNI/ PASAPORTE/ NIE número [número identificación] y cuya fotocopia del mismo queda incorporado como Anexo al final de este contrato. Actúa en su propio nombre y representación (en adelante, el/los "Inquilino/s"). El Propietario y el Inquilino serán denominadas conjuntamente como las "Partes". Ambas partes en la calidad con la que actúan, se reconocen recíprocamente capacidad jurídica para contratar y obligarse y en especial para el otorgamiento del presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA, y EXPONEN 1º.- Que el Propietario, es propietaria de la vivienda sita en Madrid calle Teresita González Quevedo 15, Derecha, 1A. REF. CATASTRAL: 0989901VK4708H0046PU Comunidad de propietarios: SI Nº Cédula de habitabilidad No  se adjunta fotocopia de la misma. Certificado de eficiencia energética: No se adjunta fotocopia del certificado. El Propietario manifiesta expresamente que el Inmueble cumple con todos los requisitos y condiciones necesarias para ser destinado a satisfacer las necesidades permanentes de vivienda del Inquilino. (En adelante, la vivienda y sus dependencias descritas, conjuntamente, el "Inmueble"). 2º.- Que el Inquilino, manifiesta su interés en tomar en arrendamiento el citado Inmueble descrito en el Expositivo 1º, para su uso propio (y, en su caso, el de su familia) como vivienda habitual y permanente. 3º.- Ambas partes libremente reconocen entender y aceptar el presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA (el "Contrato"), conforme a las disposiciones de la Ley 29/1994 de 24 de noviembre de Arrendamientos Urbanos (la "LAU"), reconociéndose mutuamente capacidad jurídica para suscribirlo, con sujeción a las siguientes: CLÁUSULAS
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: No se identifica ninguna cláusula ilegal en este apartado del contrato. 
+
+2.2. Cláusulas Abusivas: No se identifica ninguna cláusula abusiva en este apartado del contrato. 
+
+2.3. Identificar posibles áreas de riesgo: No se identifica ninguna área de riesgo en este apartado del contrato. 
+
+2.4. Identificar posibles áreas términos vagos: No se identifican términos vagos en este apartado del contrato. 
+
+2.5. Lagunas jurídicas: No se identifica ninguna laguna jurídica en este apartado del contrato. 
+
+Es importante destacar que este análisis se basa en la información proporcionada y puede variar si se proporciona información adicional o si cambian las circunstancias. Además, este análisis no sustituye el asesoramiento jurídico profesional.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+PRIMERA: OBJETO El Propietario arrienda al Inquilino, que acepta en este acto, el Inmueble descrito en el Expositivo 1º. El Inquilino se compromete a usar dicho Inmueble exclusivamente como vivienda del Inquilino y de su familia directa, en su caso. 1.3	En relación con el uso del Inmueble, queda estrictamente prohibido: a) Cualquier otro tipo de uso distinto al descrito en el apartado anterior. b) El subarrendamiento, total o parcial. c) La cesión del contrato sin el consentimiento previo y por escrito del Arrendador. d) El uso del Inmueble para comercio, industria ni oficina o despacho profesional. e) Destinarla al hospedaje de carácter vacacional. El incumplimiento por el Inquilino de esta obligación esencial facultará al Propietario a resolver el presente Contrato. 1.4	Por las dimensiones del Inmueble, el número máximo de personas que podrán ocuparlo es de cuatro, incluyendo al Inquilino. 1.5	El Inquilino se obliga a cumplir y respetar en todo momento los estatutos y normas internas de la comunidad de propietarios a la que pertenece el Inmueble, que declara conocer y aceptar. Además, se compromete a no molestar ni perjudicar la pacífica convivencia del resto de vecinos de la comunidad. 1.6	Mascotas: Se prohíbe expresamente al Inquilino tener en el Inmueble cualquier tipo de animal doméstico, salvo consentimiento expreso por escrito del Propietario. El incumplimiento de la presente obligación será considerado causa suficiente para la resolución del Contrato, de conformidad con lo establecido en el artículo 27.1 de la vigente LAU.
+
+Respuesta Base:
+1.1. Cláusula Ilegal: No, esta cláusula no es ilegal. Se ajusta a lo establecido en la Ley de Arrendamientos Urbanos (LAU) española.
+
+1.2. Cláusula Abusiva: No, esta cláusula no es abusiva. Establece las condiciones de uso del inmueble y las restricciones correspondientes, lo cual es común en los contratos de arrendamiento.
+
+1.3. Áreas de Riesgo: Sí, existe un área de riesgo en la cláusula que prohíbe tener cualquier tipo de animal doméstico sin el consentimiento expreso del propietario. Esto podría ser considerado una restricción excesiva y podría ser impugnado por el inquilino.
+
+1.4. Términos Vagos: No, esta cláusula no contiene términos vagos. Las condiciones y restricciones están claramente definidas.
+
+1.5. Lagunas Jurídicas: No, no se identifican lagunas jurídicas en esta cláusula. Se ajusta a lo establecido en la LAU y no deja espacio para interpretaciones ambiguas o situaciones no contempladas por la ley.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEGUNDA: PLAZO DE VIGENCIA 2.1 El Contrato entrará en vigor en la fecha de hoy con una duración inicial obligatoria de un (1) año a partir de la fecha de entrada en vigor del Contrato. Siendo el plazo mínimo de cumplimiento obligatorio. 2.2 El Contrato se prorrogará tácitamente (sin necesidad de aviso previo) en cada anualidad hasta un máximo legal de dos (2) años, salvo que el Inquilino manifieste al Propietario, con treinta (30) días de antelación a la fecha de terminación del Contrato o de cualquiera de sus prórrogas, su voluntad de no renovar el Contrato. 2.3 Una vez transcurridos como mínimo dos (2) años de duración del Contrato, si ninguna de las Partes hubiese notificado a la otra, con al menos cuatro (4) meses de antelación en el caso del Propietario, o con al menos con dos (2) meses de antelación en el caso del Inquilino, a la fecha de finalización su voluntad de no renovar el Contrato, el Contrato se prorrogará obligatoriamente por anualidades hasta un máximo de tres (3) años, salvo que el Inquilino manifieste al arrendador con un mes de antelación a la fecha de terminación de cualquiera de las anualidades, su voluntad de no renovar el Contrato. 2.4 El Inquilino podrá desistir del Contrato una vez que hayan transcurrido al menos doce (12) meses a contar desde la fecha de entrada en vigor del Contrato, siempre que notifique por escrito con treinta (30) días de antelación al Propietario. El desistimiento dará lugar a una indemnización equivalente a la parte proporcional de la renta arrendaticia de una mensualidad con relación a los meses que falten por cumplir de un año.
+
+Respuesta Base:
+Análisis:
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado. La cláusula se ajusta a lo establecido en el artículo 9 de la Ley de Arrendamientos Urbanos (LAU) en cuanto a la duración del contrato.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas. Los plazos y condiciones para la renovación y desistimiento del contrato están claramente establecidos y son razonables.
+
+2.3. Áreas de Riesgo: No se identifican áreas de riesgo significativas. Sin embargo, es importante que el Propietario se asegure de recibir la notificación de no renovación del Inquilino en los plazos establecidos para evitar la prórroga tácita del contrato.
+
+2.4. Términos Vagos: No se identifican términos vagos. Los términos y condiciones para la renovación y desistimiento del contrato están claramente definidos.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas. La cláusula se ajusta a lo establecido en la LAU en cuanto a la duración del contrato y las condiciones para su renovación y desistimiento. Sin embargo, es importante recordar que la LAU establece que el contrato de arrendamiento puede tener una duración libremente acordada por las partes si esta es superior a cinco años (o siete años si el arrendador es una persona jurídica).
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+TERCERA: ENTREGA DEL INMUEBLE 3.1 El Propietario entrega al Inquilino el Inmueble en perfectas condiciones de habitabilidad, buen estado de conservación y funcionamiento de sus servicios y a la entera satisfacción de éste. Ambas Partes confirman que el Inmueble se entrega con cocina no equipada y vivienda sin muebles. 3.2 En este acto el Propietario hace entrega al Inquilino de 1 juego de llaves completos de acceso al Inmueble.
+
+Respuesta Base:
+Análisis:
+
+1. Cláusula Ilegal: No, esta cláusula no es ilegal. Según la Ley de Arrendamientos Urbanos española, el propietario está obligado a entregar la vivienda en condiciones de habitabilidad y buen estado de conservación.
+
+2. Cláusula Abusiva: No, esta cláusula no es abusiva. Establece las condiciones de entrega del inmueble, que son razonables y acordes a la ley.
+
+3. Áreas de Riesgo: Puede existir un área de riesgo en la interpretación de "perfectas condiciones de habitabilidad, buen estado de conservación y funcionamiento de sus servicios". Esto podría dar lugar a disputas si el inquilino considera que alguna parte del inmueble no cumple con estos criterios.
+
+4. Términos Vagos: Los términos "perfectas condiciones de habitabilidad" y "buen estado de conservación" pueden ser considerados vagos, ya que no se especifica qué criterios se deben cumplir para considerar que se cumplen estas condiciones.
+
+5. Lagunas Jurídicas: No parece haber ninguna laguna jurídica en esta cláusula. La Ley de Arrendamientos Urbanos establece claramente las obligaciones del propietario en cuanto a la entrega del inmueble. Sin embargo, podría ser útil incluir una descripción más detallada de las condiciones de habitabilidad y conservación para evitar posibles disputas en el futuro.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+CUARTA: RENTA Renta arrendaticia 4.1 Ambas Partes acuerdan fijar una renta semanal de 200 euros pagada por el Inquilino que será abonada por el inquilino en su equivalente en dólares estadounidenses. 4.2 La falta de pago de una (4) semanas de renta será causa suficiente para que el Propietario pueda dar por resuelto este Contrato y ejercite la acción de desahucio. Inicio del devengo de la renta 4.3 Se establece que la renta se devengará a partir de la fecha de entrada en vigor del presente Contrato. El Inquilino paga al Propietario el importe de la renta correspondiente a los días que quedan para finalizar el mes en curso, que el Propietario declara haber recibido a su entera satisfacción, sirviendo el presente Contrato como recibo de pago. Pago de la renta 4.4  El Inquilino abonará la renta semanalmente de manera anticipadas dentro de los cinco días laborable de cada semana, mediante transferencia bancaria a la siguiente cuenta titularidad del Propietario: Titular: [Nombre del Propietario]. Entidad: [Entidad del Propietario]. Nº de Cuenta/IBAN: [Cuenta del Propietario]. Actualización de la renta 4.5	La renta pactada será actualizada semanalmente conforme a las variaciones que experimente el mayor de estos índices: índice General Nacional del Sistema de Precios al Consumo de España ("I.P.C."), publicado por el Instituto Nacional de Estadística teniendo en consideración la variación en el mes inmediatamente anteriores o el Indice de Precios al Consumo de los Estados Unidos, publicado por la Entidad Nacional correspondiente de ese país. Si la variación experimentada por el I.P.C. fuera negativa, la renta permanecerá igual, sin actualizarse. 4.6	Dada la demora con que se publica el I.P.C, las Partes acuerdan que las revisiones semanales tendrán efectos retroactivos a la fecha en que hubiera correspondido su aplicación, quedando obligadas las Partes (según corresponda) a satisfacer las diferencias correspondientes de una sola vez. La revisión se efectuará por años naturales, repercutiendo en el recibo emitido al mes siguiente de la publicación del IPC los atrasos habidos desde el mes de enero del año en curso, o, en su caso desde el mes de la firma del contrato. En ningún caso, la demora en aplicar la revisión supondrá renuncia o caducidad de la misma. En el caso de que el Instituto Nacional de Estadística dejase de publicar los índices a que se refiere esta Cláusula, la revisión que se establece se calculará en base a los índices o módulos que los sustituyan. 4.7	Sin perjuicio de todo lo anterior, si la legislación aplicable sustituye de forma imperativa el I.P.C. por otro índice de referencia que deba ser de aplicación, se calculará la actualización de la renta de conformidad con el índice de referencia que sea de obligado cumplimiento en cada momento.
+
+Respuesta Base:
+Análisis de la cláusula CUARTA: RENTA
+
+2.1. Cláusulas Ilegales: No se detectan cláusulas ilegales en esta sección. Sin embargo, es importante tener en cuenta que la Ley de Arrendamientos Urbanos (LAU) en España establece que la renta debe ser pagada mensualmente, no semanalmente. Además, la LAU establece que la actualización de la renta solo puede realizarse anualmente, no semanalmente.
+
+2.2. Cláusulas Abusivas: La cláusula 4.2 puede ser considerada abusiva, ya que la LAU establece que el propietario solo puede resolver el contrato por falta de pago de la renta si el inquilino no paga durante dos meses consecutivos. La cláusula 4.5 también puede ser considerada abusiva, ya que la LAU establece que la actualización de la renta solo puede realizarse anualmente, no semanalmente.
+
+2.3. Áreas de Riesgo: La cláusula 4.1 puede presentar un riesgo debido a la fluctuación de la tasa de cambio entre el euro y el dólar estadounidense. Además, la cláusula 4.5 presenta un riesgo debido a la posibilidad de que el IPC sea negativo, lo que podría resultar en una disminución de la renta.
+
+2.4. Términos Vagos: No se detectan términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: Existe una laguna jurídica en relación con la cláusula 4.1, ya que la LAU no establece un procedimiento para el pago de la renta en una moneda distinta al euro. Además, existe una laguna jurídica en relación con la cláusula 4.5, ya que la LAU no establece un procedimiento para la actualización de la renta en caso de que el IPC sea negativo.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+
+Sección:
+QUINTA: GARANTÍA DEL CONTRATO Fianza arrendaticia 5.1	El Inquilino entrega en este acto al Propietario, quien declara recibirla, la cantidad de 200 EUROS, equivalente a dos semanas de renta, por concepto de fianza legal, según lo establecido en el apartado primero del Artículo 36 de la LAU para garantizar el cumplimiento de las obligaciones que asume en virtud del presente Contrato. 5.4 La fianza se actualizará en la cuantía que corresponda de manera mensual. 5.5 Garantía adicional: El Inquilino entrega en este acto un aval bancario por un importe máximo garantizado de 1.000 Euros, a primer requerimiento y como garantía de todas las responsabilidades económicas asumidas por el Inquilino en virtud del presente Contrato. El referido aval se incorpora al presente Contrato como Anexo. El/los Inquilino(s) se compromete a mantener vigente el referido Aval durante toda la vigencia del Contrato.
+
+Respuesta Base:
+Análisis:
+
+1. Cláusulas Ilegales: No se identifican cláusulas ilegales en este apartado. La cláusula se ajusta a lo establecido en el artículo 36 de la Ley de Arrendamientos Urbanos (LAU) que establece que el arrendador puede exigir una fianza, y la actualización de la misma es legal siempre que se haga de manera justa y proporcional.
+
+2. Cláusulas Abusivas: No se identifican cláusulas abusivas en este apartado. Sin embargo, es importante señalar que la cantidad de la fianza y el aval bancario deben ser proporcionales a las obligaciones económicas que asume el inquilino. 
+
+3. Áreas de Riesgo: La principal área de riesgo en esta cláusula es la actualización mensual de la fianza. Si no se especifica cómo se realizará esta actualización, podría dar lugar a interpretaciones y conflictos entre las partes. 
+
+4. Términos Vagos: La cláusula 5.4 es vaga ya que no especifica cómo se realizará la actualización de la fianza. Sería recomendable incluir un método específico de cálculo para evitar confusiones o disputas en el futuro.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en este apartado. La cláusula se ajusta a lo establecido en la LAU respecto a la fianza y su actualización. Sin embargo, sería recomendable especificar el método de actualización de la fianza para evitar posibles conflictos.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEXTA: SERVICIOS Y GASTOS 6.1 El Inquilino se obliga a pagar cualquier gasto relacionado con la contratación de los servicios y suministros individualizados por aparatos contadores (tales como luz, agua, gas, teléfono e internet) con los que cuenta el Inmueble y que serán íntegramente asumidos por el Inquilino a partir de hoy. El Inquilino se obliga a encargarse del mantenimiento, reparación y sustitución de dichos contadores y cualesquiera otros servicios que contrate o utilice en el Inmueble y que, en general, sean susceptibles de uso individualizado y/o que se contabilicen por contador. 6.2	Titularidad suministros El Inquilino se pondrá en contacto con las diferentes compañías suministradoras para: a) que los recibos que emitan se carguen en la cuenta bancaria que el mismo indique, quedando, en consecuencia, obligado a la domiciliación bancaria de dichos recibos; y b) realizar el cambio de titularidad de cada suministro, en el plazo de 7 días naturales a contar desde hoy. 6.3	Gastos comunidad e IBI Los gastos de Comunidad de Propietarios así como el Impuesto sobre Bienes Inmuebles (I.B.I.), serán satisfechos íntegramente por el Inquilino. 6.4	Pago de tasas La tasa por recogida de residuos sólidos urbanos y la tasa por paso de carruajes (en su caso) será de cuenta del Inquilino. 6.5	El Propietario no asume responsabilidad alguna por las interrupciones que pudieran producirse en cualquiera de los servicios comunes o individuales, ni estará obligado a efectuar revisiones de renta por dichas interrupciones.
+
+Respuesta Base:
+1. Cláusulas Ilegales: No se aprecian cláusulas ilegales en este apartado del contrato. Todas las obligaciones y responsabilidades asignadas al inquilino están en conformidad con la Ley de Arrendamientos Urbanos (LAU) española.
+
+2. Cláusulas Abusivas: La cláusula 6.3 podría considerarse abusiva. Según la LAU, los gastos de comunidad e IBI son responsabilidad del propietario, a menos que se acuerde lo contrario en el contrato y se establezca una renta adicional para estos gastos. Sin embargo, este tipo de acuerdos puede ser considerado abusivo si no se especifica claramente en el contrato.
+
+3. Áreas de Riesgo: La cláusula 6.5 puede representar un área de riesgo para el inquilino. Si los servicios se interrumpen y el propietario no asume ninguna responsabilidad, el inquilino podría verse afectado sin tener un recurso claro.
+
+4. Términos Vagos: La cláusula 6.5 también puede considerarse vaga, ya que no especifica qué se entiende por "interrupciones" en los servicios. Esto podría dar lugar a interpretaciones divergentes y posibles conflictos entre el propietario y el inquilino.
+
+5. Lagunas Jurídicas: No se aprecian lagunas jurídicas en este apartado del contrato. Todas las cláusulas parecen estar en conformidad con la legislación vigente en España. Sin embargo, sería recomendable revisar la redacción de algunas cláusulas para evitar posibles interpretaciones ambiguas o conflictivas.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SÉPTIMA: GASTOS DE REPARACIÓN Y CONSERVACIÓN 7.1 El Propietario NO se obliga a realizar las reparaciones que fueran necesarias en el Inmueble para conservar la vivienda en condiciones de habitabilidad para el uso convenido. El Inquilino será el único responsable de cuantos daños, tanto físicos como materiales puedan ocasionarse a terceros, como consecuencia, directa e indirecta de su habitabilidad en el Inmueble, eximiendo de toda responsabilidad al Propietario, incluso por daños derivados de instalaciones para servicios o suministros. A efectos aclaratorios, el Inquilino deberá realizar todas aquellas reparaciones necesarias para el mantenimiento y correcto funcionamiento de los electrodomésticos y/o muebles del Inmueble cuando los desperfectos hayan sido ocasionados por el Inquilino o sus ocupantes, ya sea por un uso negligente o por el desgaste derivado del uso habitual y diligente de dichos elementos. En consecuencia, el Inquilino declara conocer el estado de los electrodomésticos y/o muebles en el momento de la entrega del Inmueble.
+
+Respuesta Base:
+1. Análisis de la cláusula:
+
+Esta cláusula establece que el propietario no se hace responsable de las reparaciones necesarias para mantener la vivienda en condiciones de habitabilidad y que cualquier daño causado a terceros como resultado de la habitabilidad del inquilino es responsabilidad del inquilino. Además, el inquilino es responsable de todas las reparaciones necesarias para el mantenimiento y correcto funcionamiento de los electrodomésticos y/o muebles cuando los daños hayan sido causados por el inquilino o sus ocupantes.
+
+2.1. Cláusulas Ilegales:
+
+Esta cláusula puede ser considerada ilegal en base a la Ley de Arrendamientos Urbanos (LAU) española. Según el artículo 21 de la LAU, el propietario está obligado a realizar, sin derecho a elevar por ello la renta, todas las reparaciones que sean necesarias para conservar la vivienda en las condiciones de habitabilidad para servir al uso convenido, salvo cuando el deterioro de cuya reparación se trate sea imputable al arrendatario a tenor de lo dispuesto en los artículos 1.563 y 1.564 del Código Civil.
+
+2.2. Cláusulas Abusivas:
+
+La cláusula puede ser considerada abusiva ya que transfiere al inquilino la responsabilidad de las reparaciones necesarias para mantener la vivienda en condiciones de habitabilidad, lo cual es responsabilidad del propietario según la LAU.
+
+2.3. Posibles áreas de riesgo:
+
+El principal riesgo para el propietario es que esta cláusula puede ser declarada nula por un juez en caso de litigio, ya que contraviene la LAU. Esto podría resultar en costos inesperados para el propietario.
+
+2.4. Posibles términos vagos:
+
+La cláusula no especifica qué se entiende por "condiciones de habitabilidad" ni qué tipo de reparaciones estarían incluidas. Esto podría dar lugar a interpretaciones divergentes y posibles conflictos entre el propietario y el inquilino.
+
+2.5. Lagunas jurídicas:
+
+No parece haber una laguna jurídica en este caso, ya que la LAU es clara en cuanto a la responsabilidad del propietario en lo que respecta a las reparaciones necesarias para mantener la vivienda en condiciones de habitabilidad.
+
+Respuesta Struct:
+Legalidad: I  
+Abusividad: S  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+OCTAVA: OBRAS EN EL INMUEBLE 8.1 El Inquilino no podrá realizar obras, instalaciones, ni mejoras de ningún tipo en el Inmueble sin el expreso consentimiento previo del Propietario por escrito. Especialmente, se requerirá el consentimiento escrito del Propietario para: a) la instalación de cualquier electrodoméstico, mueble o aparato de aire acondicionado adherido al Inmueble; y b) realizar cualquier tipo de alteraciones en las paredes, azulejos y baldosas del Inmueble (en particular, cualquier tipo de orificios o ranuras de forma manual o con herramientas mecánicas). Que, en todo caso, habrá de cumplir con la normativa de la Comunidad de Propietarios. 8.2	A la terminación del presente Contrato de arrendamiento, las obras y mejoras quedarán en beneficio del Inmueble, sin derecho del Inquilino a resarcirse de ellas, salvo pacto en contrario. 8.3	En el supuesto de que el Inquilino realizase obras sin el permiso previo del Propietario, éste podrá instar la resolución del presente Contrato y exigir al Inquilino la reposición del Inmueble a su estado originario.
+
+Respuesta Base:
+1. Análisis de la cláusula:
+
+La cláusula octava se refiere a las obras que el inquilino puede o no realizar en el inmueble. Establece que el inquilino no puede realizar obras, instalaciones o mejoras sin el consentimiento previo y por escrito del propietario. Además, especifica que cualquier alteración en las paredes, azulejos y baldosas del inmueble requiere el consentimiento del propietario. También establece que las obras y mejoras quedarán en beneficio del inmueble al finalizar el contrato de arrendamiento, sin derecho a resarcimiento por parte del inquilino, a menos que se acuerde lo contrario. Finalmente, establece que si el inquilino realiza obras sin el permiso previo del propietario, este último puede solicitar la resolución del contrato y exigir al inquilino que restaure el inmueble a su estado original.
+
+2.1. Cláusulas Ilegales:
+
+No se identifican elementos ilegales en esta cláusula. La Ley de Arrendamientos Urbanos (LAU) en su artículo 23 permite al arrendador prohibir al arrendatario la realización de obras que modifiquen la configuración de la vivienda o sus accesorios, sin su consentimiento.
+
+2.2. Cláusulas Abusivas:
+
+No se identifican elementos abusivos en esta cláusula. La cláusula respeta los derechos del inquilino y del propietario, y está en línea con la LAU.
+
+2.3. Identificar posibles áreas de riesgo:
+
+El principal riesgo en esta cláusula es que el inquilino realice obras sin el consentimiento del propietario, lo que podría dar lugar a la resolución del contrato y a la obligación de restaurar el inmueble a su estado original.
+
+2.4. Identificar posibles términos vagos:
+
+La cláusula es bastante clara y específica, no se identifican términos vagos.
+
+2.5. Lagunas jurídicas:
+
+No se identifican lagunas jurídicas en esta cláusula. La cláusula está en línea con la LAU y establece claramente las obligaciones y derechos del inquilino y del propietario en relación con las obras en el inmueble.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+NOVENA: DEVOLUCIÓN DEL INMUEBLE 9.1	Llegada la fecha de terminación del presente Contrato y, en su caso la de cualquiera de sus prórrogas, el Inquilino deberá abandonar el Inmueble sin que sea necesario para ello requerimiento alguno por parte del Propietario. 9.2	El Inquilino se compromete desde ahora y para entonces a devolver el Inmueble y las llaves del mismo en la fecha de terminación del presente Contrato entregándolo en perfecto estado, sin más deterioros que los que se hubiesen producido por el mero paso del tiempo y el uso ordinario, libre de los enseres personales del Inquilino y totalmente desocupado. 9.3 El Inquilino se obliga expresamente a reparar cualquier desperfecto (a modo de ejemplo: azulejos, baldosas, armarios, marcos de madera, grifería o sanitarios, etc.) antes de su devolución al Propietario. 9.4 El retraso en el desalojo del Inmueble por parte del Inquilino devengará a favor del Propietario, en concepto de penalización por cada día de retraso, un importe igual al doble de la renta diaria que estuviera vigente en ese momento. Todo ello, sin perjuicio de la obligación del Inquilino de abandonar el Inmueble de inmediato.
+
+Respuesta Base:
+1. Cláusula Ilegal: No, la cláusula no es ilegal. Se ajusta a lo dispuesto en la Ley de Arrendamientos Urbanos (LAU) española.
+
+2. Cláusula Abusiva: No, la cláusula no es abusiva. Establece las obligaciones del inquilino al término del contrato, que son razonables y proporcionadas.
+
+3. Áreas de Riesgo: Sí, hay un área de riesgo en la cláusula 9.4. La penalización por retraso en el desalojo del inmueble puede ser considerada excesiva si se compara con la renta diaria. Esto podría ser objeto de impugnación por parte del inquilino.
+
+4. Términos Vagos: No, no se identifican términos vagos. Los términos utilizados son claros y precisos.
+
+5. Lagunas Jurídicas: No, no se identifican lagunas jurídicas. La cláusula se ajusta a la legislación vigente y no deja espacio para situaciones no contempladas por la normativa. Sin embargo, la cláusula 9.4 podría ser considerada desproporcionada y dar lugar a litigios, aunque no se trate de una laguna jurídica en sentido estricto.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMA: DERECHO DE TANTEO Y RETRACTO 10.1 El Inquilino renuncia expresamente a los derechos de tanteo y retracto que por dicha condición pudieren corresponderle.
+
+Respuesta Base:
+1. Cláusula Ilegal: No, la cláusula no es ilegal. Según el artículo 25 de la Ley de Arrendamientos Urbanos (LAU) española, el inquilino puede renunciar a su derecho de tanteo y retracto, siempre que esta renuncia se haga de forma expresa en el contrato.
+
+2. Cláusula Abusiva: No, la cláusula no es abusiva. La renuncia a los derechos de tanteo y retracto es una decisión voluntaria del inquilino y, siempre que se haga de forma expresa, es perfectamente legal.
+
+3. Áreas de Riesgo: No se identifican áreas de riesgo en esta cláusula. El inquilino ha renunciado a sus derechos de tanteo y retracto de forma voluntaria y consciente.
+
+4. Términos Vagos: No se identifican términos vagos en esta cláusula. Los conceptos de "tanteo" y "retracto" están claramente definidos en la legislación española.
+
+5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La LAU española contempla la posibilidad de que el inquilino renuncie a sus derechos de tanteo y retracto de forma expresa en el contrato.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO PRIMERA: CAUSAS DE TERMINACIÓN DEL CONTRATO 11.1 Serán causas de terminación del Contrato, además de las legalmente establecidas y las previstas en este Contrato, las que se mencionan a continuación: a) A efectos del artículo 14 de la LAU y a cuantos otros pudieran resultar pertinentes, la enajenación del Inmueble extinguirá el arrendamiento. b) Una vez transcurrido el primer año de duración del Contrato, en caso de necesidad del Propietario de ocupar el Inmueble antes del transcurso de cinco años, para destinarla a vivienda permanente para sí o sus familiares en primer grado de consanguinidad o por adopción o para su cónyuge en los supuestos de sentencia firme de separación, divorcio o nulidad matrimonial de conformidad con el artículo 9.3 de la LAU. El Propietario deberá comunicar dicha necesidad con al menos dos meses de antelación a la fecha en la que la vivienda se vaya a necesitar y el Inquilino estará obligado a entregar el Inmueble en dicho plazo si las partes no llegan a un acuerdo distinto.
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Se ajusta a lo establecido en la Ley de Arrendamientos Urbanos (LAU) española, que permite la terminación del contrato de arrendamiento en los casos mencionados.
+
+2.2. Cláusulas Abusivas: No se detectan elementos abusivos en esta cláusula. Las causas de terminación del contrato están claramente definidas y son consistentes con la legislación española.
+
+2.3. Identificar posibles áreas de riesgo: El principal riesgo en esta cláusula es que el propietario pueda necesitar el inmueble para su uso personal o para sus familiares en primer grado. Sin embargo, este riesgo se mitiga con la obligación del propietario de comunicar esta necesidad con al menos dos meses de antelación.
+
+2.4. Identificar posibles términos vagos: No se detectan términos vagos en esta cláusula. Los términos y condiciones para la terminación del contrato están claramente definidos.
+
+2.5. Lagunas Jurídicas: No se detectan lagunas jurídicas en esta cláusula. La cláusula se ajusta a lo establecido en la LAU, que es la normativa que regula los contratos de arrendamiento en España.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO SEGUNDA: PROTECCIÓN DE DATOS. INCLUSIÓN EN FICHERO DE MOROSIDAD 12.1	Los datos personales que el Inquilino facilita en el presente contrato y que pueda facilitar en el futuro son necesarios para la celebración del presente contrato, y serán tratados por el Propietario con la finalidad de gestionar el contrato de arrendamiento de la vivienda y sobre la base de la ejecución de dicha relación contractual. El Propietario no comunicará los datos personales del Inquilino a terceros, salvo cuando sea necesario para el cumplimiento de obligaciones legales, sin perjuicio de que los prestadores de servicios de gestión administrativa del Propietario puedan tener acceso a los datos personales del Inquilino para la prestación de dichos servicios. El Propietario no llevará a cabo transferencias internacionales de datos personales. El Propietario conservará los datos en tanto que la relación contractual se mantenga vigente, conservándolos posteriormente, debidamente bloqueados, por el plazo de prescripción de las acciones de acuerdo con la normativa civil aplicable. El Inquilino podrá ejercitar sus derechos de acceso, rectificación, supresión y a la portabilidad de sus datos, así como a la limitación del tratamiento de los mismos, dirigiéndose al Propietario en la dirección que figura en el encabezamiento del presente contrato, y acreditando debidamente su identidad. Asimismo, el Inquilino tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos. 12.2	El Propietario informa al Inquilino que en caso de impago de las cantidades de la renta, sus datos personales podrán ser cedidos al fichero de solvencia patrimonial negativo gestionado por Base de Datos de Morosidad Inmobiliaria, S.L.U. (https://www.idealista.com/base-datos-inquilinos-morosos/) en base al interés legítimo de prevención del fraude mediante el proceso de https://www.idealista.com/base-datos-inquilinos-morosos/como-incluir-morosos. En caso de incorporación de los datos de impagos del Inquilino en un fichero de solvencia patrimonial negativo, el Inquilino recibirá, en el plazo máximo de un mes desde la inscripción de la deuda en el fichero, una comunicación del titular de dicho fichero informándole de la incorporación de sus datos personales en el mismo.
+
+Respuesta Base:
+1. Cláusulas Ilegales: No se detectan cláusulas ilegales en este apartado. La cláusula se ajusta a la normativa de protección de datos personales en España (RGPD y LOPDGDD).
+
+2. Cláusulas Abusivas: No se detectan cláusulas abusivas. El propietario informa al inquilino de sus derechos y de las posibles consecuencias en caso de impago, incluyendo la inclusión en un fichero de morosidad.
+
+3. Áreas de Riesgo: El principal riesgo en esta cláusula es el incumplimiento de las obligaciones de protección de datos por parte del propietario. Esto podría dar lugar a sanciones y reclamaciones por parte del inquilino.
+
+4. Términos Vagos: No se detectan términos vagos en esta cláusula. Los términos utilizados son claros y específicos.
+
+5. Lagunas Jurídicas: No se detectan lagunas jurídicas en esta cláusula. La cláusula se ajusta a la normativa de protección de datos personales en España (RGPD y LOPDGDD). Sin embargo, sería recomendable que el propietario se asegure de que cumple con todas las obligaciones de protección de datos, incluyendo la obtención del consentimiento del inquilino cuando sea necesario.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO TERCERA: LEY APLICABLE Y JURISDICCIÓN 13.1	De conformidad con lo previsto en el artículo 4, apartado 2 de la vigente LAU, el presente Contrato se regirá por la voluntad de las Partes manifestada en el Contrato, en su defecto, por lo dispuesto en el Título II de la mencionada LAU y, supletoriamente, por lo dispuesto en el Código Civil. 13.2	La competencia para conocer de cualquier controversia relacionada con el presente Contrato corresponderá a los juzgados y tribunales del lugar en el que radique el Inmueble.
+
+Respuesta Base:
+Análisis:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. Se ajusta a lo previsto en la Ley de Arrendamientos Urbanos (LAU) y el Código Civil español.
+
+2.2. Cláusulas Abusivas: Esta cláusula no es abusiva. Establece la ley aplicable y la jurisdicción competente en caso de controversia, lo cual es común en este tipo de contratos.
+
+2.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo en esta cláusula.
+
+2.4. Identificar posibles términos vagos: No se identifican términos vagos en esta cláusula. La misma es clara en cuanto a la ley aplicable y la jurisdicción competente.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La misma se ajusta a lo previsto en la LAU y el Código Civil español.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO CUARTA: NOTIFICACIONES 14.1	Todas las notificaciones, requerimientos, peticiones y otras comunicaciones que hayan de efectuarse en relación con el presente Contrato deberán realizarse por escrito y se entenderá que han sido debidamente recibidas cuando hayan sido entregadas en mano o bien remitidas por correo certificado a las direcciones que figuran en el encabezamiento del presente Contrato, o a las direcciones que cualquiera de las Partes comunique a la otra por escrito en la forma prevista en esta cláusula. 14.2	Asimismo, y a fin de facilitar las comunicaciones entre las partes se designan las siguientes direcciones de correo electrónico, siempre que se garantice la autenticidad de la comunicación y de su contenido y quede constancia fehaciente de la remisión y recepción íntegras y del momento en que se hicieron, Por el Inquilino: Mail: [  ] Número de teléfono: [  ] Por el Propietario: Mail: [  ] Número de teléfono: [  ]
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: No se identifica ninguna ilegalidad en esta cláusula. La misma está en consonancia con el artículo 22 de la Ley de Arrendamientos Urbanos (LAU) que establece que las notificaciones entre las partes durante el contrato de arrendamiento deben realizarse por escrito.
+
+2.2. Cláusulas Abusivas: No se identifica ninguna cláusula abusiva. La cláusula establece un procedimiento de notificación mutuamente acordado y no impone ninguna carga desproporcionada en ninguna de las partes.
+
+2.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo significativas en esta cláusula. Sin embargo, es importante que ambas partes mantengan actualizadas las direcciones de correo y números de teléfono proporcionados para evitar problemas de comunicación.
+
+2.4. Identificar posibles áreas términos vagos: No se identifican términos vagos en esta cláusula. Sin embargo, podría ser útil especificar qué se entiende por "autenticidad de la comunicación y de su contenido" y "constancia fehaciente de la remisión y recepción íntegras y del momento en que se hicieron".
+
+2.5. Lagunas jurídicas: No se identifica ninguna laguna jurídica en esta cláusula. La misma está en consonancia con la legislación vigente en materia de notificaciones en contratos de arrendamiento.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+DÉCIMO QUINTA: FIRMA DEL CONTRATO Las partes aceptan el presente contrato, así como sus correspondientes anexos y sus efectos jurídicos y se comprometen a su cumplimiento de buena fe. En [lugar] a [fecha] El Propietario __________________________ [Nombre Propietario] El Inquilino [1] __________________________ [Nombre Inquilino 1] El Inquilino [2] __________________________ [Nombre Inquilino 2]
+
+Respuesta Base:
+Análisis de la cláusula:
+
+2.1. Cláusulas Ilegales: Esta cláusula no es ilegal. La firma del contrato por todas las partes implicadas es un requisito legal y necesario para la validez del contrato. Además, la mención de la obligación de cumplir el contrato de buena fe es un principio general del derecho contractual español, recogido en el artículo 7 del Código Civil.
+
+2.2. Cláusulas Abusivas: Esta cláusula no es abusiva. No impone condiciones desproporcionadas o injustas a ninguna de las partes.
+
+2.3. Identificar posibles áreas de riesgo: No se identifican áreas de riesgo en esta cláusula. 
+
+2.4. Identificar posibles términos vagos: Los términos "[lugar]" y "[fecha]" son vagos, pero se entiende que se deben rellenar con la información correspondiente al lugar y fecha de la firma del contrato. De igual forma, los espacios para los nombres de los inquilinos y el propietario deben ser rellenados con la información correcta. 
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta cláusula. La misma está en consonancia con la legislación vigente y no deja sin regular ninguna situación que pueda surgir en el marco de la relación contractual entre las partes.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,258 @@
+Contrato de Castilla y León.docx
+
+### **Análisis Preliminar (Encabezado y Expositivos)**  
+
+1. **Ilegalidad**: No se detectan cláusulas ilegales en esta parte introductoria.  
+2. **Abusividad**: No hay cláusulas abusivas, ya que se limita a identificar a las partes y describir el objeto del contrato.  
+3. **Áreas de riesgo**:  
+   - Falta de identificación completa de las partes (datos en blanco), lo que podría generar problemas de prueba en caso de conflicto.  
+   - No se adjunta el Certificado de Eficiencia Energética en el contrato analizado (solo se menciona como anexo).  
+4. **Términos vagos**: No se aprecian.  
+5. **Lagunas jurídicas**: Ninguna relevante.  
+
+---  
+
+### **PRIMERA.- OBJETO Y DESTINO**  
+
+1. **Ilegalidad**: No es ilegal. La cláusula se ajusta al art. 5 LAU (destino como vivienda habitual).  
+2. **Abusividad**: No es abusiva, ya que el uso como vivienda habitual es un requisito legal.  
+3. **Áreas de riesgo**:  
+   - La mención a "cuerpo cierto" y la irrelevancia de discrepancias en superficie podría ser problemática si hay un error grave en la descripción del inmueble.  
+4. **Términos vagos**: "Estado adecuado al fin al que se destina" podría ser impreciso.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SEGUNDA.- DURACIÓN Y PRÓRROGAS**  
+
+1. **Ilegalidad**: No es ilegal, pero la indemnización por desistimiento (una mensualidad por año pendiente) podría ser discutible si se considera excesiva.  
+2. **Abusividad**:  
+   - La indemnización por desistimiento podría ser abusiva si se interpreta como penalización desproporcionada (art. 85.5 LAU).  
+3. **Áreas de riesgo**:  
+   - La facultad del arrendador de recuperar la vivienda para familiares en primer grado podría generar conflictos si no se acredita debidamente la necesidad.  
+4. **Términos vagos**: "Necesidad de ocupar la vivienda" es subjetivo.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **TERCERA.- PRÓRROGA OBLIGATORIA**  
+
+1. **Ilegalidad**: No, se ajusta al art. 9 LAU.  
+2. **Abusividad**: No, los plazos de notificación son razonables.  
+3. **Áreas de riesgo**:  
+   - Confusión en los plazos si no se notifica correctamente.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **CUARTA.- ENTREGA DEL INMUEBLE**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - "Buen estado" es subjetivo y puede generar disputas sobre el desgaste normal.  
+4. **Términos vagos**: "Buen estado" y "desgaste normal" son imprecisos.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **QUINTA.- RENTA Y ACTUALIZACIÓN**  
+
+1. **Ilegalidad**: No, la actualización por IPC es legal (art. 18 LAU).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - Falta de límite máximo de actualización (aunque el IPC suele ser razonable).  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SEXTA.- GASTOS GENERALES**  
+
+1. **Ilegalidad**: No, el arrendador puede asumir los gastos de comunidad (art. 20 LAU).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **SÉPTIMA.- SUMINISTROS Y TRIBUTOS**  
+
+1. **Ilegalidad**: No, distribución legal (art. 20 LAU).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **OCTAVA.- OBRAS DE CONSERVACIÓN**  
+
+1. **Ilegalidad**: No, se ajusta al art. 21 LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - "Deterioro imputable" puede ser discutible.  
+4. **Términos vagos**: "Estado de habitabilidad" es subjetivo.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **NOVENA.- PEQUEÑAS REPARACIONES**  
+
+1. **Ilegalidad**: No, conforme al art. 21.4 LAU.  
+2. **Abusividad**:  
+   - Prohibición absoluta de agujeros podría ser abusiva si impide un uso normal (ej: colgar cuadros).  
+3. **Áreas de riesgo**:  
+   - Descontar de la fianza sin justificación previa puede ser conflictivo.  
+4. **Términos vagos**: "Pequeñas reparaciones" no está definido.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMA.- OBRAS DE MEJORA**  
+
+1. **Ilegalidad**: No, remite a la LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO PRIMERA.- OBRAS DEL ARRENDATARIO**  
+
+1. **Ilegalidad**: No, conforme al art. 21 LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**:  
+   - La exigencia de reposición inmediata en caso de disminución de seguridad puede ser problemática si no se define claramente.  
+4. **Términos vagos**: "Disminución de estabilidad o seguridad" es impreciso.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO SEGUNDA.- OBRAS DE ADAPTACIÓN PERSONALES**  
+
+1. **Ilegalidad**: No, conforme al art. 21.5 LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO TERCERA.- PENALIZACIÓN EXPRESA**  
+
+1. **Ilegalidad**:  
+   - La cláusula penal por retraso en la entrega de llaves (doble renta diaria) podría ser desproporcionada (art. 1.154 CC).  
+2. **Abusividad**:  
+   - Sí, si la penalización es excesiva.  
+3. **Áreas de riesgo**:  
+   - Indemnización por resolución anticipada sin justificación clara.  
+4. **Términos vagos**: "Gastos directos e indirectos" no están definidos.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO CUARTA.- NORMAS DE CONVIVENCIA**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**:  
+   - Prohibición absoluta de animales podría ser abusiva (salvo justificación objetiva).  
+3. **Áreas de riesgo**:  
+   - Conflictos con normativa sobre accesibilidad para personas con discapacidad.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO QUINTA.- CESIÓN Y SUBARRIENDO**  
+
+1. **Ilegalidad**: No, conforme al art. 8 LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO SEXTA.- TANTEO Y RETRACTO**  
+
+1. **Ilegalidad**: No, la renuncia es válida (art. 25 LAU).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO SÉPTIMA.- FIANZA**  
+
+1. **Ilegalidad**: No, conforme al art. 36 LAU.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO OCTAVA.- GARANTÍAS ADICIONALES**  
+
+1. **Ilegalidad**: No, siempre que no supere 2 mensualidades (art. 36 LAU).  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **DÉCIMO NOVENA.- REGISTRO Y ELEVACIÓN A PÚBLICO**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **VIGÉSIMA.- DOMICILIO A EFECTO DE NOTIFICACIONES**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **VIGÉSIMO PRIMERA.- LEGISLACIÓN APLICABLE**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **VIGÉSIMO SEGUNDA.- SUMISIÓN**  
+
+1. **Ilegalidad**: No.  
+2. **Abusividad**: No.  
+3. **Áreas de riesgo**: Ninguna.  
+4. **Términos vagos**: Ninguno.  
+5. **Lagunas jurídicas**: Ninguna.  
+
+---  
+
+### **Conclusiones Generales**  
+- **Cláusulas potencialmente problemáticas**:  
+  - Penalización por retraso en entrega de llaves (Décimo Tercera).  
+  - Prohibición absoluta de animales (Décimo Cuarta).  
+  - Indemnización por desistimiento (Segunda).  
+- **Recomendaciones**:  
+  - Aclarar términos vagos ("buen estado", "pequeñas reparaciones").  
+  - Revisar la proporcionalidad de las penalizaciones.  
+  - Garantizar que las prohibiciones (ej: animales) estén justificadas.

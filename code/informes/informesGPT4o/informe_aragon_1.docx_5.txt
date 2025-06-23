@@ -1,0 +1,321 @@
+Contrato de Aragon 1.docx
+
+**Análisis Previo a la Primera Cláusula:**
+
+El contrato de arrendamiento de vivienda presentado establece las partes involucradas, es decir, la parte arrendadora, la parte arrendataria y un avalista. Se detallan los datos personales y de contacto de cada una de las partes, lo cual es esencial para la validez del contrato y para facilitar las comunicaciones futuras. Además, se menciona que las partes tienen la capacidad legal necesaria para celebrar el contrato, lo cual es un requisito fundamental según el Código Civil español.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección.
+
+2.3. Posibles Áreas de Riesgo: No se identifican áreas de riesgo significativas en esta sección.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Primero.- Objeto:**
+
+Esta cláusula establece que el objeto del contrato es el arrendamiento de una vivienda específica, destinada exclusivamente a ser la residencia permanente de la parte arrendataria.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección.
+
+2.3. Posibles Áreas de Riesgo: No se identifican áreas de riesgo significativas en esta sección.
+
+2.4. Términos Vagos: La expresión "permanente ocupación" podría considerarse vaga, ya que no especifica qué se entiende por "permanente" en términos de tiempo o condiciones.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Segundo.- Plazo:**
+
+Esta cláusula establece un plazo inicial de un año para el contrato, con prórrogas automáticas hasta un máximo de dos años, salvo que el inquilino notifique su intención de no renovar.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La cláusula podría considerarse abusiva si no respeta el derecho del arrendatario a prórrogas adicionales hasta un máximo de cinco años, según la Ley de Arrendamientos Urbanos (LAU) vigente.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre el derecho a prórrogas adicionales podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: La cláusula podría presentar una laguna si no se ajusta a la normativa vigente sobre prórrogas de contratos de arrendamiento.
+
+### 
+
+**Tercero.- Desistimiento:**
+
+Permite al inquilino desistir del contrato después de 12 meses, con una notificación previa de 30 días y una indemnización proporcional.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La indemnización proporcional podría considerarse abusiva si no está claramente justificada o es excesiva.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad en el cálculo de la indemnización podría generar disputas.
+
+2.4. Términos Vagos: La expresión "indemnización equivalente a la parte proporcional" podría ser vaga si no se especifica cómo se calcula.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Cuarto.- Prórroga:**
+
+Establece condiciones para la prórroga del contrato, incluyendo la posibilidad de que el propietario recupere la vivienda por necesidad personal.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La posibilidad de recuperar la vivienda por necesidad personal debe estar claramente justificada y documentada para no ser considerada abusiva.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad en los motivos y el proceso para recuperar la vivienda podría generar disputas.
+
+2.4. Términos Vagos: La expresión "necesidad de la vivienda" podría ser vaga si no se especifican los criterios para determinar dicha necesidad.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Quinto.- Renta y Actualización:**
+
+Establece una renta semanal en euros, pagada en dólares, con actualizaciones semanales basadas en índices de precios.
+
+2.1. Cláusulas Ilegales: La exigencia de pago en dólares podría ser ilegal si no se ajusta a la normativa de divisas aplicable.
+
+2.2. Cláusulas Abusivas: La actualización semanal de la renta podría considerarse abusiva si no está claramente justificada o es excesiva.
+
+2.3. Posibles Áreas de Riesgo: La fluctuación de divisas y la frecuencia de actualización podrían generar riesgos financieros para el inquilino.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: La cláusula podría presentar una laguna si no se ajusta a la normativa vigente sobre actualización de rentas.
+
+### 
+
+**Sexto.- Forma de Pago:**
+
+Establece que el pago de la renta se realizará por adelantado, con costos adicionales a cargo del inquilino en caso de impago.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La imposición de todos los costos adicionales al inquilino podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre los costos adicionales podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Séptimo.- Impuestos y Gastos:**
+
+El inquilino asume todos los gastos de suministros, comunidad, IBI y tasas, además del mantenimiento de contadores.
+
+2.1. Cláusulas Ilegales: La transferencia de ciertos gastos al inquilino podría ser ilegal si no se ajusta a la normativa vigente.
+
+2.2. Cláusulas Abusivas: La imposición de todos los gastos al inquilino podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre los gastos asumidos podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: La cláusula podría presentar una laguna si no se ajusta a la normativa vigente sobre distribución de gastos.
+
+### 
+
+**Octavo.- Conservación:**
+
+El propietario no se obliga a realizar reparaciones, siendo el inquilino responsable de los daños y reparaciones necesarias.
+
+2.1. Cláusulas Ilegales: La exoneración total del propietario de las reparaciones podría ser ilegal si no se ajusta a la normativa vigente.
+
+2.2. Cláusulas Abusivas: La imposición de todas las reparaciones al inquilino podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las responsabilidades de reparación podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: La cláusula podría presentar una laguna si no se ajusta a la normativa vigente sobre conservación de viviendas.
+
+### 
+
+**Noveno.- Obras:**
+
+Prohíbe al inquilino realizar obras sin permiso escrito del propietario, y establece que las obras autorizadas serán a cargo del inquilino.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La prohibición total de obras podría considerarse abusiva si no permite al inquilino realizar mejoras necesarias.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre el proceso de autorización de obras podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Décimo.- Suministros:**
+
+Esta cláusula no está desarrollada en el texto proporcionado, lo que podría indicar una omisión.
+
+2.1. Cláusulas Ilegales: La omisión de detalles sobre suministros podría ser ilegal si no se ajusta a la normativa vigente.
+
+2.2. Cláusulas Abusivas: La falta de claridad sobre los suministros podría considerarse abusiva si genera incertidumbre para el inquilino.
+
+2.3. Posibles Áreas de Riesgo: La omisión de detalles sobre suministros podría generar disputas.
+
+2.4. Términos Vagos: La falta de desarrollo de la cláusula hace que sea vaga.
+
+2.5. Lagunas Jurídicas: La omisión de detalles sobre suministros podría presentar una laguna jurídica.
+
+### 
+
+**Undécimo.- Prohibición del Subarriendo:**
+
+Prohíbe la cesión del contrato y el subarriendo total o parcial de la vivienda.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La prohibición total del subarriendo podría considerarse abusiva si no permite excepciones justificadas.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las excepciones a la prohibición podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Duodécimo.- Fianza:**
+
+Establece una fianza de 200 euros y un aval bancario de 1.000 euros como garantía de las obligaciones del inquilino.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La exigencia de un aval bancario podría considerarse abusiva si es excesiva o no está justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las condiciones del aval podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Decimotercero.- Obligaciones de la Parte Arrendataria:**
+
+Detalla las obligaciones del inquilino, incluyendo el pago de la renta, el uso de la vivienda y el mantenimiento de un seguro.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La imposición de todas las obligaciones al inquilino podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las obligaciones podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Decimocuarto.- Obligaciones de la Parte Arrendadora:**
+
+Establece que el propietario no está obligado a realizar reparaciones, salvo que sean imputables al inquilino.
+
+2.1. Cláusulas Ilegales: La exoneración total del propietario de las reparaciones podría ser ilegal si no se ajusta a la normativa vigente.
+
+2.2. Cláusulas Abusivas: La imposición de todas las reparaciones al inquilino podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las responsabilidades de reparación podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: La cláusula podría presentar una laguna si no se ajusta a la normativa vigente sobre conservación de viviendas.
+
+### 
+
+**Decimoquinto.- Causas de Terminación del Arriendo:**
+
+Detalla las causas de terminación del contrato, incluyendo el impago de la renta y el incumplimiento de obligaciones.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La terminación por impago de una sola mensualidad podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre las causas de terminación podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Decimoctavo.- Tanteo y Retracto:**
+
+El inquilino renuncia al derecho de tanteo y retracto, pero el propietario debe notificar la intención de vender con 30 días de antelación.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: La renuncia al derecho de tanteo y retracto podría considerarse abusiva si no está claramente justificada.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre el proceso de notificación podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Decimonoveno.- Jurisdicción:**
+
+Las partes se someten a la jurisdicción de los juzgados y tribunales civiles de una localidad no especificada.
+
+2.1. Cláusulas Ilegales: La falta de especificación de la jurisdicción podría ser ilegal si no se ajusta a la normativa vigente.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección.
+
+2.3. Posibles Áreas de Riesgo: La falta de especificación de la jurisdicción podría generar disputas.
+
+2.4. Términos Vagos: La falta de especificación de la jurisdicción hace que sea vaga.
+
+2.5. Lagunas Jurídicas: La falta de especificación de la jurisdicción podría presentar una laguna jurídica.
+
+### 
+
+**Vigésimo.- Notificaciones:**
+
+Establece las direcciones y medios para recibir notificaciones, incluyendo correos electrónicos y teléfonos móviles.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección.
+
+2.3. Posibles Áreas de Riesgo: La falta de claridad sobre la autenticidad de las comunicaciones podría generar disputas.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+### 
+
+**Vigesimoprimero.- Aceptación:**
+
+Las partes aceptan el contrato y sus anexos, comprometiéndose a su cumplimiento de buena fe.
+
+2.1. Cláusulas Ilegales: No se identifican cláusulas ilegales en esta sección.
+
+2.2. Cláusulas Abusivas: No se identifican cláusulas abusivas en esta sección.
+
+2.3. Posibles Áreas de Riesgo: No se identifican áreas de riesgo significativas en esta sección.
+
+2.4. Términos Vagos: No se identifican términos vagos en esta sección.
+
+2.5. Lagunas Jurídicas: No se identifican lagunas jurídicas en esta sección.
+
+###

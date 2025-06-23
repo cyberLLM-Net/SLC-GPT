@@ -1,0 +1,225 @@
+Contrato de Canarias 1.docx
+
+Sección:
+CONTRATO DE ARRENDAMIENTO DE VIVIENDA REUNIDOS: De una parte: Dª xxxxxxxxxxx xxxxxxxxx, mayor de edad, con D.N.I. nº xxxxxxxxxx, con domicilio de C/ xxxxxxxx nºx,xxx, xxxxxxx, Salamanca. Y de otra: D. xxxxxxxx xxxxxx, con NIE nº xxxxxxxxxy con domicilio de C/ xxxxxxxxxx nº1, 1xxxºB, xxxxxxxx, Salamanca. INTERVIENEN Dª xxxxxxxxxxxx en su propio nombre y representación. En adelante se la denominará también como arrendadora. Don xxxxxxxxxxxx en su propio nombre y representación. En adelante se les denominará también como arrendatario. Ambas partes en la calidad con la que actúan, se reconocen recíprocamente capacidad jurídica para contratar y obligarse y en especial para el otorgamiento del presente CONTRATO DE ARRENDAMIENTO DE VIVIENDA, del que resultan los siguientes ANTECEDENTES 1º.- Que la arrendadora, es propietaria de la vivienda sita en C/ xxxxxxxxxx nº1, xxx, xxxxxxxx, Salamanca. 2º.- Que el arrendatario, está interesados en el alquiler de la vivienda descrita, para su uso personal y vivienda habitual. 3º.- Y para formalizar lo que sobre el particular tienen convenido otorgan el presente contrato con sujeción a los siguientes, PACTOS
+
+Respuesta Base:
+Cláusula 1: Objeto del contrato
+
+Análisis:
+1.1. Esta cláusula establece el objeto del contrato de arrendamiento de vivienda, donde la arrendadora se compromete a alquilar la vivienda descrita al arrendatario para su uso personal y vivienda habitual. No se observa ninguna ilegalidad en esta cláusula.
+1.2. No se identifican términos vagos en esta cláusula.
+1.3. No se identifican áreas de riesgo en esta cláusula.
+1.4. No se observa ninguna laguna jurídica en esta cláusula.
+
+En resumen, la cláusula 1 es legal, clara y no presenta riesgos para las partes.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+PRIMERO.-. OBJETO El objeto del arriendo del presente contrato lo constituye una habitación localizada en C/ xxxxxxxxxxxx XX, XXX, XXXX, Salamanca y se destina exclusivamente a vivienda.
+
+Respuesta Base:
+En relación a la cláusula del objeto del contrato, se puede indicar lo siguiente:
+
+2.1. No se observa que esta cláusula sea ilegal, ya que se refiere al objeto del contrato de arrendamiento de vivienda.
+
+2.2. No se identifica que esta cláusula sea abusiva, ya que simplemente establece el objeto del contrato de arrendamiento.
+
+2.3. No se identifican áreas de riesgo en esta cláusula, ya que establece claramente el objeto del contrato.
+
+2.4. No se observan términos vagos en esta cláusula, ya que especifica claramente el objeto del arrendamiento.
+
+2.5. No se identifica ninguna laguna jurídica en esta cláusula, ya que se ajusta a la normativa vigente sobre arrendamientos de vivienda en España.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEGUNDO.- DURACIÓN El plazo de duración del presente contrato se establece por un período de DOCE MESES,.
+
+Respuesta Base:
+Según el contrato adjunto, la cláusula referente a la duración del contrato establece un plazo de doce meses. A continuación, se procede al análisis de dicha cláusula:
+
+2.1. Cláusula Ilegal: No se observa ilegalidad en esta cláusula, ya que el plazo de duración de doce meses es común en contratos de arrendamiento de viviendas en España.
+
+2.2. Cláusula Abusiva: Tampoco se aprecia abusividad en esta cláusula, dado que el plazo de doce meses es razonable y no genera un desequilibrio significativo entre las partes.
+
+2.3. Áreas de Riesgo: En este caso, el plazo de doce meses puede considerarse como un área de riesgo si el arrendador o arrendatario desean una mayor flexibilidad en cuanto a la duración del contrato. Sería recomendable incluir la posibilidad de prórroga automática o de renovación del contrato al finalizar los doce meses.
+
+2.4. Términos Vagos: La cláusula es clara en cuanto al plazo de duración de doce meses, por lo que no se observan términos vagos en este sentido.
+
+2.5. Laguna Jurídica: No se identifica ninguna laguna jurídica en esta cláusula, ya que el plazo de doce meses es un periodo estándar y está contemplado en la legislación española en materia de arrendamientos urbanos.
+
+En conclusión, la cláusula referente a la duración del contrato de arrendamiento por un período de doce meses no presenta ilegalidad, abusividad ni términos vagos. Sin embargo, se sugiere considerar la inclusión de cláusulas que permitan una mayor flexibilidad en la duración del contrato.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+TERCERO.- RENTA La renta pactada es de …… EUROS (…€) MENSUALES durante la vigencia del contrato, incluidos los gastos de comunidad.
+
+Respuesta Base:
+En relación a la cláusula referente a la renta pactada, se puede indicar lo siguiente:
+
+2.1. Ilegalidad: No se observa ilegalidad en esta cláusula, ya que establece de manera clara y precisa el monto de la renta a pagar mensualmente durante la vigencia del contrato.
+
+2.2. Abusividad: No se aprecia abusividad en esta cláusula, ya que el monto de la renta es determinado y no parece desproporcionado en relación con el valor del inmueble arrendado.
+
+2.3. Áreas de riesgo: No se identifican áreas de riesgo en esta cláusula, ya que establece de forma clara la obligación del arrendatario de pagar la renta mensualmente.
+
+2.4. Términos vagos: No se encuentran términos vagos en esta cláusula, ya que especifica de manera precisa el monto de la renta a pagar.
+
+2.5. Laguna jurídica: No se observa ninguna laguna jurídica en esta cláusula, ya que la determinación del monto de la renta es una cuestión regulada por la legislación de arrendamientos urbanos en España y no parece existir ninguna omisión normativa en este sentido.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+CUARTO.- GASTOS El arrendatario queda obligado al pago de la parte proporcional de los gastos compartidos de agua, electricidad, gas, basura e internet.
+
+Respuesta Base:
+En relación a la cláusula sobre los gastos compartidos, se pueden identificar los siguientes puntos:
+
+2.1. **Ilegalidad:** Esta cláusula no es ilegal en sí misma, ya que es común que en los contratos de arrendamiento se establezca que el arrendatario debe hacerse cargo de ciertos gastos.
+
+2.2. **Abusividad:** No parece que esta cláusula sea abusiva, siempre y cuando los gastos compartidos estén debidamente justificados y sean proporcionales al uso que cada parte hace de los servicios.
+
+2.3. **Áreas de riesgo:** Un posible área de riesgo podría ser la falta de especificación de cómo se determinará la parte proporcional de los gastos compartidos. Es importante que el contrato establezca claramente los criterios para calcular esta proporción, para evitar posibles conflictos en el futuro.
+
+2.4. **Términos vagos:** El término "parte proporcional" podría considerarse vago, ya que no define con exactitud cómo se calculará esa proporción. Sería recomendable especificar en el contrato los criterios o fórmulas que se utilizarán para determinar la parte que corresponde a cada parte.
+
+2.5. **Laguna jurídica:** No parece existir una laguna jurídica en esta cláusula, ya que la obligación del arrendatario de pagar una parte de los gastos compartidos es una práctica común en los contratos de arrendamiento y está respaldada por la legislación vigente en materia de arrendamientos urbanos en España.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: S  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+QUINTO.- FIANZA Se establece una fianza, pagadera a la fecha del contrato, de …€
+
+Respuesta Base:
+1. Ilegalidad: La cláusula que establece una fianza no es ilegal, ya que es común en los contratos de arrendamiento de viviendas en España.
+
+2. Abusividad: La cláusula que establece una fianza no es abusiva, siempre y cuando el importe de la fianza no exceda de una mensualidad de renta en contratos de vivienda habitual, de acuerdo con la Ley de Arrendamientos Urbanos.
+
+3. Áreas de riesgo: No se identifican áreas de riesgo en esta cláusula, siempre y cuando se respeten los límites legales establecidos para el importe de la fianza.
+
+4. Términos vagos: La cláusula es clara en cuanto al establecimiento de una fianza, por lo que no se identifican términos vagos en este caso.
+
+5. Laguna jurídica: No se identifica ninguna laguna jurídica en esta cláusula, ya que la regulación de la fianza en contratos de arrendamiento de viviendas está contemplada en la legislación vigente.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SEXTO. - OBLIGACIONES DE LA PARTE ARRENDATARIA. - La parte arrendataria en su calidad de inquilino de la vivienda arrendada asume expresamente las siguientes obligaciones: El pago de la renta, aumentos e incrementos legales A destinar el inmueble arrendado a la vivienda habitual y permanente del arrendatario durante el período académico. Comunicar a la propiedad o al Administrador de Fincas, en el plazo de veinticuatro horas, cualquier incidencia o desperfecto hallado en el interior de la vivienda. A observar en todo momento las disposiciones legales vigentes. A permitir el acceso en la vivienda a la propiedad, su  Administrador, y a los operarios o industriales mandados por cualquiera de ambos, para la realización, inspección y comprobación de cualquier clase de obras o reparaciones que afecten al inmueble. A cumplir en todo momento las Normas Estatutarias Reglamentarias y los acuerdos de la Comunidad de Propietarios tenga establecidas o establezcan, en orden a la utilización de los servicios, elementos comunes y buen régimen de convivencia. A sufragar las pequeñas reparaciones que exija el desgaste por el uso ordinario de la vivienda, así como el deterioro de cuya reparación se trate, sea imputable al arrendatario.
+
+Respuesta Base:
+En relación a la cláusula Sexto del contrato de arrendamiento, se establecen una serie de obligaciones para la parte arrendataria (inquilino) que deben ser analizadas:
+
+1. **Ilegalidad:** No se observa ninguna ilegalidad en las obligaciones establecidas en esta cláusula.
+
+2. **Abusividad:** Las obligaciones establecidas en esta cláusula no parecen abusivas en principio, ya que se refieren a aspectos comunes en un contrato de arrendamiento de vivienda.
+
+3. **Áreas de riesgo:** Existe un área de riesgo en la obligación de permitir el acceso a la vivienda a la propiedad, su Administrador, y a los operarios o industriales mandados por cualquiera de ambos, para la realización, inspección y comprobación de cualquier clase de obras o reparaciones que afecten al inmueble. Es importante que se especifique claramente en el contrato el procedimiento y los plazos para solicitar y llevar a cabo estas intervenciones, así como los horarios en los que se permitirá el acceso a la vivienda.
+
+4. **Términos vagos:** La cláusula no presenta términos vagos, ya que establece de manera clara las obligaciones de la parte arrendataria.
+
+5. **Laguna jurídica:** No se observa ninguna laguna jurídica en esta cláusula, ya que las obligaciones establecidas son comunes en un contrato de arrendamiento de vivienda y se ajustan a la normativa vigente en materia de arrendamientos urbanos en España.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+SÉPTIMO. - OBLIGACIONES DE LA ARRENDADORA. - La parte arrendadora está obligada a: A comunicar al arrendatario la actualización de la renta anual conforme al I.P.C., acompañando Certificación del Instituto Nacional de Estadística acreditativa de la variación del citado Índice. A la reparación y/o sustitución de los servicios comunes que dejaren de funcionar.
+
+Respuesta Base:
+En relación a la cláusula Séptimo del contrato de arrendamiento, se observa lo siguiente:
+
+2.1. Ilegalidad: No se identifica ninguna ilegalidad en esta cláusula.
+
+2.2. Abusividad: No se identifica ninguna abusividad en esta cláusula, ya que establece obligaciones claras y concretas para la arrendadora.
+
+2.3. Áreas de riesgo: Se podría identificar como un área de riesgo el hecho de que la arrendadora esté obligada a comunicar al arrendatario la actualización de la renta anual conforme al IPC, ya que si no se realiza esta comunicación de forma adecuada, podría generar conflictos entre las partes.
+
+2.4. Términos vagos: La cláusula no presenta términos vagos, ya que establece de forma clara las obligaciones de la arrendadora.
+
+2.5. Laguna jurídica: No se identifica ninguna laguna jurídica en esta cláusula, ya que la obligación de comunicar la actualización de la renta anual conforme al IPC está contemplada en la legislación vigente en materia de arrendamientos urbanos en España.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: S  
+Vaguedades: N  
+Lagunas: N  
+
+--------------------------------------------------------------------------------
+
+Sección:
+OCTAVO. - CAUSAS DE TERMINACIÓN DEL ARRIENDO. - Serán causas de terminación del presente contrato de arrendamiento de vivienda, además de las legalmente establecidas y de las previstas en este contrato, las que expresamente se mencionan a continuación: La falta de pago de una mensualidad, así como de las cantidades que, según contrato, corresponda satisfacer a la parte arrendataria. Cuando en la vivienda arrendada no se destine al uso establecido en el objeto de este contrato, y que es la vivienda habitual y permanente del arrendatario. El incumplimiento por ambas partes de las obligaciones que se asumen en este contrato, de acuerdo con lo dispuesto en el artículo 1.124 del Código Civil, y en especial el incumplimiento por parte de la parte arrendataria de cualquiera de las obligaciones asumidas en el pacto Séptimo del presente contrato. En caso de haberse pactado entre las partes el reemplazo total o parcial de la obligación del pago de la renta por el compromiso del arrendatario de reformar o rehabilitar el inmueble. Cuando la vivienda arrendada no se destine al satisfacer las necesidades de vivienda del arrendatario, o en la misma se lleven a cabo actividades nocivas, molestas, peligrosas, insalubres o ilícitas. En Salamanca a 1 de xxxxxxx de xxxxxx LA ARRENDADORA				EL ARRENDATARIO
+
+Respuesta Base:
+Cláusula OCTAVO - CAUSAS DE TERMINACIÓN DEL ARRIENDO:
+
+2.1. Ilegalidad: No se observa ninguna cláusula que sea ilegal en esta sección.
+
+2.2. Abusividad: No se observa ninguna cláusula que sea abusiva en esta sección.
+
+2.3. Áreas de riesgo: Se debe tener en cuenta que las causas de terminación del contrato deben estar claramente definidas y no dejar lugar a interpretaciones ambiguas que puedan generar conflictos entre las partes.
+
+2.4. Términos vagos: La cláusula menciona causas de terminación del contrato de arrendamiento de vivienda, pero sería recomendable especificar con mayor detalle qué se considera "incumplimiento por ambas partes de las obligaciones" y qué actividades se consideran "nocivas, molestas, peligrosas, insalubres o ilícitas".
+
+2.5. Laguna jurídica: No se observa ninguna laguna jurídica en esta sección, ya que las causas de terminación del contrato están en línea con lo establecido en la legislación vigente en materia de arrendamientos de viviendas en España. Sin embargo, se recomienda una mayor claridad en la redacción de las causas de terminación para evitar posibles interpretaciones ambiguas.
+
+Respuesta Struct:
+Legalidad: L  
+Abusividad: N  
+Áreas de riesgo: N  
+Vaguedades: S  
+Lagunas: S  
+
+--------------------------------------------------------------------------------
+

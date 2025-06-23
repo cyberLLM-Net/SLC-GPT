@@ -1,0 +1,39 @@
+Contrato de Aragon 1.docx
+
+###Análisis previo al inicio de las cláusulas:
+
+El contrato de arrendamiento de vivienda se celebra entre la parte arrendadora, que son dos personas físicas, y la parte arrendataria, que son tres personas físicas. El objeto del contrato es la vivienda situada en una dirección específica en Zaragoza. Ambas partes manifiestan tener la capacidad legal para celebrar el contrato. Se establecen los datos de contacto de las partes, así como la descripción de la vivienda y su uso como vivienda habitual de la parte arrendataria. El contrato se formaliza con una duración inicial de un año, con posibilidad de prórroga tácita anual hasta un máximo de tres años. Se establecen cláusulas sobre desistimiento, prórroga, renta, forma de pago, impuestos, conservación, obras, suministros, prohibición de subarriendo, fianza, obligaciones de las partes, causas de terminación, entre otras.
+
+###Cláusula Primera:
+
+####2.1. Cláusulas Ilegales:
+No se identifican cláusulas ilegales en esta cláusula.
+
+####2.2. Cláusulas Abusivas:
+No se identifican cláusulas abusivas en esta cláusula.
+
+####2.3. Identificar posibles áreas de riesgo:
+No se identifican áreas de riesgo en esta cláusula.
+
+####2.4. Identificar posibles áreas términos vagos:
+No se identifican términos vagos en esta cláusula.
+
+####2.5. Verificación de laguna jurídica:
+No se identifica ninguna laguna jurídica en esta cláusula.
+
+###Cláusula Segunda:
+
+####2.1. Cláusulas Ilegales:
+No se observan cláusulas ilegales en esta cláusula.
+
+####2.2. Cláusulas Abusivas:
+No se detectan cláusulas abusivas en esta cláusula.
+
+####2.3. Identificar posibles áreas de riesgo:
+Se debe tener en cuenta que la prórroga tácita anual debe respetar los límites legales establecidos en la normativa de arrendamientos urbanos.
+
+####2.4. Identificar posibles áreas términos vagos:
+No se identifican términos vagos en esta cláusula.
+
+####2.5. Verificación de laguna jurídica:
+No se identifica ninguna laguna jurídica en esta cláusula.

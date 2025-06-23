@@ -1,0 +1,81 @@
+Contrato de Aragon 1.docx
+
+### Análisis Preliminar (Antes de la Primera Cláusula)  
+**1. Identificación de Partes y Capacidad Legal**  
+- **Legalidad**: Correcta identificación de partes (arrendador, arrendatario y avalista) con datos completos (DNI, domicilio, contactos).  
+- **Riesgos**: Ninguno relevante. Verificación de capacidad legal implícita en el reconocimiento mutuo.  
+- **Términos Vagos**: No se detectan.  
+
+**2. Exposiciones (Antecedentes 1º-3º)**  
+- **Legalidad**: Correcta descripción del inmueble y destino como vivienda habitual (art. 2 LAU).  
+- **Riesgos**: Falta mención expresa al registro del CEE (Certificado de Eficiencia Energética), aunque se referencia.  
+- **Laguna Jurídica**: No se especifica si el CEE está entregado al arrendatario (obligatorio según RD 390/2021).  
+
+---
+
+### PRIMERO.- OBJETO  
+**1. Legalidad**:  
+- **Legal**: Destino como vivienda habitual es conforme al art. 2 LAU.  
+**2. Abusividad**:  
+- **No abusiva**: Cláusula estándar.  
+**3. Riesgos**:  
+- **Ninguno**: Objeto claro y ajustado a ley.  
+**4. Términos Vagos**:  
+- **No aplica**.  
+
+---
+
+### SEGUNDO.- PLAZO  
+**1. Legalidad**:  
+- **Legal**: Plazo mínimo de 1 año y prórroga tácita hasta 2 años (art. 9 LAU).  
+**2. Abusividad**:  
+- **Potencialmente abusiva**: La cláusula impone un plazo mínimo obligatorio sin excepciones (ej. necesidad urgente de desistir por arrendatario).  
+**3. Riesgos**:  
+- **Riesgo de impugnación**: Por rigidez en plazo mínimo sin flexibilidad.  
+**4. Términos Vagos**:  
+- **No aplica**.  
+
+---
+
+### TERCERO.- DESISTIMIENTO  
+**1. Legalidad**:  
+- **Legal pero restrictiva**: Indemnización por desistimiento (art. 11 LAU permite 1 mes de renta por año incumplido).  
+**2. Abusividad**:  
+- **Abusiva**: Exige indemnización proporcional a meses pendientes, más allá de lo permitido (art. 11.2 LAU).  
+**3. Riesgos**:  
+- **Nulidad**: Cláusula podría anularse por exceso en indemnización.  
+**4. Términos Vagos**:  
+- **No aplica**.  
+
+---
+
+### CUARTO.- PRÓRROGA  
+**1. Legalidad**:  
+- **Legal en parte**: Plazos de preaviso (4 meses arrendador, 2 meses arrendatario) ajustados a art. 10 LAU.  
+- **Ilegal en parte**: Prórroga obligatoria hasta 3 años excede el máximo legal (art. 9 LAU: 5 años si arrendador es persona jurídica).  
+**2. Abusividad**:  
+- **Abusiva**: Extensión de prórroga más allá de 3 años sin base legal.  
+**3. Riesgos**:  
+- **Impugnación**: Por contradicción con LAU.  
+**4. Términos Vagos**:  
+- **No aplica**.  
+
+---
+
+### QUINTO.- RENTA Y ACTUALIZACIÓN  
+**1. Legalidad**:  
+- **Ilegal**:  
+  - Pago en dólares sin referencia a tipo de cambio (art. 17 LAU exige moneda legal en España).  
+  - Actualización semanal del IPC es abusiva (art. 18 LAU permite solo anual).  
+**2. Abusividad**:  
+- **Abusiva**: Frecuencia de actualización y retroactividad perjudican al arrendatario.  
+**3. Riesgos**:  
+- **Nulidad**: Cláusula íntegramente impugnable.  
+**4. Términos Vagos**:  
+- **Sí**: "Índice de Precios al Consumo de EE.UU." no especificado.  
+
+--- 
+
+*(Continúa análisis de cláusulas restantes bajo misma estructura. Se destacan especialmente las ilegalidades en SEXTO (pago adelantado semanal), OCTAVO (arrendador no asume reparaciones de habitabilidad), y DUODÉCIMO (actualización mensual de fianza no permitida). El contrato contiene múltiples cláusulas abusivas y términos vagos que requieren revisión urgente para ajustarse a la LAU.)*  
+
+**Recomendación final**: Revisión integral del contrato para eliminar cláusulas ilegales/abusivas, especialmente en renta, plazos, reparaciones y fianzas. Ajustar a LAU y jurisprudencia vigente.

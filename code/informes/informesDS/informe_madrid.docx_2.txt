@@ -1,0 +1,313 @@
+Contrato de Madrid.docx
+
+### Análisis del Preámbulo del Contrato
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales en el preámbulo. El contrato cumple con los requisitos formales de identificación de las partes y la descripción del inmueble.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección. Las partes se reconocen mutuamente capacidad jurídica para contratar, lo cual es un requisito básico en cualquier contrato.
+
+**3. Áreas de Riesgo:**  
+- **Falta de documentación:** El contrato menciona que no se adjunta fotocopia de la cédula de habitabilidad ni del certificado de eficiencia energética. Esto podría generar problemas legales o administrativos, ya que estos documentos son obligatorios según la normativa española.
+- **Declaración del Propietario:** El propietario manifiesta que el inmueble cumple con todos los requisitos para ser destinado a vivienda, pero no se adjuntan pruebas documentales. Esto podría ser un riesgo si el inmueble no cumple con las condiciones de habitabilidad.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta sección. Las partes y el inmueble están claramente identificados.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta sección. Sin embargo, la falta de documentación adjunta (cédula de habitabilidad y certificado de eficiencia energética) podría generar incertidumbre en caso de disputa.
+
+---
+
+### PRIMERA: OBJETO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La cláusula establece el uso exclusivo del inmueble como vivienda, lo cual es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+- **Prohibición de mascotas:** La prohibición de tener mascotas sin consentimiento expreso del propietario podría considerarse abusiva, ya que limita el derecho del inquilino a disfrutar de la vivienda de manera plena. Sin embargo, esta prohibición está sujeta a la interpretación judicial.
+- **Número máximo de ocupantes:** La limitación a cuatro personas podría ser considerada abusiva si no se justifica por las dimensiones del inmueble.
+
+**3. Áreas de Riesgo:**  
+- **Prohibición de subarrendamiento y cesión:** Estas prohibiciones son comunes, pero podrían generar conflictos si el inquilino necesita subarrendar por motivos justificados.
+- **Resolución del contrato por incumplimiento:** El contrato faculta al propietario a resolver el contrato por incumplimiento de estas obligaciones, lo cual podría ser utilizado de manera arbitraria.
+
+**4. Términos Vagos:**  
+- **"Uso ordinario y diligente":** Este término no está claramente definido y podría generar disputas sobre lo que constituye un uso adecuado del inmueble.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula. Sin embargo, la prohibición de mascotas y la limitación de ocupantes podrían ser objeto de interpretación judicial.
+
+---
+
+### SEGUNDA: PLAZO DE VIGENCIA
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La duración del contrato y las prórrogas están en línea con la LAU.
+
+**2. Cláusulas Abusivas:**  
+- **Indemnización por desistimiento:** La cláusula que establece una indemnización equivalente a una mensualidad por desistimiento podría considerarse abusiva, ya que no está prevista en la LAU y podría ser desproporcionada.
+
+**3. Áreas de Riesgo:**  
+- **Plazos de notificación:** Los plazos de notificación para la no renovación del contrato son estrictos y podrían generar confusiones o incumplimientos involuntarios.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula. Sin embargo, la indemnización por desistimiento podría ser objeto de impugnación.
+
+---
+
+### TERCERA: ENTREGA DEL INMUEBLE
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La entrega del inmueble en condiciones de habitabilidad es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+- **Estado del inmueble:** El contrato no detalla el estado exacto del inmueble en el momento de la entrega, lo que podría generar disputas sobre su condición.
+
+**4. Términos Vagos:**  
+- **"Perfectas condiciones de habitabilidad":** Este término no está claramente definido y podría ser objeto de interpretación.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### CUARTA: RENTA
+
+**1. Cláusulas Ilegales:**  
+- **Renta en dólares estadounidenses:** La renta se establece en euros pero se paga en dólares, lo cual podría ser ilegal según la normativa española, que exige que los pagos se realicen en la moneda local (euros).
+
+**2. Cláusulas Abusivas:**  
+- **Actualización semanal de la renta:** La actualización semanal de la renta según el IPC o el índice de precios de EE.UU. podría considerarse abusiva, ya que es inusual y podría generar cargas excesivas para el inquilino.
+
+**3. Áreas de Riesgo:**  
+- **Falta de pago:** La falta de pago de cuatro semanas de renta como causa de resolución del contrato es un plazo muy corto y podría ser considerado desproporcionado.
+- **Actualización retroactiva:** La aplicación retroactiva de las revisiones de renta podría generar confusiones y disputas sobre los pagos.
+
+**4. Términos Vagos:**  
+- **"Índice de Precios al Consumo de los Estados Unidos":** No se especifica cuál es el índice exacto que se utilizará, lo que podría generar incertidumbre.
+
+**5. Lagunas Jurídicas:**  
+- **Moneda de pago:** La exigencia de pagar en dólares podría ser ilegal según la normativa española, lo que generaría una laguna jurídica en caso de disputa.
+
+---
+
+### QUINTA: GARANTÍA DEL CONTRATO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La fianza y el aval bancario están en línea con la LAU.
+
+**2. Cláusulas Abusivas:**  
+- **Actualización mensual de la fianza:** La actualización mensual de la fianza podría considerarse abusiva, ya que no está prevista en la LAU y podría ser desproporcionada.
+
+**3. Áreas de Riesgo:**  
+- **Aval bancario:** La exigencia de un aval bancario por 1.000 euros podría ser considerada excesiva, especialmente si la fianza ya cubre dos semanas de renta.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### SEXTA: SERVICIOS Y GASTOS
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La distribución de gastos es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+- **Cambio de titularidad de suministros:** El plazo de 7 días para el cambio de titularidad es muy corto y podría generar problemas si el inquilino no lo cumple.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### SÉPTIMA: GASTOS DE REPARACIÓN Y CONSERVACIÓN
+
+**1. Cláusulas Ilegales:**  
+- **Responsabilidad del inquilino:** La cláusula que exime al propietario de realizar reparaciones necesarias para mantener la habitabilidad del inmueble podría ser ilegal, ya que la LAU establece que el propietario es responsable de las reparaciones necesarias para mantener la vivienda en condiciones de habitabilidad.
+
+**2. Cláusulas Abusivas:**  
+- **Exención de responsabilidad del propietario:** Esta cláusula podría considerarse abusiva, ya que traslada al inquilino la responsabilidad de reparaciones que, por ley, corresponden al propietario.
+
+**3. Áreas de Riesgo:**  
+- **Reparaciones:** La cláusula podría generar conflictos si el inquilino se niega a realizar reparaciones que, por ley, corresponden al propietario.
+
+**4. Términos Vagos:**  
+- **"Uso negligente":** Este término no está claramente definido y podría generar disputas sobre lo que constituye un uso negligente.
+
+**5. Lagunas Jurídicas:**  
+- **Responsabilidad del propietario:** La cláusula que exime al propietario de realizar reparaciones necesarias para mantener la habitabilidad del inmueble podría ser ilegal, lo que generaría una laguna jurídica en caso de disputa.
+
+---
+
+### OCTAVA: OBRAS EN EL INMUEBLE
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La prohibición de realizar obras sin consentimiento del propietario es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+- **Obras no autorizadas:** La cláusula que permite la resolución del contrato por obras no autorizadas podría ser utilizada de manera arbitraria.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### NOVENA: DEVOLUCIÓN DEL INMUEBLE
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La devolución del inmueble en buen estado es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+- **Penalización por retraso en el desalojo:** La penalización por retraso en el desalojo (doble de la renta diaria) podría considerarse abusiva, ya que es desproporcionada.
+
+**3. Áreas de Riesgo:**  
+- **Reparación de desperfectos:** La obligación del inquilino de reparar cualquier desperfecto antes de la devolución del inmueble podría generar conflictos sobre lo que constituye un desperfecto.
+
+**4. Términos Vagos:**  
+- **"Perfecto estado":** Este término no está claramente definido y podría generar disputas sobre el estado del inmueble al momento de la devolución.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMA: DERECHO DE TANTEO Y RETRACTO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La renuncia al derecho de tanteo y retracto es conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+No se identifican áreas de riesgo en esta cláusula.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMO PRIMERA: CAUSAS DE TERMINACIÓN DEL CONTRATO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. Las causas de terminación están en línea con la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+- **Necesidad del propietario de ocupar el inmueble:** La cláusula que permite al propietario terminar el contrato si necesita el inmueble para sí o su familia podría ser utilizada de manera arbitraria.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMO SEGUNDA: PROTECCIÓN DE DATOS. INCLUSIÓN EN FICHERO DE MOROSIDAD
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La cláusula cumple con los requisitos de la normativa de protección de datos.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+- **Inclusión en fichero de morosidad:** La inclusión en un fichero de morosidad por impago podría generar problemas si no se siguen los procedimientos adecuados.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMO TERCERA: LEY APLICABLE Y JURISDICCIÓN
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La cláusula establece la ley aplicable y la jurisdicción conforme a la LAU.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+No se identifican áreas de riesgo en esta cláusula.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMO CUARTA: NOTIFICACIONES
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La cláusula establece los procedimientos de notificación conforme a la normativa.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+No se identifican áreas de riesgo en esta cláusula.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### DÉCIMO QUINTA: FIRMA DEL CONTRATO
+
+**1. Cláusulas Ilegales:**  
+No se identifican cláusulas ilegales. La firma del contrato cumple con los requisitos formales.
+
+**2. Cláusulas Abusivas:**  
+No se detectan cláusulas abusivas en esta sección.
+
+**3. Áreas de Riesgo:**  
+No se identifican áreas de riesgo en esta cláusula.
+
+**4. Términos Vagos:**  
+No se identifican términos vagos en esta cláusula.
+
+**5. Lagunas Jurídicas:**  
+No se detectan lagunas jurídicas en esta cláusula.
+
+---
+
+### Conclusión General
+
+El contrato presenta varias áreas de riesgo y cláusulas potencialmente abusivas, especialmente en lo relacionado con la prohibición de mascotas, la actualización semanal de la renta, la responsabilidad de reparaciones y la penalización por retraso en el desalojo. Además, la falta de documentación adjunta (cédula de habitabilidad y certificado de eficiencia energética) podría generar problemas legales. Se recomienda revisar y ajustar estas cláusulas para evitar futuras disputas y garantizar el cumplimiento de la normativa vigente.
