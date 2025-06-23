@@ -1,0 +1,233 @@
+Contrato de País Vasco 1.docx
+
+**Análisis del contenido previo a la primera cláusula**
+
+1. **Texto de la cláusula**: No se proporciona un texto literal específico, pero se describe la identificación de las partes, su capacidad legal y el objeto del contrato.
+
+2. **Resumen jurídico**: El preámbulo del contrato de arrendamiento identifica a las partes involucradas, el arrendador y el arrendatario, y establece su capacidad legal para celebrar el contrato. También se describe la propiedad objeto del arrendamiento, incluyendo su ubicación, superficie y anexos, así como la existencia de un certificado de eficiencia energética y un inventario de mobiliario.
+
+3. **Legalidad**: La identificación de las partes y la descripción del objeto del contrato son elementos esenciales y legales en un contrato de arrendamiento conforme a la Ley de Arrendamientos Urbanos (LAU) en España.
+
+4. **Abusividad**: No se detectan elementos abusivos en esta sección, ya que se limita a identificar a las partes y describir el objeto del contrato.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de especificidad en los datos personales de las partes, que podría generar problemas de identificación o comunicación.
+
+6. **Términos vagos**: La mención de "anexos que se alquilan junto con la vivienda" podría ser vaga si no se especifican claramente en el contrato.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas en esta sección, ya que se trata de una introducción estándar que cumple con los requisitos legales básicos.
+
+###
+
+**Primera cláusula**
+
+1. **Texto de la cláusula**: "El arrendamiento se establece por un plazo de un año a contar desde el día de hoy. De acuerdo con la legislación vigente a la firma de este contrato, el arrendatario tendrá la facultad de su renovación anual hasta que el arrendamiento alcance la duración de 2 años; no habrá lugar a dicha renovación si el arrendatario notificase por escrito la renuncia con al menos 30 días de antelación a la finalización del plazo pactado o cualquiera de sus prórrogas anuales. Llegada la fecha de vencimiento del contrato o de cualquiera de sus prórrogas, una vez transcurridos como mínimo dos años de duración del contrato, si ninguna de las partes hubiese notificado a la otra, al menos con cuatro meses de antelación a aquella fecha en el caso del arrendador y al menos con dos meses de antelación en el caso del arrendatario, su voluntad de no renovarlo, el contrato se prorrogará obligatoriamente por plazos anuales hasta un máximo de tres años más, salvo que el arrendatario manifieste al arrendador con un mes de antelación a la fecha de terminación de cualquiera de las anualidades, su voluntad de no renovar el contrato."
+
+2. **Resumen jurídico**: Esta cláusula establece la duración inicial del contrato de arrendamiento en un año, con posibilidad de renovación anual hasta alcanzar dos años. Posteriormente, el contrato se prorrogará automáticamente por plazos anuales hasta un máximo de tres años adicionales, salvo notificación en contrario por las partes.
+
+3. **Legalidad**: La cláusula es legal conforme a la Ley de Arrendamientos Urbanos, que permite la prórroga obligatoria del contrato hasta un máximo de cinco años si ninguna de las partes manifiesta su intención de no renovarlo.
+
+4. **Abusividad**: No se considera abusiva, ya que respeta los derechos de prórroga establecidos por la LAU.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de notificación en los plazos establecidos, lo que podría llevar a la prórroga automática del contrato.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien estructurada y conforme a la normativa vigente.
+
+###
+
+**Segunda cláusula**
+
+1. **Texto de la cláusula**: "Expresamente se pacta un periodo mínimo de validez del contrato de seis meses. El incumplimiento de dicho plazo por el arrendatario dará lugar a una indemnización dineraria equivalente al periodo de renta que falte por cumplir para llegar al periodo mínimo pactado. Pasado el periodo mínimo, el arrendatario podrá desistir en todo momento del contrato siempre que realice un preaviso con treinta días de antelación. Realizado el preaviso con la antelación pactada, queda convenido el pago de una indemnización por el arrendatario, en concepto de perjuicios para el propietario, equivalente a un mes de renta por cada año de contrato que reste por cumplir. Los periodos de tiempo inferiores al año darán lugar a la parte proporcional de la indemnización. En el caso de que no se hubiese realizado dicho preaviso en el tiempo convenido, la indemnización a pagar al arrendador se verá incrementada en la cantidad equivalente a un mes de renta. El arrendador hace constar expresamente que no procederá la prórroga obligatoria del contrato en el caso de que, trascurrido el primer año de contrato, se ponga de manifiesto la necesidad para el arrendador de ocupar la vivienda arrendada antes del transcurso de cinco años para destinarla a vivienda permanente para sí o sus familiares de primer grado de consanguinidad o por adopción, o para su cónyuge en los supuestos de sentencia firme de separación, divorcio o nulidad matrimonial. El arrendador deberá comunicar este extremo con al menos dos meses de antelación a la fecha en que la vivienda se vaya a necesitar. En ese caso, el arrendatario estará obligado a entregar la vivienda en dicho plazo sin que ello genere derecho a indemnización alguna por parte del arrendador."
+
+2. **Resumen jurídico**: Se establece un periodo mínimo de seis meses para el contrato, con indemnizaciones aplicables en caso de incumplimiento. También se regula el desistimiento del contrato por parte del arrendatario y la posibilidad del arrendador de recuperar la vivienda para uso personal bajo ciertas condiciones.
+
+3. **Legalidad**: La cláusula es legal, ya que el artículo 11 de la LAU permite al arrendatario desistir del contrato con un preaviso de 30 días tras el primer año, y el artículo 9.3 permite al arrendador recuperar la vivienda para uso personal bajo ciertas condiciones.
+
+4. **Abusividad**: La cláusula podría considerarse abusiva si las indemnizaciones no son proporcionales o si las condiciones para recuperar la vivienda no se ajustan a lo establecido en la LAU.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación de las indemnizaciones y la justificación del uso personal del arrendador, que podría ser objeto de disputa.
+
+6. **Términos vagos**: La expresión "necesidad para el arrendador de ocupar la vivienda" podría ser vaga si no se especifican claramente las circunstancias.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está alineada con la normativa vigente.
+
+###
+
+**Tercera cláusula**
+
+1. **Texto de la cláusula**: "Como precio del arrendamiento, se fija como renta semanal de 200 euros pagada por el Inquilino que será abonada por el inquilino en su equivalente en dólares estadounidenses. Dentro de los cinco primeros días de cada semana. El precio del arrendamiento incluye los gastos generales del inmueble, servicios, tributos, cargas y demás responsabilidades no susceptibles de individualización, pero no así los gastos por servicios con que cuenta la vivienda arrendada y que se individualicen mediante aparatos contadores, que serán de cuenta exclusiva del arrendatario. Queda expresamente convenido que la tasa municipal anual de basuras sea por cuenta del arrendatario. La renta pactada será actualizada semanalmente conforme a las variaciones que experimente el mayor de estos índices: índice General Nacional del Sistema de Precios al Consumo de España ("I.P.C."), publicado por el Instituto Nacional de Estadística teniendo en consideración la variación en el mes inmediatamente anteriores o el Indice de Precios al Consumo de los Estados Unidos, publicado por la Entidad Nacional correspondiente de ese país. Si la variación experimentada por el I.P.C. fuera negativa, la renta permanecerá igual, sin actualizarse."
+
+2. **Resumen jurídico**: Se establece el precio del arrendamiento en euros, aunque se permite el pago en dólares, y se detallan los gastos incluidos y excluidos de la renta. También se regula la actualización de la renta conforme a índices de precios al consumo.
+
+3. **Legalidad**: La cláusula es legal, pero la actualización semanal de la renta podría ser cuestionable, ya que la LAU permite la actualización anual de la renta.
+
+4. **Abusividad**: La actualización semanal de la renta podría considerarse abusiva si no se justifica adecuadamente, ya que podría generar incertidumbre para el arrendatario.
+
+5. **Áreas de riesgo**: El riesgo principal es la fluctuación del tipo de cambio si el pago se realiza en dólares, lo que podría afectar al arrendatario.
+
+6. **Términos vagos**: La cláusula no especifica cómo se calculará el equivalente en dólares, lo que podría generar ambigüedades.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, pero la práctica de actualizar la renta semanalmente podría no estar contemplada explícitamente en la normativa vigente.
+
+### 
+
+**Cuarta cláusula**
+
+1. **Texto de la cláusula**: "El pago se realizará mediante ingreso en metálico o transferencia bancaria a favor del Arrendador en la cuenta que a nombre de este último y con el nº ......................... existe en el Banco (Caja) .........., sucursal nº ..... . Dicho pago se acreditará de manera suficiente mediante el oportuno resguardo del ingreso o transferencia realizados, sin necesidad de expedir recibo alguno por parte del arrendador."
+
+2. **Resumen jurídico**: Se establece el método de pago de la renta, que puede realizarse en metálico o mediante transferencia bancaria, y se especifica que el resguardo del ingreso o transferencia será suficiente acreditación del pago.
+
+3. **Legalidad**: La cláusula es legal conforme a la normativa española, que permite el pago de la renta por transferencia bancaria o en metálico.
+
+4. **Abusividad**: No se considera abusiva, ya que establece métodos de pago comunes y aceptados.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de expedición de un recibo por parte del arrendador, lo que podría generar disputas sobre el pago.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Quinta cláusula**
+
+1. **Texto de la cláusula**: "Consecuencias del impago de la renta o de cantidades asimiladas a la renta La falta de pago y el retraso en el pago, tanto de la renta como del resto de las cantidades debidas, se consideran causas expresas de resolución del presente contrato. El arrendatario se obliga en tal caso a restituir inmediatamente el inmueble al arrendador. Expresamente se acuerda que la renta adeudada y no satisfecha generará un interés de demora anual equivalente al interés legal del dinero más dos puntos. Todos los gastos derivados de una reclamación judicial o extrajudicial por incumplimiento serán por cuenta de la parte deudora. El Arrendador comunica al Arrendatario que en caso de impago de la renta o de las cantidades asimiladas a la renta, sus datos personales podrán ser cedidos a ficheros para la evaluación de la solvencia patrimonial y crédito y a ficheros comunes para la gestión y prevención del fraude. Dicha incorporación a los citados ficheros se realizará respetando la normativa sobre protección de datos personales. Antes de la incorporación, el Arrendador enviará un requerimiento de pago al inquilino, recordando esta posible inclusión de los datos en el fichero, y tras la incorporación de los datos de impagos del Arrendatario, este recibirá una comunicación del titular del fichero, en el plazo máximo de un mes desde la inscripción de la deuda en el fichero, informándole de la incorporación de sus datos personales en el mismo y de sus derechos de acceso, rectificación, cancelación y oposición."
+
+2. **Resumen jurídico**: Se establecen las consecuencias del impago de la renta, incluyendo la resolución del contrato, la obligación de restitución del inmueble, el interés de demora y la posibilidad de incluir los datos del arrendatario en ficheros de solvencia patrimonial.
+
+3. **Legalidad**: La cláusula es legal, ya que el impago de la renta es causa de resolución del contrato según la LAU, y la inclusión en ficheros de solvencia está regulada por la normativa de protección de datos.
+
+4. **Abusividad**: No se considera abusiva, ya que las medidas son proporcionales y están reguladas por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la inclusión en ficheros de solvencia, que podría afectar la reputación crediticia del arrendatario.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Sexta cláusula**
+
+1. **Texto de la cláusula**: "El arrendatario no podrá realizar en la vivienda obras que modifiquen su configuración o la de cualquiera de sus accesorios, sin el permiso de la parte arrendadora expresado por escrito. La contravención de esta cláusula será causa de resolución del presente contrato y el arrendador podrá exigir la reposición de las cosas al estado anterior. Las obras autorizadas se realizarán a expensas del arrendatario y, al término del contrato, quedarán a beneficio de la propiedad sin generar derecho a indemnización alguna. Todas las reparaciones y obras que hayan de realizarse en la vivienda como consecuencia del uso ordinario de la misma serán por cuenta del arrendatario salvo las que legalmente le correspondan al arrendador. Este está obligado a realizar, sin derecho a elevar por ello la renta, todas las reparaciones que sean necesarias para conservar la vivienda en condiciones de habitabilidad, salvo que aquellas sean consecuencia de un deterioro imputable al arrendatario, sus dependientes o visitantes, por acción, omisión o negligencia. De acuerdo con el artículo 19.4 de la Ley de Arrendamientos Urbanos, en cualquier momento desde el inicio de la vigencia del presente contrato de arrendamiento y previo acuerdo entre arrendador y arrendatario, podrán realizarse obras de mejora en la vivienda arrendada e incrementarse la renta del contrato, sin que ello implique la interrupción del periodo de prórroga obligatoria establecido en el artículo 9 o de prórroga tácita a que se refiere el artículo 10 de la LAU. La realización por el arrendador de obras de mejora transcurridos cinco años de duración del contrato le dará derecho a elevar la renta anual en la cuantía que resulte de aplicar al capital invertido en la mejora (descontadas las subvenciones públicas obtenidas para la realización de la obra) el tipo de interés legal del dinero en el momento de la terminación de las obras incrementado en tres puntos, sin que pueda exceder el aumento del veinte por ciento de la renta vigente en aquel momento."
+
+2. **Resumen jurídico**: Se regula la realización de obras en la vivienda, prohibiendo las modificaciones sin permiso del arrendador y estableciendo las condiciones para las obras de mejora y las reparaciones necesarias.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite al arrendador exigir la reposición de la vivienda a su estado original y regular las obras de mejora.
+
+4. **Abusividad**: No se considera abusiva, ya que las condiciones son razonables y están alineadas con la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación de qué obras requieren permiso y cuáles son consideradas mejoras, lo que podría generar disputas.
+
+6. **Términos vagos**: La expresión "obras de mejora" podría ser vaga si no se especifican claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Séptima cláusula**
+
+1. **Texto de la cláusula**: "El arrendatario se compromete y obliga expresamente a: – que en la vivienda no se realicen actividades de tipo industrial o actividades molestas, insalubres, nocivas o peligrosas; – no ceder ni subarrendar la vivienda sin el permiso expreso por escrito del arrendador; – se prohíbe la tenencia de animales peligrosos en el piso, salvo previo permiso expreso por escrito del arrendador. –  ........................... La contravención de cualquiera de estas obligaciones, constatada por el arrendador, constituirá causa de resolución del contrato, al igual que el resto de las causas de resolución previstas en la ley o en el presente contrato."
+
+2. **Resumen jurídico**: Se establecen obligaciones específicas para el arrendatario, prohibiendo ciertas actividades y la cesión o subarrendamiento de la vivienda sin permiso, así como la tenencia de animales peligrosos.
+
+3. **Legalidad**: La cláusula es legal, ya que regula aspectos permitidos por la LAU y otras normativas aplicables.
+
+4. **Abusividad**: No se considera abusiva, ya que las prohibiciones son razonables y buscan proteger el uso adecuado de la vivienda.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación de qué actividades son consideradas "molestas" o "peligrosas", lo que podría generar disputas.
+
+6. **Términos vagos**: La expresión "actividades molestas" podría ser vaga si no se especifican claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Octava cláusula**
+
+1. **Texto de la cláusula**: "El Inquilino entrega en este acto al Propietario, quien declara recibirla, la cantidad de 200 EUROS, equivalente a dos semanas de renta, por concepto de fianza legal, según lo establecido en el apartado primero del Artículo 36 de la LAU para garantizar el cumplimiento de las obligaciones que asume en virtud del presente Contrato. 5.4 La fianza se actualizará en la cuantía que corresponda de manera mensual. 5.5 Garantía adicional: El Inquilino entrega en este acto un aval bancario por un importe máximo garantizado de 1.000 Euros, a primer requerimiento y como garantía de todas las responsabilidades económicas asumidas por el Inquilino en virtud del presente Contrato. El referido aval se incorpora al presente Contrato como Anexo. El/los Inquilino(s) se compromete a mantener vigente el referido Aval durante toda la vigencia del Contrato. En el momento de la firma de este contrato, el Arrendatario hace entrega del importe de una mensualidad de renta, ........ euros, en concepto de fianza legal. Además, como garantía complementaria, el arrendatario hace entrega igualmente a la firma de este contrato del importe de otras dos mensualidades de renta, ……. euros. Tanto la fianza legal como la garantía complementaria quedan establecidas en garantía de las obligaciones legales y contractuales del arrendatario. El arrendador se compromete a realizar el depósito de la fianza legal según la normativa autonómica aplicable, y entregará copia del resguardo de dicho depósito al arrendatario, a petición de este."
+
+2. **Resumen jurídico**: Se regula la entrega de la fianza legal y una garantía adicional en forma de aval bancario, estableciendo las condiciones para su mantenimiento y actualización.
+
+3. **Legalidad**: La cláusula es legal conforme al artículo 36 de la LAU, que regula la fianza en los contratos de arrendamiento.
+
+4. **Abusividad**: No se considera abusiva, ya que las garantías adicionales son comunes y están permitidas por la normativa vigente.
+
+5. **Áreas de riesgo**: El riesgo principal es la actualización mensual de la fianza, que podría generar disputas si no se justifica adecuadamente.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Novena cláusula**
+
+1. **Texto de la cláusula**: "El arrendatario reconoce la veracidad y certeza del inventario que del mobiliario de la vivienda se relaciona al final del contrato, y se compromete a devolver la posesión de la vivienda y todo el mobiliario cuando corresponda, en su integridad y en perfecto estado de conservación. Se conviene la afección de la fianza que se entrega en el acto de la firma como garantía del cumplimiento de esta obligación, y además se compromete el arrendatario a entregar al propietario el importe de los daños causados que sobrepasen esta cuantía. En particular, el arrendatario se compromete a facilitar, al término del contrato, los trámites para modificar la titularidad de los suministros, respondiendo de los daños que pueda generar al arrendador, por ejemplo, por dar de baja alguno de los contratos sin el acuerdo escrito del arrendador."
+
+2. **Resumen jurídico**: Se establece la obligación del arrendatario de devolver la vivienda y el mobiliario en buen estado, utilizando la fianza como garantía, y se regula la responsabilidad del arrendatario en la gestión de los suministros.
+
+3. **Legalidad**: La cláusula es legal, ya que regula aspectos permitidos por la LAU y otras normativas aplicables.
+
+4. **Abusividad**: No se considera abusiva, ya que las obligaciones son razonables y buscan proteger el estado de la vivienda.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación del "perfecto estado de conservación", que podría generar disputas.
+
+6. **Términos vagos**: La expresión "perfecto estado de conservación" podría ser vaga si no se especifican claramente los criterios.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Décima cláusula**
+
+1. **Texto de la cláusula**: "En caso de venta de la vivienda arrendada, las partes acuerdan la renuncia por parte del arrendatario al derecho de adquisición preferente, de acuerdo con la previsión establecida en el artículo 25.8 de la Ley de Arrendamientos Urbanos. El arrendador se compromete a comunicar al arrendatario su intención de vender la vivienda con una antelación mínima de treinta días a la fecha de formalización del contrato de compraventa. Realizada la venta, el arrendatario tendrá los derechos que le reconoce la LAU para estos supuestos, quedando el adquirente subrogado en los derechos y obligaciones del arrendador durante los cinco primeros años de vigencia del contrato."
+
+2. **Resumen jurídico**: Se regula la renuncia del arrendatario al derecho de adquisición preferente en caso de venta de la vivienda, estableciendo la obligación del arrendador de notificar la venta con antelación.
+
+3. **Legalidad**: La cláusula es legal conforme al artículo 25 de la LAU, que permite la renuncia al derecho de adquisición preferente.
+
+4. **Abusividad**: No se considera abusiva, ya que la renuncia es permitida por la normativa vigente y se establece un plazo razonable de notificación.
+
+5. **Áreas de riesgo**: El riesgo principal es la falta de notificación en el plazo establecido, lo que podría generar disputas.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
+
+### 
+
+**Undécima cláusula**
+
+1. **Texto de la cláusula**: "El Propietario NO se obliga a realizar las reparaciones que fueran necesarias en el Inmueble para conservar la vivienda en condiciones de habitabilidad para el uso convenido. El Inquilino será el único responsable de cuantos daños, tanto físicos como materiales puedan ocasionarse a terceros, como consecuencia, directa e indirecta de su habitabilidad en el Inmueble, eximiendo de toda responsabilidad al Propietario, incluso por daños derivados de instalaciones para servicios o suministros. A efectos aclaratorios, el Inquilino deberá realizar todas aquellas reparaciones necesarias para el mantenimiento y correcto funcionamiento de los electrodomésticos y/o muebles del Inmueble cuando los desperfectos hayan sido ocasionados por el Inquilino o sus ocupantes, ya sea por un uso negligente o por el desgaste derivado del uso habitual y diligente de dichos elementos. En consecuencia, el Inquilino declara conocer el estado de los electrodomésticos y/o muebles en el momento de la entrega del Inmueble. A los efectos legales oportunos, se hace constar que a la firma del presente contrato el arrendador ha entregado al arrendatario una copia del certificado de eficiencia energética correspondiente al inmueble arrendado."
+
+2. **Resumen jurídico**: Se establece que el propietario no se obliga a realizar reparaciones para mantener la habitabilidad, siendo el inquilino responsable de los daños y reparaciones necesarias.
+
+3. **Legalidad**: La cláusula podría ser ilegal, ya que el artículo 21 de la LAU obliga al arrendador a realizar las reparaciones necesarias para conservar la vivienda en condiciones de habitabilidad.
+
+4. **Abusividad**: La cláusula podría considerarse abusiva, ya que exime al arrendador de una obligación legalmente establecida.
+
+5. **Áreas de riesgo**: El riesgo principal es la posible nulidad de la cláusula por contravenir la normativa de la LAU.
+
+6. **Términos vagos**: No se identifican términos vagos en esta cláusula.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, pero la cláusula podría ser objeto de interpretación judicial debido a su posible ilegalidad.
+
+### 
+
+**Decimosegunda cláusula**
+
+1. **Texto de la cláusula**: "El Inquilino no podrá realizar obras, instalaciones, ni mejoras de ningún tipo en el Inmueble sin el expreso consentimiento previo del Propietario por escrito. Especialmente, se requerirá el consentimiento escrito del Propietario para: a) la instalación de cualquier electrodoméstico, mueble o aparato de aire acondicionado adherido al Inmueble; y b) realizar cualquier tipo de alteraciones en las paredes, azulejos y baldosas del Inmueble (en particular, cualquier tipo de orificios o ranuras de forma manual o con herramientas mecánicas). Que, en todo caso, habrá de cumplir con la normativa de la Comunidad de Propietarios. A la terminación del presente Contrato de arrendamiento, las obras y mejoras quedarán en beneficio del Inmueble, sin derecho del Inquilino a resarcirse de ellas, salvo pacto en contrario. En el supuesto de que el Inquilino realizase obras sin el permiso previo del Propietario, éste podrá instar la resolución del presente Contrato y exigir al Inquilino la reposición del Inmueble a su estado originario."
+
+2. **Resumen jurídico**: Se prohíbe al inquilino realizar obras sin el consentimiento del propietario, estableciendo las condiciones para las obras y mejoras y las consecuencias de su incumplimiento.
+
+3. **Legalidad**: La cláusula es legal conforme a la LAU, que permite al arrendador regular las obras en la vivienda.
+
+4. **Abusividad**: No se considera abusiva, ya que las condiciones son razonables y buscan proteger el estado de la vivienda.
+
+5. **Áreas de riesgo**: El riesgo principal es la interpretación de qué obras requieren permiso y cuáles son consideradas mejoras, lo que podría generar disputas.
+
+6. **Términos vagos**: La expresión "obras y mejoras" podría ser vaga si no se especifican claramente.
+
+7. **Lagunas jurídicas**: No se identifican lagunas jurídicas, ya que la cláusula está bien definida y conforme a la normativa vigente.
