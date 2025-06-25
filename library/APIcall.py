@@ -65,11 +65,11 @@ def contract_analysis(
 
         Responde solo con este formato:
 
-        Legalidad: L o I  
-        Abusividad: S o N  
-        Áreas de riesgo: S o N  
-        Vaguedades: S o N  
-        Lagunas: S o N
+        legality: L o I  
+        abusiveness: Y o N  
+        risk_areas: Y o N  
+        vagueness: Y o N  
+        legal_gaps: Y o N
 
         No incluyas explicaciones, solo la clasificación.
             """
@@ -132,8 +132,8 @@ def contract_analysis(
                 if label_key not in section:
                     section[label_key] = {}
 
-                section[label_key]["respuesta_llm"] = response
-                section[label_key]["redaccion_alternativa"] = redraft
+                section[label_key]["llm_response"] = response
+                section[label_key]["alternative_drafting"] = redraft
 
                 # Structured classification with GPT-4o on each model's response
                 try:
@@ -149,11 +149,11 @@ def contract_analysis(
                     struct_response = f"[ERROR EN CLASIFICACIÓN: {e}]"
 
                 labels = {
-                    "legalidad": "",
-                    "abusividad": "",
-                    "áreas de riesgo": "",
-                    "vaguedades": "",
-                    "lagunas": ""
+                    "legality": "",
+                    "abusiveness": "",
+                    "risk_areas": "",
+                    "vagueness": "",
+                    "legal_gaps": ""
                 }
 
                 for line in struct_response.strip().split("\n"):
@@ -172,3 +172,60 @@ def contract_analysis(
         json.dump(contracts, f, indent=4, ensure_ascii=False)
 
     print(f"Contracts analyzed. Saved to '{output_json}'.")
+
+    
+
+
+import json
+
+def check_discrepancies(contracts):
+    for region, sections in contracts.items():
+        for section in sections:
+            review = []
+
+            expected_label = section.get("label_expected")
+            if not expected_label:
+                continue  # No reference available for comparison
+
+            # Check if any field in label_expected is empty
+            if any(value == "" for value in expected_label.values()):
+                continue  # Skip this section if any expected label field is empty
+
+            # Iterate over all keys starting with label_ (except label_expected)
+            for label_key, content in section.items():
+                if label_key.startswith("label_") and label_key != "label_expected":
+                    for field, expected_value in expected_label.items():
+                        actual_value = content.get(field)
+                        if actual_value != expected_value:
+                            review.append(f"{field.capitalize()} mismatch in {label_key}")
+
+            # Save discrepancies if any
+            if review:
+                section["review"] = review
+            elif "review" in section:
+                # Remove previous discrepancies if no longer present
+                del section["review"]
+
+    return contracts
+
+
+def run_discrepancy_check(json_path: str, output_path: str = "revised.json"):
+    """
+    Loads a JSON file, applies discrepancy checking, and saves the result.
+
+    Args:
+        json_path (str): Path to the input JSON file.
+        output_path (str): Path where the updated JSON file will be saved.
+    """
+    # Load JSON
+    with open(json_path, "r", encoding="utf-8") as file:
+        contracts = json.load(file)
+
+    # Apply the check
+    updated_contracts = check_discrepancies(contracts)
+
+    # Save the result
+    with open(output_path, "w", encoding="utf-8") as file:
+        json.dump(updated_contracts, file, ensure_ascii=False, indent=4)
+
+    print("Discrepancy check completed.")
