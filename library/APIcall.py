@@ -15,7 +15,6 @@ def _init_openai_client(api_key: str, base_url: Optional[str] = None):
 
 def _init_gemini_client(api_key: str):
     genai.configure(api_key=api_key)
-    # Para Gemini no hace falta un "client" estadoful; guardamos el módulo.
     return genai
 
 
