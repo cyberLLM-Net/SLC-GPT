@@ -114,8 +114,8 @@ def analyze_benchmarks_from_json(
         # Collect all "respuesta_llm" texts for the current model
         for region, sections in json_data.items():
             for section in sections:
-                if label_key in section and "respuesta_llm" in section[label_key]:
-                    text = section[label_key]["respuesta_llm"]
+                if label_key in section and "llm_response" in section[label_key]:
+                    text = section[label_key]["llm_response"]
                     if text and text.strip():
                         model_texts.append(text)
 
@@ -222,8 +222,8 @@ def analyze_stability(
 
                     for model_name in models_to_evaluate:
                         label_key = f"label_{model_name}"
-                        if label_key in section and "respuesta_llm" in section[label_key]:
-                            response = section[label_key]["respuesta_llm"]
+                        if label_key in section and "llm_response" in section[label_key]:
+                            response = section[label_key]["llm_response"]
                             if response and response.strip():
                                 grouped_data[key_text][model_name].append(response)
 
@@ -316,7 +316,7 @@ def compute_metrics_from_json(
         models_to_evaluate (List[str]): List of model names to evaluate
                                         (e.g., ["gpt4", "DS", "GPT4o"]).
         categories (List[str]): List of label categories to evaluate
-                                (e.g., ["legalidad", "abusividad"]).
+                                (e.g., ["legality", "abusiveness"]).
 
     Returns:
         Tuple[Dict, Dict, Dict]: A tuple containing:
@@ -367,12 +367,12 @@ def compute_metrics_from_json(
                     predicted_value = label_predicted.get(category, "")
 
                     # Convert labels to binary format (1 for positive, 0 for negative)
-                    if category == "legalidad":
+                    if category == "legality":
                         y_true.append(1 if true_value == "L" else 0)
                         y_pred.append(1 if predicted_value == "L" else 0)
                     else:  # For abusividad, riesgo, vaguedades, lagunas
-                        y_true.append(1 if true_value == "S" else 0)
-                        y_pred.append(1 if predicted_value == "S" else 0)
+                        y_true.append(1 if true_value == "Y" else 0)
+                        y_pred.append(1 if predicted_value == "Y" else 0)
 
         # If we have data for this model, compute metrics
         if y_true and y_pred:
